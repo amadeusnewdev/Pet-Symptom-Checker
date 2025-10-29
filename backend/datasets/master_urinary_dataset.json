@@ -1,0 +1,1855 @@
+{
+  "metadata": {
+    "category": "urinary",
+    "total_entries": 75,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "u1h1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A 5-year-old Labrador Retriever exhibits increased urination frequency, especially during the hot summer months.  He drinks more water than usual.",
+      "indian_climate_factors": "Dehydration from heat exacerbates frequent urination.",
+      "breed_predisposition": "Labradors' tendency towards obesity can contribute to urinary issues.",
+      "age_considerations": "Adult dogs are more susceptible to urinary tract infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How much water is the dog drinking?",
+        "Is the urine cloudy or discolored?",
+        "Are there any other symptoms like straining?"
+      ],
+      "home_care_india": "Ensure access to fresh, cool water; monitor water intake.",
+      "vet_triggers": "If frequency increases significantly or urine changes color.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse in summer due to heat and dehydration.",
+      "prevention_tips": "Maintain a healthy weight; provide adequate hydration.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "u1h2",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A senior German Shepherd shows blood in urine, appearing as reddish or brown discoloration.  He's lethargic and has reduced appetite.",
+      "indian_climate_factors": "Heat stress can worsen kidney problems, leading to hematuria.",
+      "breed_predisposition": "Larger breeds like German Shepherds are prone to kidney issues.",
+      "age_considerations": "Common in older dogs due to age-related kidney degeneration.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the dog drinking more or less water?",
+        "Any vomiting or weight loss?"
+      ],
+      "home_care_india": "Provide a quiet, cool environment; offer small, frequent meals.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More pronounced during monsoon due to potential bacterial infections.",
+      "prevention_tips": "Regular checkups for senior dogs; monitor water intake.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "u1h3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A young Bulldog puppy strains to urinate, producing only small amounts.  He cries during urination.",
+      "indian_climate_factors": "High humidity can exacerbate urinary tract infections in puppies.",
+      "breed_predisposition": "Bulldogs' short snouts can predispose them to urinary problems.",
+      "age_considerations": "Common in puppies due to underdeveloped urinary tracts.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often does the puppy try to urinate?",
+        "Is there any licking of the genital area?",
+        "Any changes in behavior?"
+      ],
+      "home_care_india": "Keep the puppy warm and dry; provide easy access to water.",
+      "vet_triggers": "If straining continues or no urine is produced.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon due to dampness.",
+      "prevention_tips": "Maintain hygiene; prevent exposure to contaminated areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "An adult Labrador Retriever shows signs of lethargy, increased thirst, and weight loss, possibly indicating kidney disease.",
+      "indian_climate_factors": "Heat and dehydration can worsen kidney function.",
+      "breed_predisposition": "Some genetic predisposition in certain lines of Labradors and Golden Retrievers.",
+      "age_considerations": "More common in middle-aged and older dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Any changes in appetite or water intake?",
+        "Is the dog vomiting or having diarrhea?",
+        "Any changes in urination frequency or amount?"
+      ],
+      "home_care_india": "Provide a cool, comfortable environment; offer small, frequent meals of easily digestible food.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during summer due to dehydration.",
+      "prevention_tips": "Annual blood work for early detection; maintain hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h5",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A senior German Shepherd is urinating more frequently, especially at night.  Urine appears normal.",
+      "indian_climate_factors": "Increased water intake due to heat can lead to frequent urination.",
+      "breed_predisposition": "German Shepherds are prone to urinary tract infections and kidney disease.",
+      "age_considerations": "Common in senior dogs due to age-related changes.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often is the dog urinating?",
+        "Is the dog straining to urinate?",
+        "Any accidents in the house?"
+      ],
+      "home_care_india": "Provide easy access to water and designated potty areas.",
+      "vet_triggers": "If frequency increases dramatically or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during summer due to increased water intake.",
+      "prevention_tips": "Regular vet checkups; maintain hydration.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "u1h6",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A middle-aged Bulldog has noticed blood in his urine after a walk in a dusty area.",
+      "indian_climate_factors": "Dust and pollutants can irritate the urinary tract.",
+      "breed_predisposition": "Bulldogs' susceptibility to urinary tract infections.",
+      "age_considerations": "Can occur at any age, but more common in adults.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice the blood?",
+        "Was the dog exposed to any irritants?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Keep the dog hydrated; avoid walking in dusty areas.",
+      "vet_triggers": "If blood persists or other symptoms develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty seasons.",
+      "prevention_tips": "Avoid dusty areas; ensure clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h7",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A young Labrador Retriever puppy is struggling to urinate, possibly due to urinary stones.",
+      "indian_climate_factors": "High temperatures can contribute to dehydration, increasing stone formation.",
+      "breed_predisposition": "Labradors are prone to urinary tract infections and stones.",
+      "age_considerations": "More common in young dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the puppy straining?",
+        "Any crying or discomfort during urination?"
+      ],
+      "home_care_india": "Provide easy access to water; keep the puppy warm and comfortable.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during summer due to dehydration.",
+      "prevention_tips": "Provide balanced nutrition; ensure adequate hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h8",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "A senior Golden Retriever is showing signs of chronic kidney disease, including increased thirst and lethargy.",
+      "indian_climate_factors": "Heat stress can exacerbate kidney disease.",
+      "breed_predisposition": "Golden Retrievers have a higher incidence of kidney disease.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have you noticed these symptoms?",
+        "Any changes in appetite or weight?",
+        "Is the dog drinking excessive amounts of water?"
+      ],
+      "home_care_india": "Provide a cool, comfortable environment; offer small, frequent meals.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to dehydration.",
+      "prevention_tips": "Regular vet checkups; monitor water intake.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h9",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A middle-aged German Shepherd is urinating frequently, possibly due to a urinary tract infection.",
+      "indian_climate_factors": "Monsoon season increases humidity, leading to bacterial growth.",
+      "breed_predisposition": "German Shepherds are susceptible to UTIs.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is the dog urinating?",
+        "Is the urine cloudy or discolored?",
+        "Any straining or discomfort?"
+      ],
+      "home_care_india": "Ensure clean water; keep the dog dry.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Maintain hygiene; provide clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A young Bulldog puppy has blood in his urine after ingesting contaminated food from the street.",
+      "indian_climate_factors": "Street food can be contaminated, leading to infections.",
+      "breed_predisposition": "Bulldogs' predisposition to urinary issues.",
+      "age_considerations": "Common in puppies due to immature immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the puppy eat?",
+        "When did you notice the blood?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Monitor the puppy closely; avoid street food.",
+      "vet_triggers": "If blood persists or other symptoms develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during warmer months when food spoils faster.",
+      "prevention_tips": "Avoid street food; ensure safe food sources.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h11",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "An adult Labrador Retriever is having difficulty urinating, possibly due to a blockage.",
+      "indian_climate_factors": "Heat can lead to dehydration, increasing the risk of blockages.",
+      "breed_predisposition": "Labradors are prone to urinary stones.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the dog straining?",
+        "Any crying or discomfort?"
+      ],
+      "home_care_india": "Keep the dog calm and comfortable.",
+      "vet_triggers": "Immediate veterinary care is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during summer due to dehydration.",
+      "prevention_tips": "Ensure adequate hydration; provide balanced nutrition.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "u1h12",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "A senior Golden Retriever shows signs of kidney failure, including severe lethargy, loss of appetite, and weight loss.",
+      "indian_climate_factors": "High temperatures can worsen kidney function.",
+      "breed_predisposition": "Golden Retrievers are susceptible to kidney disease.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long have these symptoms been present?",
+        "Any changes in urination?",
+        "Is the dog drinking excessively?"
+      ],
+      "home_care_india": "Keep the dog comfortable and warm.",
+      "vet_triggers": "Immediate veterinary care is essential.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during summer.",
+      "prevention_tips": "Regular vet checkups; monitor kidney function.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "u1h13",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A young German Shepherd puppy is urinating frequently, possibly due to diabetes insipidus.",
+      "indian_climate_factors": "Heat can exacerbate dehydration.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in puppies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How much water is the puppy drinking?",
+        "Is the urine diluted?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Monitor water intake; ensure access to fresh water.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during summer.",
+      "prevention_tips": "Regular vet checkups; monitor hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h14",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "An adult Bulldog shows intermittent blood in urine, possibly due to bladder stones.",
+      "indian_climate_factors": "High temperatures can contribute to dehydration, increasing stone formation.",
+      "breed_predisposition": "Bulldogs' susceptibility to urinary stones.",
+      "age_considerations": "More common in adult dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often do you notice blood in the urine?",
+        "Any straining or discomfort?",
+        "Any changes in water intake?"
+      ],
+      "home_care_india": "Monitor urine; provide clean water.",
+      "vet_triggers": "If blood becomes more frequent or other symptoms develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer.",
+      "prevention_tips": "Provide balanced nutrition; ensure adequate hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h15",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A senior Labrador Retriever is experiencing difficulty urinating, possibly due to prostate enlargement.",
+      "indian_climate_factors": "Heat can worsen urinary issues.",
+      "breed_predisposition": "Common in older male dogs of larger breeds.",
+      "age_considerations": "More common in senior male dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the dog straining?",
+        "Any licking of the genital area?"
+      ],
+      "home_care_india": "Keep the dog comfortable; monitor urination.",
+      "vet_triggers": "If difficulty persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during summer.",
+      "prevention_tips": "Regular vet checkups for senior dogs; maintain hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1h45g7",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A young Poodle experiencing unusually frequent urination, especially at night.  Increased thirst noted.",
+      "indian_climate_factors": "Increased water intake due to heat exacerbates the condition.",
+      "breed_predisposition": "Poodles, while generally healthy, can be prone to urinary tract infections.",
+      "age_considerations": "More common in puppies due to developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often is your dog urinating?",
+        "Is there any straining or discomfort?",
+        "Has your dog's water intake increased?"
+      ],
+      "home_care_india": "Ensure access to clean, fresh water. Monitor urine output.",
+      "vet_triggers": "If frequency increases significantly or blood appears in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in summer due to dehydration.",
+      "prevention_tips": "Provide ample clean water, avoid sugary treats.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "g9h2y7t",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "An adult Beagle exhibiting hematuria (blood in urine), possibly due to urinary stones exacerbated by consuming contaminated food.",
+      "indian_climate_factors": "Monsoon season increases risk of bacterial infections leading to UTI.",
+      "breed_predisposition": "Beagles can be prone to urinary tract infections and stones.",
+      "age_considerations": "More common in middle-aged dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice blood in the urine?",
+        "Is there any straining?",
+        "What is your dog's diet?"
+      ],
+      "home_care_india": "Restrict activity, provide fresh water, avoid spicy food. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate vet visit due to blood in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to bacterial contamination.",
+      "prevention_tips": "Feed high-quality dog food, ensure access to clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "p3r6t8y",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Senior Rottweiler struggling to urinate, possibly due to prostate issues compounded by urban pollution.",
+      "indian_climate_factors": "Heat stress can worsen existing kidney problems.",
+      "breed_predisposition": "Rottweilers are prone to hip dysplasia, which can indirectly affect urination.",
+      "age_considerations": "Common in senior dogs due to age-related issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any straining or crying?",
+        "Has there been a change in water intake?"
+      ],
+      "home_care_india": "Keep the dog calm, provide easy access to water, avoid strenuous activity.",
+      "vet_triggers": "Inability to urinate, significant discomfort.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to dehydration and heat stress.",
+      "prevention_tips": "Maintain a healthy weight, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "x5c7v9b",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "A Siberian Husky showing signs of kidney disease (lethargy, increased thirst), potentially linked to dusty conditions.",
+      "indian_climate_factors": "Dust inhalation can irritate the kidneys.",
+      "breed_predisposition": "Siberian Huskies are relatively hardy but can still suffer from kidney problems.",
+      "age_considerations": "More prevalent in older dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Has your dog's thirst increased?",
+        "Is your dog lethargic or losing weight?",
+        "Is your dog's urine more or less than usual?"
+      ],
+      "home_care_india": "Provide fresh water, monitor food intake, keep the dog cool.",
+      "vet_triggers": "Immediate vet visit due to potential kidney failure.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust aggravates the condition during dry months.",
+      "prevention_tips": "Provide clean water, avoid dusty areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "a2s4d6f",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Both a Poodle and Beagle puppy exhibiting frequent urination, possibly due to a urinary tract infection.",
+      "indian_climate_factors": "High humidity can promote bacterial growth.",
+      "breed_predisposition": "Both breeds can be susceptible to UTIs.",
+      "age_considerations": "Common in puppies due to immature immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often are they urinating?",
+        "Is there any straining?",
+        "Is there any blood in the urine?"
+      ],
+      "home_care_india": "Ensure access to clean water, monitor urine. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon due to humidity.",
+      "prevention_tips": "Keep them clean and dry, provide clean water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "z8x9c1v",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Adult Rottweiler with blood in urine, potentially due to bladder stones.",
+      "indian_climate_factors": "Heat can lead to dehydration and stone formation.",
+      "breed_predisposition": "Rottweilers can be prone to urinary stones.",
+      "age_considerations": "Common in adult dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice blood?",
+        "Is there pain or straining?",
+        "What is the dog's diet?"
+      ],
+      "home_care_india": "Provide fresh water, monitor urine, avoid strenuous activity.",
+      "vet_triggers": "Persistent blood in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in summer due to dehydration.",
+      "prevention_tips": "Maintain a healthy weight, provide quality food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "b7n8m9p",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Senior Siberian Husky with difficulty urinating, possibly due to prostate problems.",
+      "indian_climate_factors": "Heat can worsen prostate issues.",
+      "breed_predisposition": "While less common, Huskies can experience prostate problems.",
+      "age_considerations": "More common in senior male dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been going on?",
+        "Is there straining or pain?",
+        "Is the urine stream weak?"
+      ],
+      "home_care_india": "Provide easy access to water, keep warm.",
+      "vet_triggers": "Inability to urinate, significant discomfort.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to heat.",
+      "prevention_tips": "Regular vet checkups, especially for senior dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "q4w5e6r",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Young Poodle showing signs of kidney issues, possibly due to a congenital condition.",
+      "indian_climate_factors": "Heat can stress the kidneys.",
+      "breed_predisposition": "While less common, Poodles can still develop kidney problems.",
+      "age_considerations": "Can occur at any age, but more concerning in young dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "Has your dog been drinking more water?",
+        "Has your dog lost weight?"
+      ],
+      "home_care_india": "Provide fresh water, monitor food intake.",
+      "vet_triggers": "Immediate vet visit.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress worsens the condition in summer.",
+      "prevention_tips": "Regular vet checkups, genetic testing if possible.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "t7y8u9i",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "rottweiler"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Both a Beagle and Rottweiler experiencing frequent urination, potentially due to diabetes.",
+      "indian_climate_factors": "Heat can increase thirst and urination.",
+      "breed_predisposition": "Both breeds can be susceptible to diabetes.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there increased thirst?",
+        "Is there weight loss?",
+        "Is there increased appetite?"
+      ],
+      "home_care_india": "Monitor food intake, provide clean water.",
+      "vet_triggers": "Immediate vet visit for testing and management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to increased thirst.",
+      "prevention_tips": "Regular vet checkups, maintain healthy weight.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "o0p1q2a",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Siberian Husky with blood in urine, possibly due to a urinary tract infection from contaminated water.",
+      "indian_climate_factors": "Contaminated water sources are a risk in some areas.",
+      "breed_predisposition": "Huskies can get UTIs.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice blood?",
+        "Is there any pain or straining?",
+        "Does your dog drink from puddles?"
+      ],
+      "home_care_india": "Provide clean water only, monitor urine.",
+      "vet_triggers": "Persistent blood in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in monsoon due to water contamination.",
+      "prevention_tips": "Provide clean water, avoid puddles.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "l3k4j5h",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Both a Poodle and Beagle showing difficulty urinating, possibly due to bladder stones.",
+      "indian_climate_factors": "Heat can contribute to dehydration and stone formation.",
+      "breed_predisposition": "Both breeds are susceptible to bladder stones.",
+      "age_considerations": "More common in adult and senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there straining?",
+        "Is the urine stream weak?"
+      ],
+      "home_care_india": "Provide fresh water, monitor urine output.",
+      "vet_triggers": "Inability to urinate, significant straining.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in summer due to dehydration.",
+      "prevention_tips": "Provide quality food, ensure hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "m6n7b8v",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Senior Rottweiler with chronic kidney disease, possibly aggravated by poor diet.",
+      "indian_climate_factors": "Heat stress can worsen kidney function.",
+      "breed_predisposition": "Rottweilers can be prone to kidney issues.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Has your dog been drinking more water?",
+        "Is your dog lethargic?",
+        "Has your dog lost weight?"
+      ],
+      "home_care_india": "Provide fresh water, special diet as recommended by vet.",
+      "vet_triggers": "Immediate vet visit for management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to heat stress.",
+      "prevention_tips": "High-quality diet, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "c9d0e1f",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky",
+        "beagle"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Both a Siberian Husky and Beagle puppy with frequent urination, possibly due to a simple UTI.",
+      "indian_climate_factors": "Humidity can promote bacterial growth.",
+      "breed_predisposition": "Both breeds can be prone to UTIs.",
+      "age_considerations": "Common in puppies.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often is the urination?",
+        "Is there any straining?",
+        "Is there any blood in the urine?"
+      ],
+      "home_care_india": "Ensure clean water, monitor urine.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in monsoon due to humidity.",
+      "prevention_tips": "Keep them clean and dry, provide clean water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "s2t3r4w",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Adult Poodle with intermittent blood in urine, possibly due to bladder inflammation.",
+      "indian_climate_factors": "Dust and pollution can irritate the urinary tract.",
+      "breed_predisposition": "Poodles can be susceptible to bladder inflammation.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How often is the blood present?",
+        "Is there any pain or discomfort?",
+        "What is the dog's diet?"
+      ],
+      "home_care_india": "Provide clean water, monitor urine, avoid irritants.",
+      "vet_triggers": "Persistent blood in urine, increased frequency.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in dry seasons due to dust.",
+      "prevention_tips": "Avoid dusty areas, provide clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u5i6o7p",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Both a Rottweiler and Siberian Husky showing difficulty urinating, possibly due to urinary tract obstruction.",
+      "indian_climate_factors": "Heat can cause dehydration, worsening obstruction.",
+      "breed_predisposition": "Both breeds can be prone to urinary tract issues.",
+      "age_considerations": "Can occur at any age, more serious in seniors.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any straining or crying?",
+        "Is there any blood in the urine?"
+      ],
+      "home_care_india": "Keep the dog calm, provide easy access to water.",
+      "vet_triggers": "Immediate vet visit due to potential blockage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens in summer due to dehydration.",
+      "prevention_tips": "Regular vet checkups, maintain hydration.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_frequent_urination_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A 5-year-old dachshund exhibits increased urinary frequency, particularly during the hot and humid summer months.  He's also drinking more water.",
+      "indian_climate_factors": "Heat exacerbates dehydration leading to more frequent urination.",
+      "breed_predisposition": "Dachshunds, with their long backs, are prone to spinal issues that can affect bladder control.",
+      "age_considerations": "Adult dogs are more susceptible to bladder infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How much water is he drinking?",
+        "Is the urine cloudy or discolored?",
+        "Has there been any change in his diet?"
+      ],
+      "home_care_india": "Ensure access to cool, clean water; monitor urine output; avoid spicy foods.",
+      "vet_triggers": "If frequency increases significantly or blood appears in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent urination during summer and less during winter.",
+      "prevention_tips": "Regular exercise, balanced diet, and prompt veterinary care for any suspected infection.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A senior Boxer presents with hematuria, particularly noticeable after strenuous exercise in dusty conditions.",
+      "indian_climate_factors": "Dust inhalation can irritate the urinary tract.",
+      "breed_predisposition": "Boxers are prone to certain urinary tract cancers.",
+      "age_considerations": "Older dogs are more likely to develop urinary tract issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the blood in urine start?",
+        "Is the dog straining to urinate?",
+        "Any history of urinary tract infections?"
+      ],
+      "home_care_india": "Keep the dog hydrated; avoid strenuous activity; provide a clean environment.",
+      "vet_triggers": "Immediate veterinary attention is needed due to blood presence.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during dusty months.",
+      "prevention_tips": "Regular checkups, especially for senior Boxers, and minimizing exposure to dust.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A young Border Collie struggles to urinate, straining and crying; found wandering near a construction site.",
+      "indian_climate_factors": "Exposure to pollutants and construction debris can cause urinary tract irritation.",
+      "breed_predisposition": "Border Collies are generally hardy, but environmental factors can affect them.",
+      "age_considerations": "Young dogs can develop urinary tract infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any visible straining?",
+        "Any changes in urination posture?"
+      ],
+      "home_care_india": "Keep the dog calm; ensure access to clean water; avoid stressful situations.",
+      "vet_triggers": "Inability to urinate; continuous straining.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon season due to increased humidity and bacterial growth.",
+      "prevention_tips": "Regular deworming, clean water, and avoiding exposure to contaminated areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_kidney_issues_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "An older Australian Shepherd shows signs of lethargy, increased thirst, and weight loss; diet consists primarily of leftover rice and dal.",
+      "indian_climate_factors": "Poor diet and dehydration due to heat can stress kidneys.",
+      "breed_predisposition": "While not specifically predisposed, poor diet can affect any breed.",
+      "age_considerations": "Kidney issues are more common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have these symptoms been present?",
+        "What is the dog's diet?",
+        "Any history of kidney problems?"
+      ],
+      "home_care_india": "Provide fresh water; consult a vet for a suitable diet; avoid excessive heat.",
+      "vet_triggers": "Lethargy, weight loss, increased thirst; immediate veterinary attention.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dehydration worsens during summer, exacerbating kidney issues.",
+      "prevention_tips": "High-quality dog food, regular vet checkups, and hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_frequent_urination_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A young dachshund-boxer mix exhibits frequent urination, especially at night, with slightly cloudy urine.",
+      "indian_climate_factors": "Increased humidity can promote bacterial growth.",
+      "breed_predisposition": "Mixed breed, increased risk of inherited urinary issues from parent breeds.",
+      "age_considerations": "Urinary tract infections are common in puppies.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the puppy urinate?",
+        "Is there any straining?",
+        "Any accidents in the house?"
+      ],
+      "home_care_india": "Clean bedding, frequent potty breaks, and monitor water intake.",
+      "vet_triggers": "If symptoms worsen or urine becomes significantly cloudy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon.",
+      "prevention_tips": "Cleanliness, proper diet, and regular vet checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "An adult Border Collie has intermittent blood in urine, coinciding with periods of heavy exercise during the monsoon season.",
+      "indian_climate_factors": "Monsoon season brings increased humidity and potential for bacterial infections.",
+      "breed_predisposition": "Border Collies are active; strenuous activity can sometimes cause minor urinary irritation.",
+      "age_considerations": "Adult dogs can experience occasional urinary issues.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How often does the blood appear?",
+        "Is there any pain or straining?",
+        "What is the dog's exercise routine?"
+      ],
+      "home_care_india": "Rest, hydration, and monitor urine.",
+      "vet_triggers": "Persistent blood in urine or other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Moderate exercise, clean water, and regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A senior Australian Shepherd is straining to urinate, producing only small amounts; lives in an urban area with high air pollution.",
+      "indian_climate_factors": "Air pollution can irritate the urinary tract.",
+      "breed_predisposition": "Age-related urinary issues.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "How much urine is produced?",
+        "Any changes in appetite or energy?"
+      ],
+      "home_care_india": "Keep the dog warm and comfortable; ensure access to clean water.",
+      "vet_triggers": "Inability to urinate; immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Air pollution can worsen during certain seasons.",
+      "prevention_tips": "Regular vet checkups, especially for senior dogs, and minimizing exposure to pollution.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_kidney_issues_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "An older dachshund shows signs of kidney failure, including lethargy, loss of appetite, and increased thirst.",
+      "indian_climate_factors": "Dehydration from heat can worsen kidney problems.",
+      "breed_predisposition": "Dachshunds are prone to certain kidney diseases.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long have these symptoms been present?",
+        "Any changes in urination?",
+        "Any history of kidney disease?"
+      ],
+      "home_care_india": "Keep the dog comfortable; ensure access to clean water.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Exacerbated by heat during summer.",
+      "prevention_tips": "Regular vet checkups, especially for senior dogs, and a healthy diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_frequent_urination_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer",
+        "australian_shepherd"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A young Boxer-Australian Shepherd mix has increased urinary frequency, particularly during the monsoon season.",
+      "indian_climate_factors": "Increased humidity can lead to urinary tract infections.",
+      "breed_predisposition": "Mixed breeds can inherit predispositions from parent breeds.",
+      "age_considerations": "Common in young dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the dog urinate?",
+        "Is the urine cloudy?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Keep the dog dry and warm; ensure access to clean water.",
+      "vet_triggers": "If symptoms worsen or other symptoms develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon.",
+      "prevention_tips": "Cleanliness, proper diet, and regular vet checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A middle-aged Border Collie has noticed blood in its urine after consuming food scraps from a street vendor.",
+      "indian_climate_factors": "Contaminated food can cause urinary tract irritation.",
+      "breed_predisposition": "Exposure to contaminated food can affect any breed.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "How long ago did it eat?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Monitor urine; avoid giving street food.",
+      "vet_triggers": "Persistent blood in urine or other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during warmer months when food spoils faster.",
+      "prevention_tips": "Avoid feeding street food; regular deworming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A senior Dachshund is experiencing difficulty urinating and shows signs of discomfort; lives in a rural area with limited access to veterinary care.",
+      "indian_climate_factors": "Heat can exacerbate urinary issues.",
+      "breed_predisposition": "Dachshunds are prone to spinal issues affecting urination.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "How much urine is produced?",
+        "Any signs of pain?"
+      ],
+      "home_care_india": "Keep the dog comfortable; ensure access to clean water.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during summer.",
+      "prevention_tips": "Regular vet checkups, especially for senior dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_kidney_issues_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "A young Boxer shows signs of kidney disease, possibly due to consuming contaminated water.",
+      "indian_climate_factors": "Access to clean water can be challenging in some areas.",
+      "breed_predisposition": "Exposure to contaminated water can affect any breed.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is the source of the dog's water?",
+        "Any other symptoms?",
+        "Any history of kidney disease?"
+      ],
+      "home_care_india": "Provide clean water; monitor hydration.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Water contamination can be worse during monsoon.",
+      "prevention_tips": "Ensure access to clean water; regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_frequent_urination_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "frequent_urination",
+      "description": "An adult Australian Shepherd has increased urinary frequency and thirst, possibly due to diabetes.",
+      "indian_climate_factors": "Heat can increase thirst and urination.",
+      "breed_predisposition": "Diabetes can affect any breed.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have these symptoms been present?",
+        "Any weight loss?",
+        "Increased appetite?"
+      ],
+      "home_care_india": "Monitor water intake; provide a balanced diet.",
+      "vet_triggers": "Persistent symptoms; veterinary checkup needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Thirst and urination increase during summer.",
+      "prevention_tips": "Regular vet checkups; balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_44",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "dachshund"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "A young Border Collie-Dachshund mix presents with blood in urine after playing in a field with high grass and potential for urinary tract irritants.",
+      "indian_climate_factors": "Plants and grasses can sometimes irritate the urinary tract.",
+      "breed_predisposition": "Mixed breed; inherited predisposition is possible.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "Where was the dog playing?",
+        "How long has the blood been present?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Monitor urine; avoid playing in areas with potential irritants.",
+      "vet_triggers": "Persistent blood in urine or other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during warmer months when plants are more prevalent.",
+      "prevention_tips": "Avoid playing in areas with potential irritants; regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_45",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A senior Boxer is experiencing difficulty urinating, likely due to urinary stones exacerbated by dehydration during a heatwave.",
+      "indian_climate_factors": "Dehydration from heat can worsen urinary stone formation.",
+      "breed_predisposition": "Boxers are prone to urinary stones.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "How much urine is produced?",
+        "Any signs of pain or straining?"
+      ],
+      "home_care_india": "Keep the dog cool and hydrated.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during summer heatwaves.",
+      "prevention_tips": "Regular vet checkups, especially for senior dogs, and ensuring adequate hydration.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_frequent_urination_46",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Persian kitten experiencing frequent urination, possibly due to urinary tract infection exacerbated by humidity.",
+      "indian_climate_factors": "High humidity increases bacterial growth, worsening UTIs.",
+      "breed_predisposition": "Persians' flat faces can predispose them to respiratory issues, potentially impacting urinary function.",
+      "age_considerations": "Kittens are more susceptible to UTIs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is the kitten urinating?",
+        "Is the urine cloudy or discolored?",
+        "Is there any straining?"
+      ],
+      "home_care_india": "Ensure clean water access, monitor litter box usage.",
+      "vet_triggers": "If urination frequency increases significantly or blood appears in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in monsoon due to humidity.",
+      "prevention_tips": "Maintain good hygiene, provide clean water, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_47",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Adult Siamese cat with blood in urine, possibly due to urinary stones aggravated by consuming hard water.",
+      "indian_climate_factors": "Hard water in many Indian regions can contribute to stone formation.",
+      "breed_predisposition": "Siamese are prone to certain kidney conditions.",
+      "age_considerations": "More common in adult cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How much blood is present in the urine?",
+        "Is there any pain evident?",
+        "Has the cat's water intake changed?"
+      ],
+      "home_care_india": "Provide fresh, filtered water; avoid giving milk.",
+      "vet_triggers": "Immediate veterinary attention needed due to blood in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Provide filtered water, balanced diet, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_48",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Senior Maine Coon exhibiting difficulty urinating, potentially due to feline lower urinary tract disease (FLUTD) worsened by dust.",
+      "indian_climate_factors": "Dust particles can irritate the urinary tract.",
+      "breed_predisposition": "Large breeds like Maine Coons are predisposed to certain urinary issues.",
+      "age_considerations": "More common in senior cats.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the cat been struggling to urinate?",
+        "Is the cat straining or crying?",
+        "Is the urine stream weak or absent?"
+      ],
+      "home_care_india": "Keep the cat calm and hydrated. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during dry, dusty seasons.",
+      "prevention_tips": "Regular vet checkups, manage stress, provide clean environment.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_kidney_issues_49",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Adult Persian and Siamese cats showing signs of chronic kidney disease, potentially linked to poor diet.",
+      "indian_climate_factors": "Heat can dehydrate cats, exacerbating kidney problems.",
+      "breed_predisposition": "Both breeds can be susceptible to kidney issues.",
+      "age_considerations": "More common in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat drinking more water than usual?",
+        "Is the cat losing weight?",
+        "Is the cat lethargic?"
+      ],
+      "home_care_india": "Provide fresh water, kidney-friendly diet.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Can worsen during hot summers.",
+      "prevention_tips": "High-quality diet, regular vet checkups, monitor water intake.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_frequent_urination_50",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Young Maine Coon with frequent urination, possibly due to a UTI from contaminated water.",
+      "indian_climate_factors": "Monsoon season can contaminate water sources.",
+      "breed_predisposition": "Maine Coons are susceptible to UTIs.",
+      "age_considerations": "More common in younger cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is the cat urinating?",
+        "Is the urine cloudy?",
+        "Is there any pain?"
+      ],
+      "home_care_india": "Provide clean, filtered water.",
+      "vet_triggers": "If symptoms worsen or persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Provide clean water, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_51",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Senior Persian cat with blood in urine, possibly due to bladder cancer.",
+      "indian_climate_factors": "Air pollution can contribute to respiratory and other cancers.",
+      "breed_predisposition": "Persians are predisposed to certain cancers.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How much blood is in the urine?",
+        "Is there any pain?",
+        "Has the cat's appetite changed?"
+      ],
+      "home_care_india": "Keep the cat comfortable and hydrated.",
+      "vet_triggers": "Immediate veterinary attention required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular vet checkups, healthy diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_52",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Adult Siamese cat with difficulty urinating, possibly due to a urinary blockage.",
+      "indian_climate_factors": "Heat stress can worsen urinary issues.",
+      "breed_predisposition": "Siamese cats can be prone to urinary tract issues.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the cat been struggling?",
+        "Is the cat straining?",
+        "Is there any blood in the urine?"
+      ],
+      "home_care_india": "Keep the cat calm and warm.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Can worsen during hot summers.",
+      "prevention_tips": "Plenty of water, stress reduction, regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_kidney_issues_53",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Kitten Maine Coon showing signs of kidney problems, possibly due to congenital issues.",
+      "indian_climate_factors": "Poor sanitation can expose kittens to infections.",
+      "breed_predisposition": "While less common, Maine Coons can still develop kidney issues.",
+      "age_considerations": "More likely in kittens due to congenital factors.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the kitten drinking excessively?",
+        "Is the kitten lethargic?",
+        "Is the kitten losing weight?"
+      ],
+      "home_care_india": "Provide clean water, a balanced diet.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular vet checkups, proper nutrition.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_frequent_urination_54",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Adult cats showing frequent urination, possibly due to diabetes insipidus.",
+      "indian_climate_factors": "Heat can exacerbate dehydration and diabetes.",
+      "breed_predisposition": "Both breeds can develop diabetes insipidus.",
+      "age_considerations": "Common in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How frequent is urination?",
+        "Is the urine clear and dilute?",
+        "Is the cat drinking excessively?"
+      ],
+      "home_care_india": "Provide access to fresh water.",
+      "vet_triggers": "Immediate veterinary care is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot weather.",
+      "prevention_tips": "Regular vet checkups, balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_55",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Senior Maine Coon with intermittent blood in urine, possibly due to bladder infection.",
+      "indian_climate_factors": "Humidity can promote bacterial growth.",
+      "breed_predisposition": "Maine Coons can be prone to urinary tract infections.",
+      "age_considerations": "More common in senior cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is blood present?",
+        "Is there any pain or straining?",
+        "Is the cat drinking more water?"
+      ],
+      "home_care_india": "Provide clean water and monitor urine.",
+      "vet_triggers": "If blood persists or increases.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Clean litter box, regular vet visits.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_56",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Kitten Persian experiencing difficulty urinating, possibly due to a urinary obstruction.",
+      "indian_climate_factors": "Heat can dehydrate, increasing the risk of blockage.",
+      "breed_predisposition": "Persian's facial structure can sometimes impact urination.",
+      "age_considerations": "More common in kittens.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the kitten straining?",
+        "Is there any crying?"
+      ],
+      "home_care_india": "Keep the kitten warm and calm.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Can worsen during hot weather.",
+      "prevention_tips": "Plenty of water, regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_kidney_issues_57",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Adult Siamese cat with chronic kidney disease, possibly due to long-term exposure to toxins.",
+      "indian_climate_factors": "Urban pollution can expose cats to harmful toxins.",
+      "breed_predisposition": "Siamese can be susceptible to kidney disease.",
+      "age_considerations": "More common in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat drinking more water?",
+        "Is the cat losing weight?",
+        "Is the cat lethargic or less active?"
+      ],
+      "home_care_india": "Provide fresh water and a kidney-friendly diet.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular vet checkups, avoid exposure to toxins.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_frequent_urination_58",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Adult Maine Coon with increased urination frequency, potentially due to diabetes.",
+      "indian_climate_factors": "Heat stress can exacerbate diabetes.",
+      "breed_predisposition": "Maine Coons can develop diabetes.",
+      "age_considerations": "More common in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How often is the cat urinating?",
+        "Is the urine excessively dilute?",
+        "Is the cat excessively hungry or thirsty?"
+      ],
+      "home_care_india": "Provide access to fresh water, monitor food intake.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot weather.",
+      "prevention_tips": "Regular vet checkups, balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "uri_blood_in_urine_59",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Street Persian cat with blood in urine, possibly due to trauma or infection.",
+      "indian_climate_factors": "Street cats are exposed to various infections and injuries.",
+      "breed_predisposition": "Persians are prone to certain infections.",
+      "age_considerations": "Can affect cats of any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there any visible injury?",
+        "Is the cat in pain?",
+        "Is there any other unusual behavior?"
+      ],
+      "home_care_india": "Keep the cat warm and quiet.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular deworming, vaccinations, and injury prevention.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "uri_difficulty_urinating_60",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese",
+        "maine_coon"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Adult Siamese and Maine Coon cats experiencing difficulty urinating, possibly due to stress from environmental changes.",
+      "indian_climate_factors": "Monsoon season can cause stress due to flooding and displacement.",
+      "breed_predisposition": "Both breeds can be sensitive to stress.",
+      "age_considerations": "Can affect cats of any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Has there been any change in the environment?",
+        "Is the cat stressed?",
+        "Is there any straining or pain?"
+      ],
+      "home_care_india": "Provide a safe and quiet environment.",
+      "vet_triggers": "If difficulty urinating persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to stress.",
+      "prevention_tips": "Provide a stable environment, reduce stress.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_1",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "frequent_urination",
+      "description": "A British Shorthair kitten exhibiting frequent urination, especially at night.  Appears otherwise healthy.",
+      "indian_climate_factors": "Increased fluid intake due to heat could exacerbate the frequency.",
+      "breed_predisposition": "British Shorthairs are generally hardy, but urinary tract infections can still occur.",
+      "age_considerations": "More common in kittens due to developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often is the kitten urinating?",
+        "Is the urine cloudy or discolored?",
+        "Is there any straining?"
+      ],
+      "home_care_india": "Ensure access to fresh, clean water.  Monitor urine output. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If frequency increases significantly or urine shows blood.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in summer due to dehydration.",
+      "prevention_tips": "Provide high-quality kitten food and ensure hydration.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "unique_id_2",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "An adult Ragdoll cat with hematuria.  Appears lethargic and less active.",
+      "indian_climate_factors": "Heat stress can weaken the immune system, increasing susceptibility to infections.",
+      "breed_predisposition": "Ragdolls, while generally healthy, can be prone to certain urinary issues.",
+      "age_considerations": "More common in middle-aged cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the blood been present?",
+        "Is there any straining?",
+        "Has the cat's appetite changed?"
+      ],
+      "home_care_india": "Keep the cat hydrated, provide a quiet environment.",
+      "vet_triggers": "Immediate veterinary attention needed due to blood in urine.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be slightly worse during monsoon due to increased humidity.",
+      "prevention_tips": "Provide a balanced diet and regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_3",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "A senior Bengal cat straining to urinate, producing only small amounts.",
+      "indian_climate_factors": "Dust and pollution can irritate the urinary tract.",
+      "breed_predisposition": "Bengals, being active cats, may mask early signs of urinary issues.",
+      "age_considerations": "More common in senior cats due to age-related changes.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been going on?",
+        "Is the urine stream weak?",
+        "Is the cat licking excessively?"
+      ],
+      "home_care_india": "Keep the litter box clean and easily accessible.",
+      "vet_triggers": "Immediate veterinary care is crucial due to potential blockage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May be worsened during the hot summer months.",
+      "prevention_tips": "Regular veterinary check-ups are essential for senior Bengals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "unique_id_4",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Adult British Shorthair and Ragdoll showing signs of chronic kidney disease.",
+      "indian_climate_factors": "Heat can increase dehydration, worsening kidney function.",
+      "breed_predisposition": "Both breeds can be susceptible to kidney disease, though not specifically predisposed.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat drinking excessively?",
+        "Is the cat urinating more frequently?",
+        "Has the cat lost weight?"
+      ],
+      "home_care_india": "Provide fresh water, a kidney-friendly diet.",
+      "vet_triggers": "Immediate veterinary attention needed for management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat stress can exacerbate symptoms in summer.",
+      "prevention_tips": "Regular bloodwork to monitor kidney function.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_5",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Bengal kitten with increased urinary frequency, possibly due to urinary tract infection.",
+      "indian_climate_factors": "Monsoon season humidity can promote bacterial growth.",
+      "breed_predisposition": "Generally healthy, but infections can still occur.",
+      "age_considerations": "Common in kittens.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often is the kitten urinating?",
+        "Is the urine cloudy?",
+        "Is there any straining?"
+      ],
+      "home_care_india": "Keep the litter box clean and provide plenty of water.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Maintain good hygiene and provide clean water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "unique_id_6",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Older Ragdoll with intermittent blood in urine, possibly due to bladder stones.",
+      "indian_climate_factors": "Heat can increase mineral concentration in urine.",
+      "breed_predisposition": "Not specifically predisposed, but bladder stones can occur.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is blood present?",
+        "Is there any straining?",
+        "Has the cat's appetite changed?"
+      ],
+      "home_care_india": "Provide fresh water and a balanced diet.",
+      "vet_triggers": "Persistent blood in urine requires veterinary attention.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse in summer due to dehydration.",
+      "prevention_tips": "Regular veterinary checkups and a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_7",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Adult British Shorthair with difficulty urinating, possibly due to a urinary blockage.",
+      "indian_climate_factors": "Dehydration from heat can contribute to blockage.",
+      "breed_predisposition": "Not specifically predisposed, but blockages can occur.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the cat been straining?",
+        "Is there any urine produced?",
+        "Is the cat vocalizing?"
+      ],
+      "home_care_india": "Keep the cat warm and comfortable.",
+      "vet_triggers": "Immediate veterinary care is needed for potential blockage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common in summer due to dehydration.",
+      "prevention_tips": "Ensure adequate hydration and regular veterinary checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "unique_id_8",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal",
+        "ragdoll"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Adult Bengals and Ragdolls showing early signs of kidney disease.",
+      "indian_climate_factors": "Poor water quality can impact kidney health.",
+      "breed_predisposition": "No specific predisposition, but kidney disease is common in older cats.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cat drinking more water?",
+        "Is the cat urinating more frequently?",
+        "Has the cat lost weight?"
+      ],
+      "home_care_india": "Provide access to clean water and a kidney-friendly diet.",
+      "vet_triggers": "Persistent symptoms warrant veterinary attention.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat stress can worsen symptoms.",
+      "prevention_tips": "Regular veterinary check-ups and bloodwork.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_9",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Senior British Shorthair with increased urinary frequency and possible cystitis.",
+      "indian_climate_factors": "Dust and pollution can irritate the bladder.",
+      "breed_predisposition": "Not specifically predisposed, but cystitis can occur.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been occurring?",
+        "Is there any pain or discomfort?",
+        "Is the urine cloudy or bloody?"
+      ],
+      "home_care_india": "Provide a clean litter box and plenty of water.",
+      "vet_triggers": "If symptoms persist or worsen, or if blood is present.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during dry, dusty seasons.",
+      "prevention_tips": "Maintain good hygiene and provide clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_10",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Young Ragdoll with occasional blood in urine, possibly due to a minor urinary infection.",
+      "indian_climate_factors": "High humidity can increase bacterial growth.",
+      "breed_predisposition": "Not specifically predisposed, but infections can occur.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How often is blood present?",
+        "Is there any straining?",
+        "Is the cat acting normally?"
+      ],
+      "home_care_india": "Provide clean water and monitor the cat's condition.",
+      "vet_triggers": "Persistent blood in urine warrants veterinary attention.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during monsoon.",
+      "prevention_tips": "Maintain good hygiene and provide clean water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_11",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Adult Bengal cat with severe difficulty urinating, possibly due to a urethral obstruction.",
+      "indian_climate_factors": "Dehydration from heat can increase the risk of obstruction.",
+      "breed_predisposition": "Not specifically predisposed, but obstructions can occur.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the cat been unable to urinate?",
+        "Is the cat vocalizing in pain?",
+        "Is the abdomen distended?"
+      ],
+      "home_care_india": "Keep the cat warm and quiet.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common in summer due to dehydration.",
+      "prevention_tips": "Ensure adequate hydration and regular veterinary checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "unique_id_12",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "bengal"
+      ],
+      "symptom": "kidney_conditions",
+      "description": "Senior British Shorthair and Bengal showing advanced signs of chronic kidney disease.",
+      "indian_climate_factors": "Heat and humidity can exacerbate dehydration.",
+      "breed_predisposition": "No specific predisposition, but common in older cats.",
+      "age_considerations": "Primarily affects older cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat lethargic?",
+        "Has the cat lost weight?",
+        "Is the cat drinking and urinating excessively?"
+      ],
+      "home_care_india": "Provide a kidney-friendly diet and plenty of clean water.",
+      "vet_triggers": "Requires ongoing veterinary management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may worsen during hot weather.",
+      "prevention_tips": "Regular veterinary check-ups and bloodwork.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_13",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "frequent_urination",
+      "description": "Kitten Ragdoll with unusually frequent urination, possibly due to diabetes.",
+      "indian_climate_factors": "Heat can increase thirst and urination.",
+      "breed_predisposition": "Not specifically predisposed, but diabetes can occur.",
+      "age_considerations": "Can occur at any age but less common in kittens.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is the kitten urinating?",
+        "Is the kitten drinking excessively?",
+        "Has the kitten lost weight?"
+      ],
+      "home_care_india": "Monitor food intake and water consumption.",
+      "vet_triggers": "Requires veterinary diagnosis and management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be exacerbated by heat.",
+      "prevention_tips": "Regular veterinary check-ups and a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_14",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "blood_in_urine",
+      "description": "Adult Bengal cat with a single episode of blood in urine after a fight with another cat.",
+      "indian_climate_factors": "Street cats are more exposed to injury and infection.",
+      "breed_predisposition": "Not specifically predisposed, but injuries can occur.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "Was there any trauma?",
+        "Has the bleeding stopped?",
+        "Is the cat acting normally?"
+      ],
+      "home_care_india": "Monitor the cat for further bleeding.",
+      "vet_triggers": "If bleeding persists or recurs.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep indoor cats indoors and avoid fights.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "unique_id_15",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "difficulty_urinating",
+      "description": "Senior British Shorthair with mild difficulty urinating, possibly due to urethral inflammation.",
+      "indian_climate_factors": "Urban pollution can contribute to inflammation.",
+      "breed_predisposition": "Not specifically predisposed, but inflammation can occur.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any straining?",
+        "Is the urine stream weak?"
+      ],
+      "home_care_india": "Provide a clean litter box and encourage hydration.",
+      "vet_triggers": "If symptoms worsen or persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Maintain good hygiene and provide a balanced diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "uri_male_cat_blockage_emergency",
+      "species": "cats",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "male cat can't pee urinate blocked urinary blockage",
+      "description": "Male cat cannot urinate, straining in litter box with little to no urine output. Urinary blockage is life-threatening.",
+      "indian_climate_factors": "Dehydration in hot weather increases risk",
+      "breed_predisposition": "Male cats more prone than females",
+      "age_considerations": "Can affect any age",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did you last see the cat urinate?",
+        "Is the cat crying or straining?"
+      ],
+      "home_care_india": "DO NOT WAIT. This is a medical emergency. Take to vet immediately.",
+      "vet_triggers": "Straining without urination, crying in litter box",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Year-round risk",
+      "prevention_tips": "Ensure adequate water intake, wet food diet",
+      "severity": "emergency"
+    }
+  ]
+}

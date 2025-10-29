@@ -1,0 +1,812 @@
+{
+  "metadata": {
+    "category": "behavioral",
+    "total_entries": 31,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs"
+    ],
+    "breeds_covered": 8
+  },
+  "entries": [
+    {
+      "entry_id": "beh_aggression_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "aggression",
+      "description": "Labrador Retriever puppy exhibiting sudden aggression towards strangers, possibly triggered by fear due to street dog encounters.",
+      "indian_climate_factors": "Heat stress can exacerbate irritability.",
+      "breed_predisposition": "Labradors, while generally friendly, can show aggression if not properly socialized.",
+      "age_considerations": "Puppyhood is a crucial socialization period; lack thereof can lead to aggression.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent are the aggressive incidents?",
+        "What triggers the aggression?",
+        "Has the dog received proper socialization?"
+      ],
+      "home_care_india": "Controlled socialization in safe spaces, avoiding crowded areas during peak heat. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If aggression escalates or involves biting.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased aggression during monsoons due to confinement and humidity.",
+      "prevention_tips": "Early socialization with various stimuli, positive reinforcement training.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_anxiety_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "anxiety",
+      "description": "Adult Golden Retriever showing separation anxiety, excessive barking and destructive chewing when left alone.",
+      "indian_climate_factors": "Monsoon rains and associated thunder can worsen anxiety.",
+      "breed_predisposition": "Golden Retrievers are sensitive and prone to separation anxiety.",
+      "age_considerations": "Separation anxiety can manifest at any age but is common in adult dogs.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "How long is the dog left alone?",
+        "What behaviors are exhibited when alone?",
+        "Has the dog been recently traumatized?"
+      ],
+      "home_care_india": "Provide safe toys, calming music, and gradually increase alone time. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If anxiety is severe, impacting daily life, or if self-harm is observed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during thunderstorms and monsoons.",
+      "prevention_tips": "Early training to reduce dependence, creating a safe and predictable environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_excessive_barking_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "excessive_barking",
+      "description": "Senior German Shepherd barking excessively at night, possibly due to cognitive decline or discomfort.",
+      "indian_climate_factors": "Heat and humidity can cause discomfort, leading to increased barking.",
+      "breed_predisposition": "German Shepherds are known for their alertness, which can manifest as excessive barking.",
+      "age_considerations": "Common in senior dogs due to age-related changes.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "When does the barking occur?",
+        "What seems to trigger it?",
+        "Are there any other health issues?"
+      ],
+      "home_care_india": "Ensure comfort, provide a quiet sleep space, address any underlying health issues. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If barking is disruptive, persistent, or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during hot summer nights.",
+      "prevention_tips": "Regular exercise, mental stimulation, addressing underlying health issues.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_destructive_behavior_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "destructive_behavior",
+      "description": "Bulldog puppy exhibiting destructive chewing on furniture, possibly due to boredom and lack of mental stimulation.",
+      "indian_climate_factors": "High humidity can make the dog more lethargic, increasing boredom.",
+      "breed_predisposition": "Bulldogs can be prone to destructive behavior if not properly exercised and stimulated.",
+      "age_considerations": "Common in puppies due to teething and exploration.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What items are being destroyed?",
+        "When does the destruction occur?",
+        "Is the puppy getting enough exercise and attention?"
+      ],
+      "home_care_india": "Provide appropriate chew toys, engage in interactive play, ensure adequate exercise. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If destruction is severe or if the puppy ingests harmful materials.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May decrease during the hottest months due to lethargy.",
+      "prevention_tips": "Provide plenty of chew toys, mental stimulation, and supervised playtime.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_hyperactivity_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "hyperactivity",
+      "description": "Adult Labradors and Golden Retrievers exhibiting excessive energy and difficulty concentrating, possibly due to lack of exercise and poor diet.",
+      "indian_climate_factors": "Heat can limit exercise opportunities, exacerbating hyperactivity.",
+      "breed_predisposition": "These breeds are energetic and require significant exercise.",
+      "age_considerations": "Can occur at any age but is more manageable in adulthood with proper training.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How much exercise does the dog get daily?",
+        "What is the dog's diet like?",
+        "Are there any behavioral problems associated with the hyperactivity?"
+      ],
+      "home_care_india": "Regular exercise, preferably in cooler parts of the day, and a balanced diet. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If hyperactivity is severe, impacting daily life, or if there are underlying medical conditions.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Reduced activity during peak heat.",
+      "prevention_tips": "Regular exercise, appropriate training, and a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_aggression_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "aggression",
+      "description": "Adult German Shepherd showing territorial aggression towards other dogs, potentially due to lack of early socialization and exposure to other dogs.",
+      "indian_climate_factors": "Crowded urban environments can increase stress and trigger aggression.",
+      "breed_predisposition": "German Shepherds are protective and can be territorial if not properly trained.",
+      "age_considerations": "Aggression can develop at any age, but early socialization is key.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When does aggression occur?",
+        "What triggers it?",
+        "Has the dog received professional training?"
+      ],
+      "home_care_india": "Controlled encounters with other dogs in safe, supervised environments. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If aggression leads to biting or injury.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during mating season.",
+      "prevention_tips": "Early socialization, obedience training, and controlled exposure to other dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_anxiety_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "anxiety",
+      "description": "Senior Bulldog exhibiting signs of anxiety, including excessive panting and hiding, potentially due to age-related cognitive decline.",
+      "indian_climate_factors": "Extreme heat can worsen anxiety and respiratory issues in brachycephalic breeds.",
+      "breed_predisposition": "Bulldogs can be sensitive and prone to anxiety.",
+      "age_considerations": "Common in senior dogs due to cognitive decline and physical limitations.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What are the signs of anxiety?",
+        "When do they occur?",
+        "Are there any other health problems?"
+      ],
+      "home_care_india": "Provide a safe, quiet environment, avoid stressful situations, and ensure comfort. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If anxiety is severe, impacting quality of life, or if there are underlying medical conditions.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during extreme heat.",
+      "prevention_tips": "Create a calm and predictable environment, address underlying health issues.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_destructive_behavior_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "destructive_behavior",
+      "description": "Labrador Retriever puppy exhibiting destructive chewing, possibly due to teething and lack of appropriate chew toys.",
+      "indian_climate_factors": "Dust and allergens in the environment can irritate the mouth and increase chewing.",
+      "breed_predisposition": "Labradors are known for their playful chewing behavior.",
+      "age_considerations": "Common in puppies due to teething.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What is being chewed?",
+        "When does it happen?",
+        "Does the puppy have enough appropriate chew toys?"
+      ],
+      "home_care_india": "Provide a variety of safe chew toys, supervise playtime, and redirect chewing behavior. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If the puppy ingests harmful materials or exhibits excessive chewing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during monsoon season due to confinement.",
+      "prevention_tips": "Provide appropriate chew toys, supervise playtime, and redirect chewing behavior.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_hyperactivity_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "hyperactivity",
+      "description": "Young Golden Retriever exhibiting excessive energy and jumping, potentially due to lack of sufficient exercise and mental stimulation.",
+      "indian_climate_factors": "High humidity and heat can limit outdoor exercise time.",
+      "breed_predisposition": "Golden Retrievers are energetic and require significant exercise.",
+      "age_considerations": "Common in young dogs due to high energy levels.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How much exercise does the dog get?",
+        "What kind of mental stimulation does it receive?",
+        "Are there any other behavioral issues?"
+      ],
+      "home_care_india": "Regular exercise, interactive games, and puzzle toys to provide mental stimulation. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If hyperactivity is severe or if there are underlying medical conditions.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Reduced activity during peak heat.",
+      "prevention_tips": "Regular exercise, mental stimulation, and appropriate training.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_excessive_barking_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "excessive_barking",
+      "description": "Adult German Shepherd barking excessively at sounds outside, possibly due to heightened alertness and territorial instincts.",
+      "indian_climate_factors": "Noisy urban environments can trigger excessive barking.",
+      "breed_predisposition": "German Shepherds are alert and protective, often barking at perceived threats.",
+      "age_considerations": "Can occur at any age, but training is crucial.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What triggers the barking?",
+        "How often does it happen?",
+        "Has the dog received obedience training?"
+      ],
+      "home_care_india": "Desensitization training, providing a safe and predictable environment. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If barking is disruptive or if there are underlying medical issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during festivals with loud noises.",
+      "prevention_tips": "Obedience training, desensitization to external stimuli.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_destructive_behavior_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "destructive_behavior",
+      "description": "Bulldog adult exhibiting destructive chewing on household items, possibly due to anxiety or boredom.",
+      "indian_climate_factors": "Confinement due to heat can increase boredom and anxiety.",
+      "breed_predisposition": "Bulldogs can be prone to destructive behavior if understimulated.",
+      "age_considerations": "Can occur at any age, but often linked to underlying issues.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What is being destroyed?",
+        "When does it occur?",
+        "Is the dog getting enough exercise and mental stimulation?"
+      ],
+      "home_care_india": "Provide appropriate chew toys, engage in interactive play, and address underlying anxiety. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If destruction is severe or if there are underlying medical conditions.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during monsoon season due to confinement.",
+      "prevention_tips": "Provide enrichment activities, address underlying anxiety, and supervise the dog.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_aggression_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "aggression",
+      "description": "Senior Labrador and Golden Retrievers showing increased aggression due to pain from arthritis.",
+      "indian_climate_factors": "Joint pain can be exacerbated by humidity and temperature changes.",
+      "breed_predisposition": "Large breeds are prone to arthritis in old age.",
+      "age_considerations": "Common in senior dogs due to age-related health issues.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the aggression start?",
+        "Is the dog showing signs of pain?",
+        "Has the dog been examined by a vet recently?"
+      ],
+      "home_care_india": "Pain management, creating a comfortable environment, avoiding stressful situations. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May worsen during cold weather.",
+      "prevention_tips": "Regular veterinary check-ups, appropriate exercise, and a healthy diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "beh_anxiety_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "anxiety",
+      "description": "Puppy German Shepherd showing signs of anxiety, including trembling and hiding, possibly due to a traumatic experience with loud noises.",
+      "indian_climate_factors": "Loud fireworks during festivals can trigger anxiety.",
+      "breed_predisposition": "German Shepherds can be sensitive to loud noises.",
+      "age_considerations": "Early experiences can significantly impact a dog's temperament.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What triggers the anxiety?",
+        "When did it start?",
+        "Has the puppy experienced any traumatic events?"
+      ],
+      "home_care_india": "Creating a safe and predictable environment, using calming aids, and avoiding loud noises. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If anxiety is severe or if there are other behavioral problems.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during festivals with loud fireworks.",
+      "prevention_tips": "Early socialization, desensitization to loud noises, and positive reinforcement training.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "beh_excessive_barking_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "excessive_barking",
+      "description": "Adult Bulldog barking excessively at the doorbell, possibly due to learned behavior and lack of training.",
+      "indian_climate_factors": "Frequent visitors and noisy street sounds can exacerbate barking.",
+      "breed_predisposition": "Bulldogs can be vocal and prone to barking if not trained.",
+      "age_considerations": "Learned behavior can develop at any age.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What triggers the barking?",
+        "How long has it been happening?",
+        "Has the dog received any obedience training?"
+      ],
+      "home_care_india": "Training to ignore the doorbell, counter-conditioning, and providing a quiet space. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If barking is excessive and disruptive, or if there are underlying medical issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during busy periods or festivals.",
+      "prevention_tips": "Obedience training, counter-conditioning, and managing environmental triggers.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_hyperactivity_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "hyperactivity",
+      "description": "Senior Labrador Retriever exhibiting decreased activity and lethargy, potentially due to underlying health issues.",
+      "indian_climate_factors": "Heat can exacerbate underlying health problems and reduce activity levels.",
+      "breed_predisposition": "Labradors can be prone to certain health issues in old age.",
+      "age_considerations": "Common in senior dogs due to age-related decline.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the lethargy start?",
+        "Are there any other symptoms?",
+        "Has the dog been to the vet recently?"
+      ],
+      "home_care_india": "Keep the dog cool and comfortable, monitor closely for any changes. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during extreme heat.",
+      "prevention_tips": "Regular veterinary check-ups, a healthy diet, and appropriate exercise.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_bh_001",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "anxiety",
+      "description": "A 3-year-old poodle exhibiting separation anxiety, particularly pronounced during monsoons when confined indoors.",
+      "indian_climate_factors": "Increased confinement due to rain worsens anxiety.",
+      "breed_predisposition": "Poodles can be sensitive and prone to anxiety.",
+      "age_considerations": "Adult dogs often display established anxiety patterns.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long is the dog left alone?",
+        "What are the dog's reactions when left alone?",
+        "Does the dog exhibit any other anxiety symptoms?"
+      ],
+      "home_care_india": "Provide enrichment activities, desensitization training, and a safe space. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If anxiety significantly impacts daily life or leads to self-harm.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoons due to confinement.",
+      "prevention_tips": "Early socialization, consistent training, and creating a predictable routine.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_002",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "excessive_barking",
+      "description": "A senior beagle excessively barking at street animals, especially during evenings.",
+      "indian_climate_factors": "Increased street activity during cooler evenings triggers barking.",
+      "breed_predisposition": "Beagles have a strong prey drive and are vocal.",
+      "age_considerations": "May worsen with age due to decreased hearing or cognitive decline.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "When does the barking occur?",
+        "What triggers the barking?",
+        "Has the barking increased recently?"
+      ],
+      "home_care_india": "Training with positive reinforcement, addressing underlying triggers. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If barking is disruptive or excessive, impacting neighbors.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May increase during festivals with increased street noise.",
+      "prevention_tips": "Early obedience training, desensitization to stimuli.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_bh_003",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "aggression",
+      "description": "A young rottweiler showing signs of aggression towards unfamiliar people, especially during hot summer months.",
+      "indian_climate_factors": "Heat stress can exacerbate irritability and aggression.",
+      "breed_predisposition": "Rottweilers are powerful dogs; proper socialization is crucial.",
+      "age_considerations": "Aggression can be more pronounced in adolescence.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When does aggression occur?",
+        "What triggers the aggression?",
+        "Has the dog bitten anyone?"
+      ],
+      "home_care_india": "Professional training, managing environmental triggers, and ensuring adequate hydration. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Any instance of biting or serious threat.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Potentially worse during summer due to heat stress.",
+      "prevention_tips": "Early socialization, consistent training, and proper handling.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_004",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "hyperactivity",
+      "description": "A husky puppy exhibiting extreme hyperactivity, especially during cooler months.",
+      "indian_climate_factors": "Cooler weather provides more energy for play, potentially exacerbating hyperactivity.",
+      "breed_predisposition": "Huskies are high-energy dogs.",
+      "age_considerations": "Common in puppies; requires consistent training and exercise.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How much exercise does the dog get daily?",
+        "What are the dog's typical behaviors?",
+        "Is the dog showing signs of stress or frustration?"
+      ],
+      "home_care_india": "Plenty of physical and mental stimulation, structured playtime. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If hyperactivity is causing injury or significant disruption.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be less pronounced during hotter months.",
+      "prevention_tips": "Early socialization, training, and providing sufficient exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_005",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "destructive_behavior",
+      "description": "Adult poodles and beagles chewing furniture, particularly during monsoon season.",
+      "indian_climate_factors": "Confinement and boredom during rainy season.",
+      "breed_predisposition": "Boredom and lack of stimulation can lead to destructive behaviors.",
+      "age_considerations": "Adult dogs may exhibit this due to underlying anxiety or boredom.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What items are being destroyed?",
+        "When does the destruction occur?",
+        "Does the dog seem anxious or bored?"
+      ],
+      "home_care_india": "Provide sufficient exercise, mental stimulation, and chew toys. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If destruction is severe or if underlying medical issues are suspected.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoons.",
+      "prevention_tips": "Provide enriching activities, supervise the dog, and offer appropriate chew toys.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_bh_006",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "anxiety",
+      "description": "Senior rottweiler exhibiting increased anxiety and fearfulness, especially around loud noises during festivals.",
+      "indian_climate_factors": "Loud noises associated with festivals exacerbate anxiety.",
+      "breed_predisposition": "While less common, even robust breeds can experience anxiety.",
+      "age_considerations": "Anxiety can increase with age and cognitive decline.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What triggers the anxiety?",
+        "What are the dog's reactions?",
+        "Has the anxiety worsened recently?"
+      ],
+      "home_care_india": "Create a safe and quiet space, use calming aids, and seek professional help. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Significant behavioral changes or distress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during festivals with loud fireworks.",
+      "prevention_tips": "Early socialization, gradual desensitization to loud noises.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_007",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "destructive_behavior",
+      "description": "A husky puppy exhibiting destructive chewing, especially on shoes during hot summer months.",
+      "indian_climate_factors": "Heat and boredom lead to increased chewing.",
+      "breed_predisposition": "Huskies are active and need significant mental stimulation.",
+      "age_considerations": "Common in puppies due to teething and exploring.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What is being chewed?",
+        "When does the chewing occur?",
+        "Is the puppy teething?"
+      ],
+      "home_care_india": "Provide appropriate chew toys, supervise the puppy, and provide adequate exercise. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If chewing is excessive or causes injury.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during hotter months.",
+      "prevention_tips": "Provide plenty of chew toys, adequate exercise, and mental stimulation.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_bh_008",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "excessive_barking",
+      "description": "An adult poodle barking excessively at delivery persons and strangers at the door.",
+      "indian_climate_factors": "Increased foot traffic and deliveries in urban areas.",
+      "breed_predisposition": "Poodles can be wary of strangers.",
+      "age_considerations": "Established behavior in adult dogs.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "Who triggers the barking?",
+        "When does the barking occur?",
+        "Has the barking increased recently?"
+      ],
+      "home_care_india": "Desensitization training, positive reinforcement. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If barking significantly disrupts daily life.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Early socialization, consistent training.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_bh_009",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "aggression",
+      "description": "A beagle showing food aggression, particularly when other dogs are nearby.",
+      "indian_climate_factors": "Competition for food may be heightened in multi-dog households.",
+      "breed_predisposition": "Beagles can be possessive of food.",
+      "age_considerations": "Can develop at any age, but often seen in adulthood.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When does aggression occur?",
+        "What triggers the aggression?",
+        "Has the dog bitten anyone?"
+      ],
+      "home_care_india": "Manage feeding times, use separate feeding areas, and consult a professional trainer.",
+      "vet_triggers": "If aggression escalates or causes injury.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Early training on resource guarding, positive reinforcement techniques.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_010",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "hyperactivity",
+      "description": "Young rottweilers and huskies exhibiting extreme hyperactivity, leading to accidental injuries during play.",
+      "indian_climate_factors": "Increased energy levels during cooler months.",
+      "breed_predisposition": "Both breeds are high-energy and require substantial exercise.",
+      "age_considerations": "Common in young dogs; needs structured activity.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How much exercise does the dog get?",
+        "What type of exercise?",
+        "Are there any injuries?"
+      ],
+      "home_care_india": "Structured playtime, obedience training, appropriate exercise. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Injuries during play, inability to manage hyperactivity.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Less pronounced in hotter months.",
+      "prevention_tips": "Early socialization, training, and providing sufficient exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_011",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "separation anxiety",
+      "description": "A senior poodle showing signs of severe separation anxiety, including excessive vocalization and destructive chewing when left alone.",
+      "indian_climate_factors": "Monsoon rains can worsen confinement and anxiety.",
+      "breed_predisposition": "Poodles can be sensitive and prone to anxiety.",
+      "age_considerations": "Separation anxiety can worsen with age and cognitive decline.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How long is the dog left alone?",
+        "What are the dog's reactions?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Create a safe space, use calming aids, consider professional help. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Self-harm, excessive distress, significant behavioral changes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoons.",
+      "prevention_tips": "Early socialization, crate training, gradual desensitization.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_012",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "fear_aggression",
+      "description": "A beagle exhibiting fear-based aggression towards children, especially in unfamiliar environments.",
+      "indian_climate_factors": "Crowded areas and unpredictable interactions in public spaces.",
+      "breed_predisposition": "Beagles can be sensitive and fearful in new situations.",
+      "age_considerations": "Can emerge at any age, particularly if not properly socialized.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When does aggression occur?",
+        "What triggers the aggression?",
+        "Has the dog bitten anyone?"
+      ],
+      "home_care_india": "Professional training, gradual desensitization, managed interactions. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Any instance of biting or serious threat.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse in crowded public places during festivals.",
+      "prevention_tips": "Early socialization, positive reinforcement training, controlled introductions.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_013",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "lethargy",
+      "description": "A senior Rottweiler exhibiting lethargy and decreased appetite, particularly during the hot summer months.",
+      "indian_climate_factors": "Heat stress can lead to decreased activity and appetite.",
+      "breed_predisposition": "Older dogs are more susceptible to heat stress and age-related illnesses.",
+      "age_considerations": "Common in senior dogs; can indicate underlying medical issues.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the lethargy persisted?",
+        "What is the dog's appetite like?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Ensure cool environment, access to fresh water, monitor closely. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More pronounced during summer.",
+      "prevention_tips": "Regular veterinary checkups, maintaining a healthy diet and weight.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_bh_014",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "noise_sensitivity",
+      "description": "A husky exhibiting extreme noise sensitivity, particularly to loud fireworks during Diwali.",
+      "indian_climate_factors": "Loud noises during festivals can trigger fear and anxiety.",
+      "breed_predisposition": "Huskies can be sensitive to loud sounds.",
+      "age_considerations": "Can be present at any age but may worsen with age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What sounds trigger the reaction?",
+        "How does the dog react?",
+        "Has this behavior worsened?"
+      ],
+      "home_care_india": "Create a safe and quiet space, use calming aids, desensitization training. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If fear is severe or causes self-harm.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during Diwali and other festivals with fireworks.",
+      "prevention_tips": "Gradual desensitization to loud noises, creating a safe haven.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_bh_015",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "poodle"
+      ],
+      "symptom": "compulsive_licking",
+      "description": "Beagles and Poodles exhibiting compulsive licking, particularly on their paws during dusty, dry weather.",
+      "indian_climate_factors": "Dust and dry air can irritate the skin, leading to compulsive licking.",
+      "breed_predisposition": "Some breeds are prone to compulsive behaviors.",
+      "age_considerations": "Can occur at any age, potentially linked to allergies or anxiety.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Where does the licking occur?",
+        "How often does it happen?",
+        "Are there any skin issues?"
+      ],
+      "home_care_india": "Keep paws clean, use paw balm, address underlying allergies or anxiety. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If licking is excessive, causing skin damage, or if underlying medical issues are suspected.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty periods.",
+      "prevention_tips": "Regular paw cleaning, using paw balm, addressing allergies, and managing anxiety.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "b_mild_lethargy_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "mild_lethargy",
+      "description": "Dog seems slightly more tired than usual but still eating, drinking, and responding normally. May just need rest. Monitor for 24-48 hours. If other symptoms develop or lethargy worsens, see vet.",
+      "indian_climate_factors": "Hot weather causes normal tiredness. Dogs rest more in summer heat.",
+      "breed_predisposition": "All breeds. Heavy-coated breeds tire more easily in heat.",
+      "age_considerations": "Senior dogs naturally less energetic. Puppies have energy bursts followed by long naps.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is dog eating and drinking normally?",
+        "Any other symptoms?",
+        "How long has this lasted?",
+        "Did anything stressful happen?"
+      ],
+      "home_care_india": "Allow rest in cool area. Ensure fresh water available. Monitor for 24 hours.",
+      "vet_triggers": "Lethargy plus other symptoms, refuses food/water, lasts 48+ hours.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Normal increased tiredness in hot summer months.",
+      "prevention_tips": "Avoid overexertion in heat, provide cool rest areas, maintain routine.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_barking_night_neighbors",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "dog barking all night disturbing neighbors excessive nuisance",
+      "description": "Dog barks excessively at night, disturbing neighbors. No medical issues, purely behavioral.",
+      "indian_climate_factors": "Street sounds and stray dogs may trigger barking",
+      "breed_predisposition": "Some breeds more vocal",
+      "age_considerations": "Can start at any age",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "When does barking start?",
+        "What triggers it?",
+        "Exercise routine?"
+      ],
+      "home_care_india": "Increase exercise. Use white noise. Consult certified dog trainer for behavior modification training.",
+      "vet_triggers": "Only if medical cause suspected",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during festivals with loud noises",
+      "prevention_tips": "Adequate exercise, mental stimulation, professional training",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "beh_separation_furniture_destruction",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "dog destroying furniture when alone separation anxiety destructive chewing",
+      "description": "Dog destroys furniture, chews objects, or becomes destructive when left alone. Classic separation anxiety behavior.",
+      "indian_climate_factors": "Extended work hours in cities worsen separation issues",
+      "breed_predisposition": "Some breeds more prone to anxiety",
+      "age_considerations": "Can develop at any age",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "How long alone?",
+        "What gets destroyed?",
+        "Any other anxiety signs?"
+      ],
+      "home_care_india": "Gradual desensitization training. Provide puzzle toys. Consult professional animal behaviorist or dog trainer for structured separation anxiety program.",
+      "vet_triggers": "Only if self-harm or extreme panic",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Year-round behavioral issue",
+      "prevention_tips": "Crate training, gradual alone time, professional behavior training",
+      "severity": "routine"
+    }
+  ]
+}

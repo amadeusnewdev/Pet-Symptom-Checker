@@ -1,0 +1,2054 @@
+{
+  "metadata": {
+    "category": "emergency",
+    "total_entries": 82,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "emg_bloat_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "bloat",
+      "description": "Labrador and Golden Retrievers, especially deep-chested adults, are prone to bloat.  This case involves a 5-year-old Golden Retriever exhibiting abdominal distension and restlessness after a large meal.",
+      "indian_climate_factors": "High temperatures can exacerbate bloat, increasing the risk during summer months.",
+      "breed_predisposition": "Deep chests increase the risk of gastric torsion.",
+      "age_considerations": "Bloat is more common in adult dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the abdomen been distended?",
+        "Is the dog vomiting or retching?",
+        "Are there signs of shock (pale gums, weak pulse)?"
+      ],
+      "home_care_india": "Keep the dog calm and still. Do NOT induce vomiting or give any food or water. Seek immediate veterinary attention. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate abdominal distension, restlessness, pale gums.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher incidence during hot summer months.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid strenuous exercise after eating; use slow-feed bowls.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "seizures",
+      "description": "A 10-year-old German Shepherd experiencing a series of grand mal seizures, possibly due to epilepsy or a brain tumor.",
+      "indian_climate_factors": "Extreme heat can trigger seizures in predisposed dogs.",
+      "breed_predisposition": "German Shepherds have a higher incidence of epilepsy.",
+      "age_considerations": "Seizures are more common in senior dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long do the seizures last?",
+        "How frequently are they occurring?",
+        "Are there any other neurological symptoms?"
+      ],
+      "home_care_india": "Ensure the dog's safety during a seizure by preventing injury. Note the duration and frequency.",
+      "vet_triggers": "Any seizure lasting longer than 5 minutes, repeated seizures, loss of consciousness.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during extreme heat or monsoon season (due to humidity).",
+      "prevention_tips": "Regular veterinary checkups, especially for senior dogs; seizure medication as prescribed.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "A young Bulldog puppy struggling to breathe due to brachycephalic airway syndrome, exacerbated by high humidity.",
+      "indian_climate_factors": "High humidity and heat significantly worsen breathing difficulties.",
+      "breed_predisposition": "Brachycephalic breeds like Bulldogs are predisposed to breathing problems.",
+      "age_considerations": "More common in puppies and senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the dog making unusual noises while breathing?",
+        "Are the nostrils flared?",
+        "Is the tongue bluish?"
+      ],
+      "home_care_india": "Keep the dog in a cool, well-ventilated area. Provide access to cool water.",
+      "vet_triggers": "Increased respiratory distress, cyanosis (blue gums), inability to rest comfortably.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse in hot, humid weather.",
+      "prevention_tips": "Regular vet checkups; avoid strenuous activity in hot weather; weight management.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "severe_bleeding",
+      "description": "An adult Labrador Retriever with a deep leg wound after a fight with another dog, experiencing significant blood loss.",
+      "indian_climate_factors": "Monsoon season increases the risk of infections in open wounds.",
+      "breed_predisposition": "Active breeds are more prone to injuries.",
+      "age_considerations": "Adult dogs are more likely to be involved in fights.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How deep is the wound?",
+        "How much blood is being lost?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Apply direct pressure to the wound to control bleeding.  Keep the dog calm and transport to the vet immediately.",
+      "vet_triggers": "Significant blood loss, inability to control bleeding.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk of infection during monsoon season.",
+      "prevention_tips": "Avoid letting dogs roam freely, especially in areas with other dogs; ensure prompt wound care.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "poisoning",
+      "description": "A Golden Retriever puppy ingested rat poison found in the street.",
+      "indian_climate_factors": "Street dogs are more susceptible to poisoning from discarded chemicals or contaminated food.",
+      "breed_predisposition": "Curious puppies are more at risk.",
+      "age_considerations": "Puppies are more vulnerable due to their exploratory nature.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the dog ingest?",
+        "When did the ingestion occur?",
+        "Are there any symptoms (vomiting, diarrhea, tremors)?"
+      ],
+      "home_care_india": "Induce vomiting only if advised by a veterinarian.  Keep the dog away from the source of poison.",
+      "vet_triggers": "Any suspected poisoning.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk varies depending on seasonal availability of poisonous substances.",
+      "prevention_tips": "Supervise dogs closely, especially puppies; keep toxic substances out of reach; avoid feeding scraps.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "heat_stroke",
+      "description": "An obese Bulldog suffering from heatstroke after being left in a parked car during a hot summer day.",
+      "indian_climate_factors": "High temperatures and humidity increase the risk of heatstroke, especially in brachycephalic breeds.",
+      "breed_predisposition": "Brachycephalic breeds are more vulnerable to heatstroke.",
+      "age_considerations": "Obese dogs are more susceptible.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long was the dog exposed to heat?",
+        "What is the dog's body temperature?",
+        "Are there signs of collapse?"
+      ],
+      "home_care_india": "Immediately move the dog to a cool place. Apply cool (not cold) water to the body. Seek veterinary help immediately.",
+      "vet_triggers": "High body temperature, collapse, labored breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "High risk during summer months.",
+      "prevention_tips": "Never leave dogs unattended in parked cars; provide access to shade and water; avoid strenuous activity in heat.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "bloat",
+      "description": "A senior German Shepherd showing signs of bloat after consuming a large amount of leftover biryani.",
+      "indian_climate_factors": "Rich, spicy foods can trigger bloat.",
+      "breed_predisposition": "Deep-chested breeds are prone to bloat.",
+      "age_considerations": "Older dogs are more susceptible.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "When did it eat?",
+        "Is the abdomen distended?"
+      ],
+      "home_care_india": "Keep the dog calm and seek immediate veterinary attention.",
+      "vet_triggers": "Abdominal distension, restlessness, vomiting.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation, but risk increases with increased food consumption during festivals.",
+      "prevention_tips": "Avoid feeding rich, spicy foods; feed smaller, frequent meals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "poisoning",
+      "description": "A Labrador Retriever puppy exhibiting tremors after ingesting pesticide-contaminated soil.",
+      "indian_climate_factors": "Urban pollution and pesticide use increase the risk of poisoning.",
+      "breed_predisposition": "Puppies are more prone due to their exploratory behavior.",
+      "age_considerations": "Puppies are more vulnerable.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What type of pesticide was used?",
+        "When did the ingestion occur?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Keep the dog away from the contaminated area.  Contact a vet immediately. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Tremors, seizures, vomiting, diarrhea.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk varies depending on pesticide usage patterns.",
+      "prevention_tips": "Keep pesticides out of reach; supervise puppies closely; avoid letting dogs roam in contaminated areas.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "heat_stroke",
+      "description": "An adult Golden Retriever collapsed after prolonged exposure to the sun during a monsoon.",
+      "indian_climate_factors": "High humidity during monsoon can hinder the dog's ability to cool down.",
+      "breed_predisposition": "All dogs are susceptible to heatstroke.",
+      "age_considerations": "All ages are at risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long was the dog exposed to the sun?",
+        "What is the dog's body temperature?",
+        "Is the dog breathing normally?"
+      ],
+      "home_care_india": "Move the dog to a cool, shaded area. Apply cool water to the body. Seek veterinary attention immediately.",
+      "vet_triggers": "High body temperature, collapse, rapid breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk is high during summer but humidity during monsoon can also be dangerous.",
+      "prevention_tips": "Provide shade and water; avoid strenuous activity in heat; monitor closely during monsoon.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "seizures",
+      "description": "A senior Bulldog experiencing a seizure after a sudden loud noise.",
+      "indian_climate_factors": "Loud fireworks during festivals can trigger seizures in sensitive dogs.",
+      "breed_predisposition": "All breeds can experience seizures.",
+      "age_considerations": "Older dogs are more prone.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "What triggered it?",
+        "Has this happened before?"
+      ],
+      "home_care_india": "Ensure the dog's safety during the seizure. Note the duration and any triggers.",
+      "vet_triggers": "Recurring seizures, prolonged seizures, loss of consciousness.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during festival seasons with loud noises.",
+      "prevention_tips": "Create a calm environment during festivals; consult a vet if seizures are recurring.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "A young German Shepherd experiencing respiratory distress after inhaling dust during a dust storm.",
+      "indian_climate_factors": "Dust storms during dry seasons can cause respiratory issues.",
+      "breed_predisposition": "All breeds can be affected.",
+      "age_considerations": "Young dogs are more susceptible to upper respiratory infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the dog coughing?",
+        "Is there any nasal discharge?",
+        "Is the dog wheezing?"
+      ],
+      "home_care_india": "Keep the dog indoors away from dust. Provide access to clean water.",
+      "vet_triggers": "Persistent cough, difficulty breathing, nasal discharge.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during dry seasons.",
+      "prevention_tips": "Keep the dog indoors during dust storms; use air purifiers.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "severe_bleeding",
+      "description": "An adult Labrador Retriever with a deep cut on its paw after stepping on broken glass.",
+      "indian_climate_factors": "Improper waste disposal increases the risk of injuries from sharp objects.",
+      "breed_predisposition": "Active breeds are more prone to injuries.",
+      "age_considerations": "All ages are susceptible.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How deep is the cut?",
+        "Is the bleeding profuse?",
+        "Is the dog showing signs of pain?"
+      ],
+      "home_care_india": "Apply pressure to the wound to stop the bleeding.  Transport to the vet.",
+      "vet_triggers": "Inability to control bleeding, deep wound.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep dogs away from hazardous areas; ensure proper wound care.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_poisoning_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "poisoning",
+      "description": "A senior Golden Retriever showing signs of weakness after consuming spoiled food from a garbage bin.",
+      "indian_climate_factors": "Improper waste disposal leads to increased risk of food poisoning.",
+      "breed_predisposition": "All dogs are susceptible.",
+      "age_considerations": "Older dogs are more susceptible to foodborne illnesses.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "When did it eat?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Monitor the dog closely.  Provide fresh water.",
+      "vet_triggers": "Persistent vomiting, diarrhea, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during warmer months due to faster food spoilage.",
+      "prevention_tips": "Keep garbage bins securely covered; avoid letting dogs scavenge for food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_heat_stroke_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "heat_stroke",
+      "description": "A puppy Bulldog exhibiting lethargy and excessive panting after playing in the sun.",
+      "indian_climate_factors": "High temperatures and humidity increase risk of heatstroke.",
+      "breed_predisposition": "Brachycephalic breeds are more prone.",
+      "age_considerations": "Puppies are more vulnerable due to immature thermoregulation.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long was the puppy exposed to the sun?",
+        "Is the puppy panting excessively?",
+        "Is the puppy lethargic?"
+      ],
+      "home_care_india": "Move the puppy to a cool place. Provide access to cool water. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "High body temperature, collapse, labored breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during summer months.",
+      "prevention_tips": "Avoid strenuous activity during peak heat; provide access to shade and cool water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "A senior German Shepherd with a history of heart disease experiencing increased respiratory distress.",
+      "indian_climate_factors": "High humidity can worsen heart conditions.",
+      "breed_predisposition": "All breeds are susceptible to heart disease.",
+      "age_considerations": "Older dogs are more likely to have heart conditions.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the dog coughing?",
+        "Is the dog breathing rapidly?",
+        "Is the dog showing signs of fatigue?"
+      ],
+      "home_care_india": "Keep the dog calm and cool. Seek immediate veterinary attention.",
+      "vet_triggers": "Increased respiratory distress, cyanosis, collapse.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsened during hot, humid weather.",
+      "prevention_tips": "Regular veterinary checkups; manage underlying heart conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_16",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "bloat",
+      "description": "A 5-year-old Standard Poodle exhibiting abdominal distension, restlessness, and retching after a large meal.",
+      "indian_climate_factors": "High humidity can exacerbate bloat symptoms.",
+      "breed_predisposition": "Deep-chested breeds like Poodles are predisposed to bloat.",
+      "age_considerations": "Adult dogs are most susceptible.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the distension begin?",
+        "Has the dog vomited?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Keep the dog calm and still.  Avoid giving food or water. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More prevalent during hotter months.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid strenuous exercise after eating.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_17",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "seizures",
+      "description": "A senior Beagle experiencing repeated convulsions and loss of consciousness.",
+      "indian_climate_factors": "Heatstroke can trigger seizures.",
+      "breed_predisposition": "Beagles can be prone to idiopathic epilepsy.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Frequency of seizures?",
+        "Any pre-existing conditions?"
+      ],
+      "home_care_india": "Ensure a safe environment; keep the dog away from hazards.",
+      "vet_triggers": "Seek immediate veterinary care.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during hot, humid summers.",
+      "prevention_tips": "Regular veterinary check-ups; manage underlying conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_18",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "heat_stroke",
+      "description": "A Rottweiler exhibiting excessive panting, lethargy, and high body temperature after prolonged sun exposure.",
+      "indian_climate_factors": "High ambient temperatures in India pose a significant risk.",
+      "breed_predisposition": "Brachycephalic breeds are more susceptible.",
+      "age_considerations": "Puppies and senior dogs are at higher risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long was the dog exposed to the sun?",
+        "What is the dog's rectal temperature?",
+        "Is the dog showing signs of collapse?"
+      ],
+      "home_care_india": "Cool the dog down gradually using cool water. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most dangerous during summer months.",
+      "prevention_tips": "Avoid strenuous exercise during peak heat; provide shade and cool water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_19",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "A young Siberian Husky with rapid, shallow breathing and bluish gums after playing intensely.",
+      "indian_climate_factors": "High humidity can worsen respiratory issues.",
+      "breed_predisposition": "Certain breeds are prone to respiratory problems.",
+      "age_considerations": "Puppies and senior dogs are more vulnerable.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the dog been breathing rapidly?",
+        "Is the dog coughing?",
+        "Has the dog been exposed to dust or pollutants?"
+      ],
+      "home_care_india": "Keep the dog calm and in a cool place.",
+      "vet_triggers": "Seek veterinary care if breathing difficulty persists.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during monsoon season due to humidity and dust.",
+      "prevention_tips": "Regular exercise, avoid strenuous activity during peak heat and humidity.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_20",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "poisoning",
+      "description": "A puppy exhibiting vomiting, diarrhea, and tremors after ingesting rat poison.",
+      "indian_climate_factors": "Exposure to pesticides and insecticides is common in India.",
+      "breed_predisposition": "Puppies are more vulnerable due to their curious nature.",
+      "age_considerations": "Puppies are at increased risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the dog ingest?",
+        "When did the ingestion occur?",
+        "What are the dog's symptoms?"
+      ],
+      "home_care_india": "Try to induce vomiting (only if advised by vet). Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk varies with pesticide use.",
+      "prevention_tips": "Securely store all potentially harmful substances; supervise puppies closely.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_21",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "severe_bleeding",
+      "description": "An adult Rottweiler with a deep laceration on its leg, bleeding profusely after a fight.",
+      "indian_climate_factors": "Monsoon season can increase the risk of injuries.",
+      "breed_predisposition": "Larger breeds are prone to more severe injuries.",
+      "age_considerations": "Adult dogs are more likely to be involved in fights.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How deep is the wound?",
+        "How long has it been bleeding?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Apply direct pressure to the wound.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk of injuries during monsoon.",
+      "prevention_tips": "Ensure proper vaccination; avoid exposing the dog to potentially dangerous situations.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_22",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "heat_stroke",
+      "description": "A senior Siberian Husky showing signs of collapse and hyperthermia after being left in a parked car.",
+      "indian_climate_factors": "High temperatures in parked cars pose a deadly risk.",
+      "breed_predisposition": "Thick-coated breeds are more susceptible.",
+      "age_considerations": "Senior dogs are more vulnerable to heatstroke.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long was the dog in the car?",
+        "What is the dog's body temperature?",
+        "Is the dog conscious?"
+      ],
+      "home_care_india": "Cool the dog down immediately.",
+      "vet_triggers": "Immediate veterinary care is essential.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Highest risk during summer months.",
+      "prevention_tips": "Never leave a dog unattended in a parked car; provide adequate shade and water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_23",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "bloat",
+      "description": "An adult Beagle showing signs of abdominal distension and discomfort after consuming a large amount of street food.",
+      "indian_climate_factors": "Contaminated street food can exacerbate bloat and cause other issues.",
+      "breed_predisposition": "Beagles are known for their scavenging tendencies.",
+      "age_considerations": "Adults are more likely to scavenge.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "When did the symptoms begin?",
+        "Is the dog showing signs of pain?"
+      ],
+      "home_care_india": "Restrict food intake; monitor closely.",
+      "vet_triggers": "Seek veterinary care if symptoms worsen.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk is higher during warmer months.",
+      "prevention_tips": "Avoid letting your dog consume street food; provide a balanced diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_24",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "seizures",
+      "description": "A young Poodle experiencing a single, brief seizure possibly due to ingestion of pesticide.",
+      "indian_climate_factors": "Exposure to pesticides is a concern in India.",
+      "breed_predisposition": "Puppies are more susceptible to poisoning.",
+      "age_considerations": "Puppies are more vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Were there any other symptoms?",
+        "Possible exposure to toxins?"
+      ],
+      "home_care_india": "Monitor the dog closely; provide a safe environment.",
+      "vet_triggers": "Seek veterinary care if seizures recur.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Risk varies with pesticide use.",
+      "prevention_tips": "Keep pesticides out of reach; ensure safe outdoor spaces.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_25",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "Two dogs exhibiting respiratory distress and coughing after being exposed to urban air pollution.",
+      "indian_climate_factors": "Air pollution is a significant concern in urban India.",
+      "breed_predisposition": "Certain breeds are more susceptible to respiratory issues.",
+      "age_considerations": "All ages are vulnerable.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the dog been coughing?",
+        "Is there any nasal discharge?",
+        "Has the dog been exposed to irritants?"
+      ],
+      "home_care_india": "Keep the dog in a clean, well-ventilated area. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Seek veterinary care if symptoms worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during winter and dry seasons.",
+      "prevention_tips": "Minimize exposure to pollutants; use air purifiers indoors.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_poisoning_26",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "poisoning",
+      "description": "A senior Beagle exhibiting weakness and lethargy after consuming spoiled food.",
+      "indian_climate_factors": "Food spoilage is more rapid in humid conditions.",
+      "breed_predisposition": "Senior dogs have weaker immune systems.",
+      "age_considerations": "Senior dogs are more vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "When did the symptoms begin?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Monitor closely; provide fresh water. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Seek veterinary care if symptoms worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during monsoon and summer.",
+      "prevention_tips": "Ensure proper food storage; feed fresh, high-quality food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_27",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "severe_bleeding",
+      "description": "A young Poodle with a minor cut on its paw, but bleeding excessively due to a clotting disorder.",
+      "indian_climate_factors": "Increased risk of injuries from sharp objects in various environments.",
+      "breed_predisposition": "Genetic predisposition to bleeding disorders.",
+      "age_considerations": "Can occur at any age, but diagnosis may be later in life.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How deep is the wound?",
+        "How long has it been bleeding?",
+        "Family history of bleeding disorders?"
+      ],
+      "home_care_india": "Apply direct pressure; keep the dog calm.",
+      "vet_triggers": "Immediate veterinary attention is critical.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk of injury varies with environmental factors.",
+      "prevention_tips": "Regular veterinary check-ups; address any underlying conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_28",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "heat_stroke",
+      "description": "A middle-aged Rottweiler showing signs of heat exhaustion after participating in a dog show.",
+      "indian_climate_factors": "High temperatures and humidity during events.",
+      "breed_predisposition": "Brachycephalic and dark-coated dogs are at higher risk.",
+      "age_considerations": "All ages are at risk, but older dogs are more vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Duration of exposure to heat?",
+        "Body temperature?",
+        "Signs of dehydration?"
+      ],
+      "home_care_india": "Cool the dog gradually; offer water.",
+      "vet_triggers": "Seek veterinary care if symptoms persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Highest risk during summer months.",
+      "prevention_tips": "Avoid strenuous activity during peak heat; provide adequate hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_29",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "difficulty_breathing",
+      "description": "A senior Siberian Husky with chronic bronchitis experiencing worsened breathing due to dust inhalation during the dry season.",
+      "indian_climate_factors": "Dust and dry air aggravate respiratory conditions.",
+      "breed_predisposition": "Some breeds are prone to respiratory problems.",
+      "age_considerations": "Senior dogs are more prone to chronic respiratory illnesses.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Duration of coughing?",
+        "Any other respiratory symptoms?",
+        "History of respiratory issues?"
+      ],
+      "home_care_india": "Keep the dog in a clean, dust-free environment.",
+      "vet_triggers": "Seek veterinary care if breathing worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms worsen during dry, dusty seasons.",
+      "prevention_tips": "Regular veterinary check-ups; manage underlying conditions; use air purifiers.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_bloat_30",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "poodle"
+      ],
+      "symptom": "bloat",
+      "description": "Two dogs exhibiting mild abdominal distension and discomfort after consuming a large amount of rich, fatty food.",
+      "indian_climate_factors": "High temperatures can affect digestion and exacerbate bloat.",
+      "breed_predisposition": "Certain breeds are predisposed to bloat.",
+      "age_considerations": "Adult dogs are more susceptible.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the distension begin?",
+        "Has the dog vomited?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Restrict food intake; monitor closely. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Seek veterinary care if symptoms worsen or become severe.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk may be higher during warmer months.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid rich, fatty foods.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Bloat",
+      "description": "A senior dachshund exhibiting signs of bloat after a large meal of street food.",
+      "indian_climate_factors": "High temperatures exacerbate bloat symptoms.",
+      "breed_predisposition": "Dachshunds' deep chest predisposes them to bloat.",
+      "age_considerations": "Senior dogs are more susceptible.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "When did the distension start?",
+        "Has the dog vomited?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Keep the dog calm and still; do NOT induce vomiting. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during hotter months.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid strenuous activity after eating.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Heat stroke",
+      "description": "An adult Boxer collapsed after prolonged sun exposure during monsoon.",
+      "indian_climate_factors": "High humidity during monsoon hinders heat dissipation.",
+      "breed_predisposition": "Boxers' short coats offer less protection from heat.",
+      "age_considerations": "All ages vulnerable, especially puppies and seniors.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long was the dog exposed to heat?",
+        "What is the dog's rectal temperature?",
+        "Is the dog breathing rapidly?"
+      ],
+      "home_care_india": "Cool the dog gradually with wet towels; provide access to shade.",
+      "vet_triggers": "Immediate veterinary care for high temperature or altered consciousness.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most prevalent during summer and early monsoon.",
+      "prevention_tips": "Avoid strenuous activity during peak heat; provide access to shade and water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Seizures",
+      "description": "A young Border Collie experiencing its first seizure after ingesting pesticide.",
+      "indian_climate_factors": "Pesticide exposure is common in agricultural areas.",
+      "breed_predisposition": "Border Collies can be prone to certain neurological disorders.",
+      "age_considerations": "Can occur at any age, but younger dogs might have different causes.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Were there any preceding symptoms?",
+        "What did the dog ingest?"
+      ],
+      "home_care_india": "Ensure the dog's safety during the seizure; note duration and symptoms.",
+      "vet_triggers": "Seek immediate veterinary attention for any seizure.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep pesticides out of reach; ensure safe food sources.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "An adult Australian Shepherd with difficulty breathing due to severe allergies triggered by dust.",
+      "indian_climate_factors": "Dust and air pollution worsen respiratory issues.",
+      "breed_predisposition": "Some Australian Shepherds have a predisposition to allergies.",
+      "age_considerations": "More common in adult dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the dog been struggling to breathe?",
+        "Is there any coughing or wheezing?",
+        "Has the dog been exposed to allergens?"
+      ],
+      "home_care_india": "Keep the dog calm and in a clean environment.",
+      "vet_triggers": "If breathing becomes labored or the dog shows signs of distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during dry, dusty seasons.",
+      "prevention_tips": "Regular grooming; use air purifiers; avoid dusty areas.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "Severe Bleeding",
+      "description": "A young Dachshund injured in a road accident, experiencing severe bleeding.",
+      "indian_climate_factors": "Increased risk of road accidents in urban areas.",
+      "breed_predisposition": "Small breeds like Dachshunds are more vulnerable in accidents.",
+      "age_considerations": "Puppies and young dogs are more prone to accidents.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Where is the bleeding from?",
+        "How severe is the bleeding?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Apply direct pressure to the wound; seek immediate veterinary help.",
+      "vet_triggers": "Any significant bleeding requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep dogs on a leash in traffic; ensure secure fencing.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Poisoning",
+      "description": "A senior Border Collie showing signs of poisoning after eating contaminated food.",
+      "indian_climate_factors": "Contaminated food is a risk, especially during monsoon.",
+      "breed_predisposition": "No specific breed predisposition, but age increases vulnerability.",
+      "age_considerations": "Senior dogs are more susceptible to poisoning.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "What did the dog ingest?",
+        "When did the ingestion occur?",
+        "What are the dog's symptoms?"
+      ],
+      "home_care_india": "Do NOT induce vomiting unless advised by a vet.",
+      "vet_triggers": "Any suspected poisoning requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during monsoon due to food contamination.",
+      "prevention_tips": "Supervise feeding; keep toxic substances out of reach.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Heat Stroke",
+      "description": "An adult Australian Shepherd showing signs of heatstroke after a long walk during peak summer heat.",
+      "indian_climate_factors": "Extreme summer temperatures can quickly lead to heatstroke.",
+      "breed_predisposition": "Thick coats can make some dogs more susceptible to heatstroke.",
+      "age_considerations": "All ages are vulnerable, but puppies and seniors are at higher risk.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long was the dog exposed to heat?",
+        "What is the dog's rectal temperature?",
+        "Is the dog showing signs of collapse?"
+      ],
+      "home_care_india": "Cool the dog down gradually with cool water.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most prevalent during summer.",
+      "prevention_tips": "Avoid strenuous activity during the hottest part of the day.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Bloat",
+      "description": "An adult Boxer experiencing bloat after consuming a large amount of rich, fatty food.",
+      "indian_climate_factors": "High temperatures can worsen bloat symptoms.",
+      "breed_predisposition": "Deep-chested breeds are prone to bloat.",
+      "age_considerations": "Adults are more commonly affected.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "When did the bloating start?",
+        "Has the dog vomited?",
+        "Is the dog showing signs of pain?"
+      ],
+      "home_care_india": "Keep the dog calm and still; contact a vet immediately.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common in warmer months.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid rich foods.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Seizures",
+      "description": "A senior Dachshund experiencing seizures possibly due to a brain tumor.",
+      "indian_climate_factors": "No direct impact of climate on this specific cause.",
+      "breed_predisposition": "No specific predisposition, but age is a factor.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "How frequently are seizures occurring?",
+        "Are there any other neurological symptoms?"
+      ],
+      "home_care_india": "Ensure the dog's safety during seizures.",
+      "vet_triggers": "Seek immediate veterinary attention for any seizure.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular veterinary checkups are crucial for senior dogs.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "Poisoning",
+      "description": "Two Border Collies and an Australian Shepherd showing signs of poisoning after consuming rat poison.",
+      "indian_climate_factors": "Rat poison is commonly used in India, increasing risk.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "All ages are vulnerable.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "What type of poison was ingested?",
+        "When did the ingestion occur?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Do not induce vomiting without veterinary advice.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep rat poison out of reach; use safe pest control methods.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "A puppy Boxer struggling to breathe due to a respiratory infection.",
+      "indian_climate_factors": "Monsoon humidity can exacerbate respiratory infections.",
+      "breed_predisposition": "No specific predisposition, but age is a factor.",
+      "age_considerations": "Puppies are more susceptible to infections.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the puppy been struggling to breathe?",
+        "Is there any coughing or sneezing?",
+        "Is there any nasal discharge?"
+      ],
+      "home_care_india": "Keep the puppy warm and comfortable.",
+      "vet_triggers": "If breathing becomes labored or the puppy shows signs of distress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Ensure vaccination; keep the puppy away from sick animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Severe Bleeding",
+      "description": "An adult Australian Shepherd with severe bleeding from a deep wound after a fight with another dog.",
+      "indian_climate_factors": "Dog fights are common in some areas.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Adult dogs are more likely to be involved in fights.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How deep is the wound?",
+        "How much blood is being lost?",
+        "Is the dog showing signs of shock?"
+      ],
+      "home_care_india": "Apply direct pressure to the wound; seek immediate veterinary care.",
+      "vet_triggers": "Any significant bleeding requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Supervise interactions with other dogs; avoid aggressive dogs.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Heat Stroke",
+      "description": "A senior Dachshund showing signs of heatstroke after being left in a parked car during the day.",
+      "indian_climate_factors": "High temperatures inside parked cars are extremely dangerous.",
+      "breed_predisposition": "Small breeds are more susceptible to heatstroke.",
+      "age_considerations": "Senior dogs are more vulnerable.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long was the dog in the car?",
+        "What is the dog's rectal temperature?",
+        "Is the dog conscious?"
+      ],
+      "home_care_india": "Cool the dog down gradually; seek immediate veterinary care.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most prevalent during summer.",
+      "prevention_tips": "Never leave dogs unattended in parked cars.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_44",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Bloat",
+      "description": "An adult Border Collie experiencing bloat after consuming a large quantity of water quickly following strenuous exercise.",
+      "indian_climate_factors": "High temperatures can increase water consumption.",
+      "breed_predisposition": "While not as predisposed as some breeds, bloat can still occur.",
+      "age_considerations": "Adults are more prone.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "When did the bloating start?",
+        "Has the dog vomited?",
+        "Is the dog showing signs of discomfort?"
+      ],
+      "home_care_india": "Keep the dog calm; seek immediate veterinary care.",
+      "vet_triggers": "Immediate veterinary attention is necessary.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during warmer months.",
+      "prevention_tips": "Encourage slow water consumption; avoid strenuous activity after meals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_(unknown_s_45",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer",
+        "dachshund"
+      ],
+      "symptom": "Poisoning (unknown substance)",
+      "description": "A young Boxer and an adult Dachshund exhibiting symptoms of poisoning from an unknown source in a densely populated urban area.",
+      "indian_climate_factors": "Urban pollution can contribute to accidental poisoning.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Both puppies and adults are vulnerable.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "What symptoms are present?",
+        "When did the symptoms start?",
+        "Has anything unusual been ingested?"
+      ],
+      "home_care_india": "Keep the dogs calm and comfortable; seek veterinary care immediately. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Any suspected poisoning requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Supervise dogs carefully in urban environments; keep potentially toxic substances out of reach.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_46",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Bloat",
+      "description": "A Persian kitten experiencing abdominal distension after consuming a large quantity of milk.",
+      "indian_climate_factors": "High humidity can exacerbate bloating.",
+      "breed_predisposition": "Persians' brachycephalic features can contribute to digestive issues.",
+      "age_considerations": "Kittens are more susceptible due to immature digestive systems.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long has the bloating been present?",
+        "Has the kitten vomited?",
+        "Is the abdomen painful to the touch?"
+      ],
+      "home_care_india": "Keep the kitten warm and comfortable; avoid feeding.",
+      "vet_triggers": "Immediate veterinary attention required due to potential for gastric torsion.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during monsoon due to changes in diet and water intake.",
+      "prevention_tips": "Feed small, frequent meals; avoid sudden dietary changes; monitor milk intake.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_47",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Seizures",
+      "description": "Adult Siamese cat experiencing repeated convulsions after exposure to pesticide.",
+      "indian_climate_factors": "Monsoon season brings increased pesticide use, increasing exposure risk.",
+      "breed_predisposition": "Siamese cats are prone to certain neurological conditions.",
+      "age_considerations": "Adult cats can experience seizures due to various underlying conditions.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long have the seizures lasted?",
+        "What was the cat exposed to?",
+        "Has the cat experienced seizures before?"
+      ],
+      "home_care_india": "Ensure a safe environment; prevent self-harm during seizures.",
+      "vet_triggers": "Immediate veterinary care needed; potential for underlying condition.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher incidence during monsoon due to increased pesticide use.",
+      "prevention_tips": "Keep pesticides out of reach; regular flea/tick prevention.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_48",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "Senior Maine Coon with asthma experiencing labored breathing during a dust storm.",
+      "indian_climate_factors": "Dust storms during summer exacerbate respiratory issues.",
+      "breed_predisposition": "Large breeds like Maine Coons can be more prone to respiratory problems.",
+      "age_considerations": "Senior cats have weaker respiratory systems.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long has the cat been struggling to breathe?",
+        "Is there any wheezing or coughing?",
+        "Has the cat been exposed to irritants?"
+      ],
+      "home_care_india": "Keep the cat calm and in a clean environment.",
+      "vet_triggers": "Seek immediate veterinary attention; potential for respiratory distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during summer and monsoon due to dust and humidity.",
+      "prevention_tips": "Regular grooming; avoid dusty environments; use air purifiers.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_49",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian",
+        "Siamese"
+      ],
+      "symptom": "Severe Bleeding",
+      "description": "Persian cat involved in a fight with a street cat, resulting in deep lacerations.",
+      "indian_climate_factors": "Street fights are common, especially during mating season.",
+      "breed_predisposition": "Long-haired breeds like Persians can be more vulnerable to injuries.",
+      "age_considerations": "Adult cats are more prone to fights.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How deep is the wound?",
+        "Is there any visible bone or organ damage?",
+        "Is the bleeding profuse?"
+      ],
+      "home_care_india": "Apply pressure to the wound; keep the cat calm.",
+      "vet_triggers": "Immediate veterinary attention needed; risk of infection and blood loss.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during mating seasons.",
+      "prevention_tips": "Keep indoor cats indoors; avoid letting cats roam freely.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_50",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Poisoning",
+      "description": "Maine Coon kitten ingesting rat poison left unattended.",
+      "indian_climate_factors": "Rodent infestations are common in some areas.",
+      "breed_predisposition": "Curious kittens are more likely to ingest toxins.",
+      "age_considerations": "Kittens are more vulnerable to poisoning.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "What did the cat ingest?",
+        "How much was ingested?",
+        "What are the cat's symptoms?"
+      ],
+      "home_care_india": "Keep the cat calm; induce vomiting only if advised by a vet.",
+      "vet_triggers": "Immediate veterinary attention needed; potential for organ damage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during monsoon due to increased rodent activity.",
+      "prevention_tips": "Use safe rodent control methods; keep pesticides out of reach.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_51",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Heat Stroke",
+      "description": "Siamese cat left in a parked car during peak summer heat.",
+      "indian_climate_factors": "Extreme summer heat poses a significant risk.",
+      "breed_predisposition": "Shorter-haired breeds can be more vulnerable to heatstroke.",
+      "age_considerations": "All ages are vulnerable, but kittens and seniors are more susceptible.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How long was the cat exposed to heat?",
+        "What is the cat's body temperature?",
+        "Is the cat lethargic or unresponsive?"
+      ],
+      "home_care_india": "Cool the cat down gradually; provide cool water.",
+      "vet_triggers": "Immediate veterinary attention needed; potential for organ damage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most common during summer.",
+      "prevention_tips": "Never leave cats in parked cars; provide shade and cool water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_52",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Bloat",
+      "description": "Adult Persian experiencing mild abdominal distension after eating spoiled fish.",
+      "indian_climate_factors": "Spoiled food is a risk, especially during monsoon.",
+      "breed_predisposition": "Persians can have sensitive digestive systems.",
+      "age_considerations": "Adults are more prone to digestive upsets.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the cat eat?",
+        "When did the bloating start?",
+        "Is the cat showing other symptoms?"
+      ],
+      "home_care_india": "Withhold food for a few hours; offer small amounts of water.",
+      "vet_triggers": "Seek veterinary attention if bloating worsens or other symptoms appear.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More frequent during monsoon due to food spoilage.",
+      "prevention_tips": "Feed fresh food; avoid feeding spoiled or questionable food.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_53",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Seizures",
+      "description": "Kitten experiencing a single, brief seizure after a fall.",
+      "indian_climate_factors": "Falls can occur anywhere, but are more common in urban settings.",
+      "breed_predisposition": "Some Siamese cats can be prone to neurological issues.",
+      "age_considerations": "Kittens can experience seizures due to trauma or underlying conditions.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Did the cat hit its head?",
+        "Has the cat shown any other neurological signs?"
+      ],
+      "home_care_india": "Keep the kitten calm and warm.",
+      "vet_triggers": "Seek veterinary attention for further evaluation.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Provide a safe environment; supervise kittens closely.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_54",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "Adult Maine Coon with mild respiratory irritation due to air pollution.",
+      "indian_climate_factors": "Air pollution is a major concern in urban areas.",
+      "breed_predisposition": "Large breeds can have larger lung capacities, but still susceptible to irritation.",
+      "age_considerations": "Adults can develop respiratory issues due to environmental factors.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "Is there any coughing or sneezing?",
+        "Has the cat been exposed to irritants?",
+        "Is the cat showing any other symptoms?"
+      ],
+      "home_care_india": "Keep the cat in a clean, well-ventilated area.",
+      "vet_triggers": "Seek veterinary attention if symptoms worsen or persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry seasons due to increased air pollution.",
+      "prevention_tips": "Keep the cat indoors during peak pollution hours; use air purifiers.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_55",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Severe Bleeding",
+      "description": "Senior Persian with a minor cut that is slow to clot due to age.",
+      "indian_climate_factors": "Increased risk of minor injuries in the home environment.",
+      "breed_predisposition": "Older cats have slower clotting times.",
+      "age_considerations": "Senior cats' bodies are less efficient at healing.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How did the cat get the cut?",
+        "How long has it been bleeding?",
+        "Is the cat showing any other symptoms?"
+      ],
+      "home_care_india": "Apply gentle pressure to the wound; keep the cat calm.",
+      "vet_triggers": "Seek veterinary attention if bleeding doesn't stop after 10-15 minutes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Keep the home environment safe; provide regular grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_poisoning_56",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Poisoning",
+      "description": "Adult Siamese cat showing mild symptoms after ingesting a small amount of insecticide.",
+      "indian_climate_factors": "Insecticides are commonly used in India, increasing risk of accidental ingestion.",
+      "breed_predisposition": "Curious cats may investigate and ingest potentially harmful substances.",
+      "age_considerations": "Adults are more likely to explore their environment.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What was the cat exposed to?",
+        "What are the cat's symptoms?",
+        "How much was ingested (if known)?"
+      ],
+      "home_care_india": "Monitor the cat closely; provide fresh water.",
+      "vet_triggers": "Seek veterinary advice if symptoms worsen or persist.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during warmer months due to increased insect activity.",
+      "prevention_tips": "Store insecticides safely; use pet-safe pest control methods.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_57",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Heat Stroke",
+      "description": "Maine Coon kitten showing mild signs of overheating after playing outdoors during a hot afternoon.",
+      "indian_climate_factors": "Intense sun exposure during peak hours is a risk factor.",
+      "breed_predisposition": "Kittens are more vulnerable to heatstroke due to immature thermoregulation.",
+      "age_considerations": "Kittens have difficulty regulating body temperature.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long was the kitten exposed to the sun?",
+        "Is the kitten lethargic?",
+        "Is the kitten panting excessively?"
+      ],
+      "home_care_india": "Provide cool water; move the kitten to a shaded area.",
+      "vet_triggers": "Seek veterinary attention if symptoms worsen or persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer months.",
+      "prevention_tips": "Avoid outdoor activity during peak sun hours; provide shade and water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_bloat_58",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian",
+        "Maine Coon"
+      ],
+      "symptom": "Bloat",
+      "description": "Senior Persian and Maine Coon experiencing mild bloating after consuming a new type of dry food.",
+      "indian_climate_factors": "Dietary changes can affect digestion, especially in humid conditions.",
+      "breed_predisposition": "Both breeds can have sensitive digestive systems, especially in old age.",
+      "age_considerations": "Seniors have slower metabolisms and digestive systems.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What is the new food?",
+        "When did the bloating start?",
+        "Is the cat showing any other symptoms?"
+      ],
+      "home_care_india": "Switch back to the previous food; offer small amounts of water.",
+      "vet_triggers": "Seek veterinary attention if bloating worsens or other symptoms appear.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May be slightly more common during monsoon due to humidity.",
+      "prevention_tips": "Introduce new foods gradually; monitor for digestive upset.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_59",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Seizures",
+      "description": "Adult Siamese cat experiencing a single seizure possibly due to low blood sugar.",
+      "indian_climate_factors": "Stress and changes in routine can affect blood sugar levels.",
+      "breed_predisposition": "Siamese cats can be susceptible to certain metabolic disorders.",
+      "age_considerations": "Adults are more prone to metabolic issues.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Has the cat eaten recently?",
+        "Has the cat shown any other symptoms?"
+      ],
+      "home_care_india": "Offer a small amount of sugar water (if conscious); keep the cat warm.",
+      "vet_triggers": "Seek veterinary attention for diagnosis and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variations.",
+      "prevention_tips": "Maintain a regular feeding schedule; monitor for signs of metabolic disorders.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_60",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon",
+        "Persian"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "Kitten experiencing mild difficulty breathing due to upper respiratory infection.",
+      "indian_climate_factors": "Viral infections are common, especially during the monsoon season.",
+      "breed_predisposition": "Young kittens are vulnerable to respiratory infections.",
+      "age_considerations": "Kittens have immature immune systems.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "Is there any sneezing or coughing?",
+        "Is there any nasal discharge?",
+        "Is the kitten lethargic?"
+      ],
+      "home_care_india": "Keep the kitten warm and comfortable; provide fluids.",
+      "vet_triggers": "Seek veterinary attention for diagnosis and treatment; potential for secondary bacterial infections.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to increased humidity and viral spread.",
+      "prevention_tips": "Ensure vaccinations are up-to-date; avoid exposure to sick animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_bloat_61",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Bloat",
+      "description": "A British Shorthair kitten experiencing abdominal distension and discomfort.",
+      "indian_climate_factors": "High humidity can exacerbate bloating.",
+      "breed_predisposition": "British Shorthairs, while not specifically prone to bloat, can still suffer from it.",
+      "age_considerations": "Kittens are more vulnerable due to immature digestive systems.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the abdomen distended?",
+        "Is the cat vomiting or showing signs of pain?",
+        "Has the cat eaten something unusual?"
+      ],
+      "home_care_india": "Keep the kitten calm and quiet; avoid feeding.",
+      "vet_triggers": "Immediate veterinary attention is needed due to risk of gastric torsion.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during hotter months due to increased risk of dehydration.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid sudden diet changes.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_seizures_62",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Seizures",
+      "description": "An adult Ragdoll experiencing sudden, uncontrolled muscle spasms.",
+      "indian_climate_factors": "Heatstroke can trigger seizures.",
+      "breed_predisposition": "Ragdolls are generally healthy but can be susceptible to certain neurological conditions.",
+      "age_considerations": "Seizures can occur at any age, but underlying conditions may be more prevalent in seniors.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Were there any preceding symptoms?",
+        "Has this happened before?"
+      ],
+      "home_care_india": "Ensure a safe environment; keep the cat away from sharp objects.",
+      "vet_triggers": "Seek immediate veterinary care; seizures can indicate a serious underlying issue.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased incidence during the hottest months due to heatstroke.",
+      "prevention_tips": "Regular veterinary checkups to detect and manage potential underlying conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_difficulty_breathing_63",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Difficulty Breathing",
+      "description": "A Bengal cat exhibiting labored breathing and respiratory distress.",
+      "indian_climate_factors": "Air pollution and monsoon humidity can worsen respiratory issues.",
+      "breed_predisposition": "Bengals, with their active nature, can develop respiratory problems from exertion in hot, humid weather.",
+      "age_considerations": "Senior Bengals might be more susceptible due to age-related health issues.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the breathing rapid or shallow?",
+        "Is there any wheezing or coughing?",
+        "Is the cat exhibiting cyanosis?"
+      ],
+      "home_care_india": "Keep the cat in a cool, well-ventilated area; ensure access to fresh water. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention is crucial for respiratory distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during monsoon season due to high humidity and allergens.",
+      "prevention_tips": "Avoid exposure to dust, pollutants, and allergens.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_severe_bleeding_64",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "Severe Bleeding",
+      "description": "A British Shorthair adult cat with a deep laceration resulting in significant blood loss.",
+      "indian_climate_factors": "Monsoon rains can increase the risk of injuries from falls or accidents.",
+      "breed_predisposition": "No specific breed predisposition, but injuries can occur to any breed.",
+      "age_considerations": "Severity can vary with age and overall health.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Where is the bleeding from?",
+        "How severe is the bleeding?",
+        "Is the cat showing signs of shock?"
+      ],
+      "home_care_india": "Apply direct pressure to the wound; keep the cat calm and warm.",
+      "vet_triggers": "Immediate veterinary care is necessary to control bleeding and prevent shock.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk of injury during monsoon season.",
+      "prevention_tips": "Keep cats indoors during monsoon seasons, or closely supervise outdoor time.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_poisoning_65",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Poisoning",
+      "description": "A Bengal kitten exhibiting symptoms of poisoning after ingesting rat poison.",
+      "indian_climate_factors": "Street cats are more vulnerable to poisoning from readily available pesticides.",
+      "breed_predisposition": "No specific breed predisposition; street cats are at higher risk.",
+      "age_considerations": "Kittens are more susceptible due to smaller body size.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the cat ingest?",
+        "What are the symptoms?",
+        "When did the ingestion occur?"
+      ],
+      "home_care_india": "Induce vomiting only if advised by a vet; keep the cat warm and quiet. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Immediate veterinary attention is crucial for effective treatment.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during warmer months when pesticides are more frequently used.",
+      "prevention_tips": "Keep pesticides away from cats; ensure safe disposal of poisonous substances.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_heat_stroke_66",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Heat Stroke",
+      "description": "An adult Ragdoll showing signs of heatstroke after prolonged sun exposure.",
+      "indian_climate_factors": "High temperatures and humidity during summer months increase the risk.",
+      "breed_predisposition": "Ragdolls, with their long fur, are more susceptible to heatstroke.",
+      "age_considerations": "Older cats are more vulnerable due to decreased thermoregulation.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What was the duration of sun exposure?",
+        "What is the cat's body temperature?",
+        "Is the cat lethargic or unresponsive?"
+      ],
+      "home_care_india": "Cool the cat gradually with cool (not ice) water; provide access to fresh water.",
+      "vet_triggers": "Immediate veterinary attention is needed to prevent organ damage.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most prevalent during the hottest months (April-June).",
+      "prevention_tips": "Keep cats indoors during peak sun hours; provide plenty of shade and water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_bloat_(mild)_67",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Bloat (mild)",
+      "description": "A senior British Shorthair exhibiting mild abdominal distension.",
+      "indian_climate_factors": "Increased humidity can worsen discomfort.",
+      "breed_predisposition": "While not predisposed, age can increase risk.",
+      "age_considerations": "Older cats are more prone to digestive issues.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the cat showing any signs of pain?",
+        "Has there been a change in appetite?",
+        "Has the cat passed normal stool?"
+      ],
+      "home_care_india": "Offer small amounts of bland food; monitor for worsening symptoms. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Consult a vet if symptoms worsen or persist for more than 24 hours.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during hotter months.",
+      "prevention_tips": "Maintain a consistent diet; avoid sudden changes in food.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_mild_seizure_68",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Mild Seizure",
+      "description": "A young Ragdoll experiencing a brief, isolated seizure.",
+      "indian_climate_factors": "Sudden temperature changes can trigger seizures.",
+      "breed_predisposition": "No specific predisposition; idiopathic seizures can occur.",
+      "age_considerations": "Young cats may have underlying conditions causing seizures.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long did the seizure last?",
+        "Were there any unusual behaviors before the seizure?",
+        "Did the cat regain consciousness quickly?"
+      ],
+      "home_care_india": "Provide a safe environment; monitor for recurrence.",
+      "vet_triggers": "Seek veterinary attention if seizures recur.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Occurrence may vary with temperature fluctuations.",
+      "prevention_tips": "Regular veterinary checkups to rule out underlying conditions.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_mild_difficulty_brea_69",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Mild Difficulty Breathing",
+      "description": "A Bengal cat with slightly labored breathing after strenuous play.",
+      "indian_climate_factors": "High humidity can exacerbate respiratory distress.",
+      "breed_predisposition": "Active Bengals might overexert themselves in hot weather.",
+      "age_considerations": "Adult Bengals are most likely to exhibit this.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the breathing noticeably labored?",
+        "Is there any coughing or wheezing?",
+        "Has the cat been overexerted?"
+      ],
+      "home_care_india": "Provide rest in a cool environment; monitor breathing.",
+      "vet_triggers": "Consult a vet if breathing difficulty persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more frequent during hot and humid months.",
+      "prevention_tips": "Avoid strenuous activity during peak heat hours.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_minor_bleeding_70",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Minor Bleeding",
+      "description": "A British Shorthair with a small cut that is bleeding minimally.",
+      "indian_climate_factors": "Dust and debris can increase risk of minor injuries.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Can occur in cats of all ages.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How deep is the cut?",
+        "Is the bleeding slow or fast?",
+        "Is the cat showing any signs of discomfort?"
+      ],
+      "home_care_india": "Clean the wound with clean water; apply a mild antiseptic.",
+      "vet_triggers": "Seek veterinary attention if bleeding persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Minor injuries may be more common during dusty seasons.",
+      "prevention_tips": "Keep claws trimmed; ensure a safe environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_mild_poisoning_71",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Mild Poisoning",
+      "description": "A Ragdoll cat showing mild symptoms after ingesting a small amount of household cleaner.",
+      "indian_climate_factors": "Improper storage of household chemicals can increase risk.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "All ages are susceptible.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What substance did the cat ingest?",
+        "What are the symptoms?",
+        "How much of the substance was ingested?"
+      ],
+      "home_care_india": "Monitor the cat closely; provide fresh water.",
+      "vet_triggers": "Consult a vet if symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Risk remains consistent throughout the year.",
+      "prevention_tips": "Keep household chemicals out of reach; properly label and store them.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_heat_exhaustion_72",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Heat Exhaustion",
+      "description": "A Bengal cat exhibiting mild heat exhaustion after playing outdoors.",
+      "indian_climate_factors": "High ambient temperatures and humidity.",
+      "breed_predisposition": "Active Bengals are more prone to overheating.",
+      "age_considerations": "All ages are susceptible, but kittens and seniors are more vulnerable.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the cat lethargic?",
+        "Is the cat panting excessively?",
+        "Is the cat's skin warm to the touch?"
+      ],
+      "home_care_india": "Provide access to cool water and shade; allow the cat to rest. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Seek veterinary attention if symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during hot and humid seasons.",
+      "prevention_tips": "Avoid strenuous activity during peak heat; provide access to cool places.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_ingestion_of_spoiled_73",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "bengal"
+      ],
+      "symptom": "Ingestion of Spoiled Food",
+      "description": "A British Shorthair adult cat experiencing vomiting and diarrhea after eating spoiled fish.",
+      "indian_climate_factors": "Spoilage is faster in hot and humid conditions.",
+      "breed_predisposition": "No specific breed predisposition; common in cats that scavenge.",
+      "age_considerations": "More common in adult cats who may be more adventurous eaters.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the cat eat?",
+        "When did the cat eat it?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Withhold food for a few hours; offer fresh water; monitor for dehydration.",
+      "vet_triggers": "Seek veterinary care if vomiting or diarrhea is severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk in warmer months due to faster food spoilage.",
+      "prevention_tips": "Store food properly; avoid leaving food out for extended periods.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "emg_allergic_reaction_(d_74",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Allergic Reaction (Dust)",
+      "description": "A senior Ragdoll exhibiting sneezing, itching, and watery eyes due to dust allergies.",
+      "indian_climate_factors": "Dust and airborne allergens are more prevalent during dry seasons.",
+      "breed_predisposition": "No specific predisposition; common in cats.",
+      "age_considerations": "Senior cats may have more pronounced allergy symptoms.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "Has the cat been exposed to any new substances?",
+        "Does the cat scratch excessively?"
+      ],
+      "home_care_india": "Keep the cat in a clean environment; use air purifiers. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Consult a vet for diagnosis and treatment if symptoms are severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry seasons.",
+      "prevention_tips": "Regular cleaning; use hypoallergenic bedding; air purifiers.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "emg_urinary_tract_infect_75",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Urinary Tract Infection (UTI)",
+      "description": "A Bengal kitten exhibiting frequent urination, straining, and blood in the urine, indicative of a UTI.",
+      "indian_climate_factors": "Dehydration from hot weather can increase the risk of UTIs.",
+      "breed_predisposition": "No specific breed predisposition; common in cats.",
+      "age_considerations": "Kittens are particularly vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often is the cat urinating?",
+        "Is the cat straining to urinate?",
+        "Is there any blood in the urine?"
+      ],
+      "home_care_india": "Ensure access to fresh water; monitor urination. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Consult a vet for diagnosis and treatment; UTIs can be serious.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during hot, dry weather due to dehydration.",
+      "prevention_tips": "Ensure access to clean water; monitor hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "e_foreign_obj_dog_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "swallowed_foreign_object",
+      "description": "Dog swallowed toy, bone piece, sock, or other foreign object. Even if dog seems normal, object can cause intestinal blockage within hours. Time-critical emergency requiring immediate X-ray evaluation.",
+      "indian_climate_factors": "Street dogs may ingest plastic waste or discarded items.",
+      "breed_predisposition": "Puppies and curious breeds (Labradors, Beagles) at highest risk.",
+      "age_considerations": "Puppies especially prone, but all ages at risk.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "What object was swallowed?",
+        "How large was it?",
+        "When did this happen?",
+        "Any vomiting or distress?"
+      ],
+      "home_care_india": "Do NOT induce vomiting. Do NOT wait for symptoms. Transport to emergency vet immediately for X-rays.",
+      "vet_triggers": "ANY foreign object ingestion requires immediate vet assessment, even if asymptomatic.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Year-round risk.",
+      "prevention_tips": "Keep small objects away, supervise play, use size-appropriate toys.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "e_foreign_obj_cat_1",
+      "species": "cats",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "foreign_object_ingestion",
+      "description": "Cat swallowed string, yarn, ribbon, or linear foreign object. Particularly dangerous as they cause intestinal bunching. Cat may appear normal initially but this is life-threatening emergency.",
+      "indian_climate_factors": "Festival decorations and strings increase risk.",
+      "breed_predisposition": "All cats, especially kittens.",
+      "age_considerations": "Kittens and young cats most at risk.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "What was swallowed?",
+        "Can you see string hanging from mouth?",
+        "When did this happen?"
+      ],
+      "home_care_india": "Do NOT pull visible string. Do NOT induce vomiting. Emergency vet immediately.",
+      "vet_triggers": "Linear foreign objects are surgical emergencies. Immediate care required.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased during festivals with decorative items.",
+      "prevention_tips": "Keep all string, yarn, ribbon secured away from cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "e_cat_urinary_blockage_1",
+      "species": "cats",
+      "breeds_affected": [
+        "all_breeds",
+        "male_cats"
+      ],
+      "symptom": "urinary_blockage",
+      "description": "Male cat unable to urinate, straining in litter box repeatedly with no urine output. Life-threatening emergency as toxins build up in bloodstream within 24-48 hours. Cat may cry in pain, vomit, or become lethargic.",
+      "indian_climate_factors": "Dehydration in hot weather increases risk. Limited fresh water access increases crystal formation.",
+      "breed_predisposition": "Male cats of all breeds, especially neutered males. Persian cats more prone.",
+      "age_considerations": "Most common in adult male cats 2-6 years.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did you last see cat urinate?",
+        "Is he straining in litter box?",
+        "Vomiting or lethargic?",
+        "Any crying or pain signs?"
+      ],
+      "home_care_india": "Do NOT attempt home treatment. Life-threatening. Transport to emergency vet immediately.",
+      "vet_triggers": "No urine output 12+ hours, straining, crying in litter box, vomiting.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk in hot summer due to dehydration.",
+      "prevention_tips": "Fresh water always available, wet food diet, multiple litter boxes, stress reduction.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e_cat_lily_poisoning_1",
+      "species": "cats",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "lily_poisoning",
+      "description": "Cat exposed to any part of lily plant (flowers, leaves, pollen, water). All parts of true lilies highly toxic to cats causing acute kidney failure. Even small exposure fatal without immediate treatment.",
+      "indian_climate_factors": "Lilies commonly used in Indian homes and temples, increasing exposure risk.",
+      "breed_predisposition": "All cats equally susceptible.",
+      "age_considerations": "All ages at risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What type of lily?",
+        "When was exposure?",
+        "Did cat eat any part or walk through pollen?",
+        "Any vomiting or lethargy?"
+      ],
+      "home_care_india": "Do NOT wait for symptoms. Even suspected exposure requires immediate emergency vet within 1-2 hours.",
+      "vet_triggers": "ANY lily exposure in cats is automatic emergency.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during festivals when lilies used for decoration.",
+      "prevention_tips": "Never keep lilies in homes with cats. Remove immediately if gifted.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e_snake_bite_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds",
+        "indian_pariah_dog"
+      ],
+      "symptom": "snake_bite",
+      "description": "Dog bitten by snake, showing fang marks, swelling, pain, or neurological signs. India has many venomous snakes (cobras, kraits, vipers). Life-threatening emergency.",
+      "indian_climate_factors": "Snakes more active during monsoon and warm months. Common in rural and semi-urban areas.",
+      "breed_predisposition": "Street dogs and outdoor dogs at highest risk.",
+      "age_considerations": "All ages equally at risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Where is bite located?",
+        "Did you see the snake?",
+        "When did bite occur?",
+        "Any swelling, pain, or difficulty breathing?"
+      ],
+      "home_care_india": "Keep dog calm and still. Do NOT cut wound or apply tourniquet. Rush to vet immediately.",
+      "vet_triggers": "ANY suspected snake bite is emergency. Swelling, weakness, drooling, difficulty breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Highest risk during monsoon (June-September) and summer.",
+      "prevention_tips": "Avoid walking in tall grass during monsoon, keep dogs leashed in snake-prone areas.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e_firecracker_burn_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "firecracker burns diwali burned fire injury",
+      "description": "Dog burned by firecracker during Diwali or other festival. Dog with burns, singed fur, or eye injury from Diwali firecrackers. Burns can be severe, eye damage may cause blindness. Common emergency during festival season.",
+      "indian_climate_factors": "Diwali season (October-November) sees spike in firecracker injuries.",
+      "breed_predisposition": "Street dogs and outdoor dogs most at risk.",
+      "age_considerations": "All ages at risk during festivals.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Where are burns located?",
+        "Any eye involvement?",
+        "When did injury occur?",
+        "Is dog in shock?"
+      ],
+      "home_care_india": "Cool burn with clean water (not ice), cover with clean cloth. Do NOT apply ointments. Rush to vet.",
+      "vet_triggers": "Burns covering large area, eye involvement, signs of shock, severe pain.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Peak during Diwali and festivals with firecrackers.",
+      "prevention_tips": "Keep pets indoors during Diwali, secure windows, create safe quiet space.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e_chocolate_poisoning_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "chocolate_poisoning",
+      "description": "Dog ate chocolate (bar, cake, cookies). Theobromine in chocolate is toxic to dogs causing vomiting, diarrhea, rapid heart rate, seizures, and death. Dark chocolate and baking chocolate most dangerous. Emergency regardless of amount.",
+      "indian_climate_factors": "Chocolate desserts common during festivals.",
+      "breed_predisposition": "All breeds equally affected. Small dogs at higher risk due to body weight.",
+      "age_considerations": "All ages at risk, puppies more vulnerable.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What type of chocolate?",
+        "How much was eaten?",
+        "When did ingestion occur?",
+        "Any vomiting or shaking?"
+      ],
+      "home_care_india": "Do NOT induce vomiting at home. Contact emergency vet immediately or pet poison helpline.",
+      "vet_triggers": "ANY chocolate ingestion requires immediate vet assessment within 1-2 hours.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during Diwali, Christmas, and festivals.",
+      "prevention_tips": "Keep all chocolate secured away from pets. Educate family about danger.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e_bloat_abdomen_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "bloat bloated abdomen distended",
+      "description": "Dog has bloated, swollen, distended abdomen with signs of discomfort, restlessness, and attempting to vomit",
+      "indian_climate_factors": "Heat can exacerbate bloat risk",
+      "breed_predisposition": "Deep-chested breeds most at risk",
+      "age_considerations": "More common in adult and senior dogs",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the abdomen been swollen?",
+        "Is the dog trying to vomit?",
+        "Can you see the abdomen expanding?"
+      ],
+      "home_care_india": "DO NOT wait. This is life-threatening. Keep dog calm and seek immediate emergency care.",
+      "vet_triggers": "Distended abdomen, non-productive vomiting, restlessness",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Year-round but slightly higher in hot weather",
+      "prevention_tips": "Small frequent meals, avoid exercise after eating, slow-feed bowls",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "emg_trauma_car_bleeding",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "dog hit by car accident trauma bleeding injured wound",
+      "description": "Dog was hit by car or vehicle, has visible bleeding, wounds, or signs of trauma. May have fractures or internal injuries.",
+      "indian_climate_factors": "Street accidents common in urban India",
+      "breed_predisposition": "All breeds at risk",
+      "age_considerations": "All ages",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did accident occur?",
+        "Is dog conscious?",
+        "How severe is bleeding?"
+      ],
+      "home_care_india": "DO NOT MOVE unnecessarily. Apply pressure to bleeding. Rush to vet immediately.",
+      "vet_triggers": "Any trauma from vehicle, visible bleeding, loss of consciousness",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Year-round risk",
+      "prevention_tips": "Always use leash in traffic areas",
+      "severity": "emergency"
+    }
+  ]
+}
