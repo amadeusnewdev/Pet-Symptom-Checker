@@ -1,0 +1,1119 @@
+{
+  "metadata": {
+    "category": "eyes_ears",
+    "total_entries": 46,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 10
+  },
+  "entries": [
+    {
+      "entry_id": "eye_eye_discharge_(mucop_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "eye_discharge (mucopurulent)",
+      "description": "A senior dachshund with thick, yellowish-green eye discharge, possibly due to bacterial conjunctivitis exacerbated by dust.",
+      "indian_climate_factors": "Dust and humidity worsen the infection.",
+      "breed_predisposition": "Dachshunds' protruding eyes are more susceptible to injury and infection.",
+      "age_considerations": "Older dogs have weaker immune systems, leading to more severe infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the discharge unilateral or bilateral?",
+        "Is there any squinting or pain?",
+        "Has there been any trauma to the eye?"
+      ],
+      "home_care_india": "Clean eyes gently with warm water, avoid harsh soaps.",
+      "vet_triggers": "If discharge persists >2 days, or if there's swelling or pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry, dusty months (winter, summer).",
+      "prevention_tips": "Regular eye cleaning, avoid dusty areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_ear_infections_(yeas_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "ear_infections (yeast)",
+      "description": "A young Boxer with recurrent yeast ear infections, possibly due to the floppy ears trapping moisture and debris.",
+      "indian_climate_factors": "High humidity promotes yeast growth.",
+      "breed_predisposition": "Boxers' floppy ears create a warm, moist environment ideal for yeast.",
+      "age_considerations": "Young dogs are more prone to infections due to immature immune systems.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "Is there redness, swelling, or odor?",
+        "Is the dog shaking its head excessively?",
+        "Is there any scratching of the ears?"
+      ],
+      "home_care_india": "Regular ear cleaning with vet-recommended solution.",
+      "vet_triggers": "If infection doesn't improve with home care or if there's significant pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season due to increased humidity.",
+      "prevention_tips": "Regular ear cleaning, avoid swimming in contaminated water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_hearing_loss_(age-re_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "hearing_loss (age-related)",
+      "description": "An older Border Collie showing signs of gradual hearing loss, possibly due to age and cumulative noise exposure.",
+      "indian_climate_factors": "Not directly affected by climate.",
+      "breed_predisposition": "No specific predisposition, but age-related hearing loss is common in all breeds.",
+      "age_considerations": "Hearing loss is common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Does the dog respond to sounds less frequently?",
+        "Does the dog seem startled by sudden noises?",
+        "Is there any head tilting?"
+      ],
+      "home_care_india": "Adapt communication strategies, use hand signals.",
+      "vet_triggers": "If hearing loss significantly impacts quality of life.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular vet checkups to monitor hearing.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_vision_problems_(cat_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "vision_health issues (cataracts)",
+      "description": "An adult Australian Shepherd with developing cataracts, potentially genetic predisposition.",
+      "indian_climate_factors": "UV exposure from sun can worsen cataracts.",
+      "breed_predisposition": "Some breeds have a higher risk of developing cataracts.",
+      "age_considerations": "Cataracts can develop at any age, but more common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there cloudiness in the lens of the eye?",
+        "Is the dog bumping into objects?",
+        "Is there any change in pupil size or response to light?"
+      ],
+      "home_care_india": "Provide a safe environment, avoid sudden movements.",
+      "vet_triggers": "If vision impairment impacts daily life.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "UV exposure is higher during summer months.",
+      "prevention_tips": "Regular eye exams, UV protection.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_conjunctivitis_(alle_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "conjunctivitis (allergic)",
+      "description": "A puppy with allergic conjunctivitis, possibly triggered by pollen or dust.",
+      "indian_climate_factors": "Pollen and dust are prevalent during certain seasons.",
+      "breed_predisposition": "No specific breed predisposition, but all breeds can suffer from allergies.",
+      "age_considerations": "Young dogs can develop allergies at any time.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there itching, redness, or swelling?",
+        "Is there any discharge?",
+        "Are there other allergy symptoms?"
+      ],
+      "home_care_india": "Clean eyes gently, avoid irritants.",
+      "vet_triggers": "If symptoms are severe or don't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during spring and monsoon seasons.",
+      "prevention_tips": "Minimize exposure to allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "eye_dry_eye_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "dry eye",
+      "description": "Adult Border Collie with dry eye, possibly due to environmental irritants.",
+      "indian_climate_factors": "Dust and pollution can exacerbate dry eye.",
+      "breed_predisposition": "No specific breed predisposition but environmental factors play a role.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there excessive tearing or discomfort?",
+        "Is the eye appearing dry or irritated?",
+        "Is there any redness or discharge?"
+      ],
+      "home_care_india": "Use vet-recommended eye lubricant.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry, dusty seasons.",
+      "prevention_tips": "Avoid dusty areas, use eye lubricant as needed.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_ear_hematoma_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "ear hematoma",
+      "description": "Adult Australian Shepherd with ear hematoma, likely due to head shaking from an ear infection.",
+      "indian_climate_factors": "High humidity can increase risk of infection leading to hematoma.",
+      "breed_predisposition": "No specific breed predisposition but ear infections can lead to this.",
+      "age_considerations": "Can occur at any age but more common in active dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there a fluid-filled swelling in the ear?",
+        "Is there any pain or discomfort?",
+        "Is there a history of ear infection?"
+      ],
+      "home_care_india": "Keep the ear clean and dry.",
+      "vet_triggers": "Requires veterinary attention for drainage or surgery.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk during monsoon due to ear infections.",
+      "prevention_tips": "Prevent ear infections, avoid excessive head shaking.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_glaucoma_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "glaucoma",
+      "description": "Senior Dachshund with glaucoma, possibly due to breed predisposition and age.",
+      "indian_climate_factors": "Not directly affected by climate.",
+      "breed_predisposition": "Some breeds have a higher risk of glaucoma.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there increased eye pressure?",
+        "Is there pain or vision loss?",
+        "Is the pupil dilated?"
+      ],
+      "home_care_india": "Provide a safe environment.",
+      "vet_triggers": "Requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular eye exams.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "eye_entropion_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "entropion",
+      "description": "A dogs presenting with entropion. Puppy Boxer with entropion, possibly genetic.",
+      "indian_climate_factors": "Dust and debris can irritate the eye.",
+      "breed_predisposition": "Boxers are predisposed to entropion.",
+      "age_considerations": "Often present from birth or early puppyhood.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are the eyelids turning inward?",
+        "Is there excessive tearing or discomfort?",
+        "Is there any rubbing of the eyes?"
+      ],
+      "home_care_india": "Keep eyes clean and lubricated.",
+      "vet_triggers": "Requires veterinary attention for correction.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust can worsen irritation.",
+      "prevention_tips": "Early diagnosis and veterinary correction.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_progressive_retinal__10",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "progressive retinal atrophy",
+      "description": "Adult Border Collie with progressive retinal atrophy, likely genetic.",
+      "indian_climate_factors": "Not directly affected by climate.",
+      "breed_predisposition": "Some breeds have a higher risk of progressive retinal atrophy.",
+      "age_considerations": "Symptoms usually appear in adulthood.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there night blindness?",
+        "Is there a gradual loss of vision?",
+        "Are there changes in pupil response?"
+      ],
+      "home_care_india": "Adapt environment for low-vision dog.",
+      "vet_triggers": "No cure, but veterinary care can manage symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Genetic testing before breeding.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_keratitis_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "keratitis",
+      "description": "Adult Australian Shepherd with keratitis, possibly due to injury or infection.",
+      "indian_climate_factors": "Dust and pollution can exacerbate keratitis.",
+      "breed_predisposition": "No specific breed predisposition but environmental factors play a role.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there redness, pain, or cloudiness in the cornea?",
+        "Is there excessive tearing?",
+        "Is there any squinting?"
+      ],
+      "home_care_india": "Keep eyes clean and use vet-recommended eye drops.",
+      "vet_triggers": "Requires veterinary attention for diagnosis and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dusty seasons.",
+      "prevention_tips": "Avoid eye injuries and irritants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_otitis_externa_(bact_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "otitis externa (bacterial)",
+      "description": "Puppy with bacterial otitis externa, possibly due to poor hygiene and humid climate.",
+      "indian_climate_factors": "Heat and humidity promote bacterial growth.",
+      "breed_predisposition": "Floppy-eared breeds are more susceptible.",
+      "age_considerations": "Puppies are more prone to ear infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there redness, swelling, or odor in the ear?",
+        "Is the dog shaking its head?",
+        "Is there any discharge?"
+      ],
+      "home_care_india": "Clean ears gently with vet-recommended solution.",
+      "vet_triggers": "If infection persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season.",
+      "prevention_tips": "Regular ear cleaning.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "eye_uveitis_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "uveitis",
+      "description": "Adult Border Collie with uveitis, possibly autoimmune or due to infection.",
+      "indian_climate_factors": "Dust and pollution can exacerbate inflammation.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there pain, redness, and swelling in the eye?",
+        "Is there decreased vision?",
+        "Is the pupil constricted?"
+      ],
+      "home_care_india": "Keep the dog calm and minimize stress.",
+      "vet_triggers": "Requires immediate veterinary attention.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust and pollution can worsen symptoms.",
+      "prevention_tips": "Address underlying causes promptly.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_eye_trauma_(scratch)_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "eye trauma (scratch)",
+      "description": "Street dog (Australian Shepherd mix) with a corneal scratch from a fight, exacerbated by dust and debris.",
+      "indian_climate_factors": "Dust and debris increase risk of infection.",
+      "breed_predisposition": "Street dogs are at higher risk for trauma.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is there any visible injury to the eye?",
+        "Is there excessive tearing or pain?",
+        "Is there any bleeding?"
+      ],
+      "home_care_india": "Apply a clean, damp cloth to the eye, avoid rubbing.",
+      "vet_triggers": "Requires immediate veterinary attention.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Dust and debris increase risk during dry seasons.",
+      "prevention_tips": "Avoid contact with other animals, provide safe environment.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "eye_ear_infection_(bacte_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "ear infection (bacterial, chronic)",
+      "description": "Senior Dachshund with chronic bacterial ear infection, possibly due to breed predisposition and lack of proper cleaning.",
+      "indian_climate_factors": "High humidity and heat worsen infection.",
+      "breed_predisposition": "Dachshunds' ear shape makes them prone to ear infections.",
+      "age_considerations": "Older dogs have weaker immune systems, leading to chronic infections.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there persistent redness, swelling, discharge, or odor?",
+        "Is there head shaking or scratching?",
+        "How long has this been ongoing?"
+      ],
+      "home_care_india": "Regular ear cleaning with vet-approved solution, keep dry.",
+      "vet_triggers": "Requires veterinary attention for diagnosis and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season.",
+      "prevention_tips": "Regular ear cleaning, avoid moisture buildup.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "e1a7b3c",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "eye_discharge (greenish)",
+      "description": "A 6-month-old Persian kitten with thick, greenish eye discharge, possibly due to an upper respiratory infection exacerbated by dusty conditions.",
+      "indian_climate_factors": "Dust and humidity worsen the infection; monsoon season increases risk.",
+      "breed_predisposition": "Persian cats' flat faces can lead to poor tear drainage.",
+      "age_considerations": "Kittens are more susceptible to infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the kitten lethargic?",
+        "Is there sneezing or coughing?",
+        "Is the discharge unilateral or bilateral?"
+      ],
+      "home_care_india": "Clean discharge gently with warm water; ensure good ventilation.",
+      "vet_triggers": "If discharge persists >2 days or kitten shows other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during dry, dusty months and monsoon.",
+      "prevention_tips": "Regular eye cleaning; avoid dusty areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "d2e8f4g",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "ear_infection",
+      "description": "A 5-year-old Siamese cat with recurrent ear infections, possibly due to allergies triggered by pollen during monsoon.",
+      "indian_climate_factors": "High humidity and pollen in monsoon aggravate allergies.",
+      "breed_predisposition": "Siamese cats are prone to ear infections due to ear shape.",
+      "age_considerations": "Recurring infections are more common in adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cat scratching its ears excessively?",
+        "Is there any redness or swelling?",
+        "Is there a foul odor?"
+      ],
+      "home_care_india": "Clean ears gently with vet-recommended ear cleaner.",
+      "vet_triggers": "If infection persists despite home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon and post-monsoon.",
+      "prevention_tips": "Regular ear cleaning; allergy management.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "a3b9c5h",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "hearing_loss",
+      "description": "An elderly Maine Coon with progressive hearing loss, possibly age-related.",
+      "indian_climate_factors": "Heat stress can exacerbate age-related decline.",
+      "breed_predisposition": "No specific breed predisposition, but age is a factor.",
+      "age_considerations": "Hearing loss is common in senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Does the cat respond to sounds as before?",
+        "Is there any head tilting or circling?",
+        "Are there any other neurological symptoms?"
+      ],
+      "home_care_india": "Provide a safe and predictable environment.",
+      "vet_triggers": "Progressive hearing loss, balance issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Not significantly affected by seasons.",
+      "prevention_tips": "Regular veterinary checkups for senior cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "b4c0a6i",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "conjunctivitis",
+      "description": "A street Persian-Siamese mix with conjunctivitis, possibly due to exposure to pollutants and infections.",
+      "indian_climate_factors": "Urban pollution and dust exacerbate the condition; monsoon increases humidity.",
+      "breed_predisposition": "Mixed breeds can inherit predispositions from both parents.",
+      "age_considerations": "Young cats are more vulnerable to infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there any redness, swelling, or itching?",
+        "Is there any discharge?",
+        "Is there any squinting?"
+      ],
+      "home_care_india": "Clean eyes gently with clean water.",
+      "vet_triggers": "If conjunctivitis persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty months.",
+      "prevention_tips": "Avoid exposure to irritants; regular eye cleaning.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "c5d1b7j",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "vision_health issues (blurry vision)",
+      "description": "A senior Maine Coon showing signs of blurry vision, possibly due to cataracts.",
+      "indian_climate_factors": "Heat stress can exacerbate eye conditions.",
+      "breed_predisposition": "No specific breed predisposition, but age is a factor.",
+      "age_considerations": "Cataracts are common in older cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat bumping into objects?",
+        "Are the pupils cloudy?",
+        "Is there any change in behaviour?"
+      ],
+      "home_care_india": "Provide a safe environment; avoid sudden changes.",
+      "vet_triggers": "Progressive vision loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Not significantly affected by seasons.",
+      "prevention_tips": "Regular veterinary checkups for senior cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "d6e2c8k",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "eye_discharge (watery)",
+      "description": "A kitten with watery eye discharge, possibly due to an allergy to local plant pollen.",
+      "indian_climate_factors": "Pollen levels vary seasonally, impacting allergies.",
+      "breed_predisposition": "Persian's flat face can make them more susceptible to eye irritation.",
+      "age_considerations": "Young cats can develop allergies early.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there any itching or redness?",
+        "What plants are near the kitten?",
+        "Is the discharge clear or colored?"
+      ],
+      "home_care_india": "Gentle eye cleaning with clean water.",
+      "vet_triggers": "If discharge persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during pollen seasons.",
+      "prevention_tips": "Identify and avoid allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "e7f3d9l",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "ear_mites",
+      "description": "A Siamese cat with ear mites, possibly contracted from another infected cat.",
+      "indian_climate_factors": "Warm, humid conditions favor mite proliferation.",
+      "breed_predisposition": "No specific breed predisposition, but environment plays a role.",
+      "age_considerations": "Cats of all ages can get ear mites.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cat shaking its head excessively?",
+        "Is there any dark debris in the ears?",
+        "Is the cat scratching its ears?"
+      ],
+      "home_care_india": "Clean ears gently with vet-recommended ear cleaner.",
+      "vet_triggers": "If mites persist despite home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in warm, humid months.",
+      "prevention_tips": "Regular ear checks; avoid contact with infected animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "f8g4e0m",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "vision_health issues (cloudy eyes)",
+      "description": "An adult Maine Coon with cloudy eyes, possibly due to cataracts or other eye conditions.",
+      "indian_climate_factors": "Heat and dust can irritate the eyes.",
+      "breed_predisposition": "No specific breed predisposition, but age and environment are factors.",
+      "age_considerations": "Cataracts can occur in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat bumping into objects?",
+        "Are the pupils cloudy?",
+        "Is there any change in behavior?"
+      ],
+      "home_care_india": "Provide a safe environment.",
+      "vet_triggers": "Progressive vision loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust may worsen symptoms in dry months.",
+      "prevention_tips": "Regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "g9h5f1n",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "conjunctivitis (allergic)",
+      "description": "A Persian cat with allergic conjunctivitis, possibly due to dust mites in the home.",
+      "indian_climate_factors": "High humidity and dust can worsen allergies.",
+      "breed_predisposition": "Persian cats are prone to eye problems due to their facial structure.",
+      "age_considerations": "Cats of all ages can develop allergies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there any itching, redness, or swelling?",
+        "Is there any discharge?",
+        "What are the possible allergens in the environment?"
+      ],
+      "home_care_india": "Clean eyes gently; allergy management.",
+      "vet_triggers": "If conjunctivitis persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dusty months.",
+      "prevention_tips": "Regular cleaning; allergen control.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "h0i6g2o",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "hearing_loss (sudden)",
+      "description": "A Siamese cat with sudden hearing loss, possibly due to an inner ear infection.",
+      "indian_climate_factors": "Infections can be exacerbated by humidity.",
+      "breed_predisposition": "No specific breed predisposition, but infections can affect any cat.",
+      "age_considerations": "Cats of all ages can experience sudden hearing loss.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the hearing loss start?",
+        "Are there any other symptoms?",
+        "Is the cat disoriented?"
+      ],
+      "home_care_india": "Keep the cat calm and safe.",
+      "vet_triggers": "Sudden hearing loss; any other neurological symptoms.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May be more common during monsoon due to increased infections.",
+      "prevention_tips": "Regular veterinary checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "i1j7h3p",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "eye_ulcers",
+      "description": "A Maine Coon with eye ulcers, possibly due to trauma or infection.",
+      "indian_climate_factors": "Dust and pollutants can irritate the eyes and increase infection risk.",
+      "breed_predisposition": "No specific breed predisposition, but environment and trauma are factors.",
+      "age_considerations": "Cats of all ages can develop eye ulcers.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the ulcer appear?",
+        "Is there any pain or discomfort?",
+        "Is there any discharge?"
+      ],
+      "home_care_india": "Keep the eye clean and protected.",
+      "vet_triggers": "Presence of eye ulcers.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Dust and pollutants may worsen the condition.",
+      "prevention_tips": "Protect eyes from trauma; regular eye checks.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "j2k8i4q",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "ear_infection (chronic)",
+      "description": "A cat with chronic ear infections, possibly due to a combination of genetics and environmental factors.",
+      "indian_climate_factors": "Humidity and dust can worsen ear infections.",
+      "breed_predisposition": "Certain breeds have ear shapes prone to infections.",
+      "age_considerations": "Chronic infections are more common in adult and senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the infection been present?",
+        "What treatments have been tried?",
+        "Is there any head shaking or scratching?"
+      ],
+      "home_care_india": "Clean ears regularly with vet-recommended cleaner.",
+      "vet_triggers": "Persistent or recurring infections.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in humid seasons.",
+      "prevention_tips": "Regular ear cleaning; addressing underlying causes.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "k3l9j5r",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "vision_health issues (glaucoma)",
+      "description": "A senior Maine Coon with glaucoma, possibly due to age-related changes.",
+      "indian_climate_factors": "Heat stress can exacerbate eye pressure.",
+      "breed_predisposition": "No specific breed predisposition, but age is a major factor.",
+      "age_considerations": "Glaucoma is more common in older cats.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the eye bulging?",
+        "Is the pupil dilated?",
+        "Is the cat showing signs of pain?"
+      ],
+      "home_care_india": "Keep the cat calm and comfortable.",
+      "vet_triggers": "Signs of glaucoma.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress may worsen symptoms.",
+      "prevention_tips": "Regular veterinary checkups for senior cats.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "l4m0k6s",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "eye_discharge (pus)",
+      "description": "A Persian cat with purulent eye discharge, possibly indicating a bacterial infection.",
+      "indian_climate_factors": "High humidity and dust can promote bacterial growth.",
+      "breed_predisposition": "Brachycephalic breeds are more prone to eye problems.",
+      "age_considerations": "Kittens and older cats are more susceptible to infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the discharge yellow or green?",
+        "Is there any swelling or redness?",
+        "Is the cat lethargic?"
+      ],
+      "home_care_india": "Clean the eye gently with saline solution.",
+      "vet_triggers": "Purulent discharge; any signs of systemic illness.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during monsoon due to increased humidity.",
+      "prevention_tips": "Regular eye cleaning; avoid exposure to irritants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "m5n1l7t",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "deafness",
+      "description": "A Siamese kitten born deaf, a known genetic predisposition in the breed.",
+      "indian_climate_factors": "Not directly affected by climate.",
+      "breed_predisposition": "Siamese cats have a higher incidence of congenital deafness.",
+      "age_considerations": "Present from birth.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Did you notice any lack of response to sounds?",
+        "Is there any other congenital abnormality?",
+        "Is the kitten otherwise healthy?"
+      ],
+      "home_care_india": "Provide a safe and predictable environment using visual cues.",
+      "vet_triggers": "Confirmation of deafness; any associated issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Not affected by seasons.",
+      "prevention_tips": "Genetic screening of breeding cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_eye_discharge_31",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "eye_discharge",
+      "description": "Thick, greenish-yellow discharge from one eye in a 5-year-old British Shorthair.  Mild squinting observed.",
+      "indian_climate_factors": "Dust and humidity exacerbate the infection, potentially leading to secondary bacterial infections.",
+      "breed_predisposition": "British Shorthairs, while generally hardy, can be susceptible to eye infections due to their facial structure.",
+      "age_considerations": "Adult cats are more prone to infections due to compromised immunity compared to kittens.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there any history of trauma?",
+        "Has the cat been exposed to other animals?",
+        "Is there any change in appetite or behavior?"
+      ],
+      "home_care_india": "Clean the eye gently with warm water and cotton. Avoid harsh chemicals. Keep the cat indoors during dusty days.",
+      "vet_triggers": "If discharge persists for more than 2 days, or if there's swelling or redness.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during the dry, dusty months (winter and summer) in India.",
+      "prevention_tips": "Regular eye cleaning with a clean, damp cloth.  Avoid contact with stray cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_ear_infections_32",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "ear_infections",
+      "description": "Frequent head shaking and scratching at ears in a young Ragdoll kitten.  Brown, waxy discharge visible.",
+      "indian_climate_factors": "High humidity promotes fungal growth, leading to chronic ear infections.",
+      "breed_predisposition": "Ragdolls' semi-long hair can trap moisture and debris in the ears.",
+      "age_considerations": "Kittens are more susceptible due to immature immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the symptoms start?",
+        "Has the kitten been treated for ear mites before?",
+        "Is there any odor from the ears?"
+      ],
+      "home_care_india": "Clean ears gently with a veterinarian-recommended ear cleaner. Keep the ears dry.",
+      "vet_triggers": "If the infection doesn't improve within a week, or if there's significant pain or swelling.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during the monsoon season due to increased humidity.",
+      "prevention_tips": "Regular ear cleaning, especially during monsoon. Avoid swimming in stagnant water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_conjunctivitis_33",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "conjunctivitis",
+      "description": "Red, swollen eyes with watery discharge in an adult Bengal cat living in an urban area.  Mild photophobia observed.",
+      "indian_climate_factors": "Air pollution irritates the eyes, leading to inflammation and infection.",
+      "breed_predisposition": "Bengals, with their active nature, are more exposed to environmental irritants.",
+      "age_considerations": "Adult cats can develop conjunctivitis due to various factors, including allergies and infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there any history of allergies?",
+        "Has the cat been exposed to smoke or pollutants?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Use a clean, damp cloth to gently wipe the eyes. Avoid using any medications without veterinary advice.",
+      "vet_triggers": "If symptoms worsen or persist for more than 2 days.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during the dry, dusty months, and during periods of high air pollution.",
+      "prevention_tips": "Keep the cat indoors during peak pollution hours. Provide a clean and dust-free environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "eye_hearing_loss_34",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "hearing_loss",
+      "description": "Reduced response to sounds in a senior British Shorthair.  No visible ear problems.",
+      "indian_climate_factors": "Repeated ear infections due to humidity and dust can contribute to hearing loss.",
+      "breed_predisposition": "While not breed-specific, age-related hearing loss is common in cats.",
+      "age_considerations": "Hearing loss is common in senior cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you notice the hearing loss?",
+        "Has the cat had any ear infections in the past?",
+        "Does the cat respond to other stimuli?"
+      ],
+      "home_care_india": "Create a safe and predictable environment for the cat. Use visual cues for communication.",
+      "vet_triggers": "To rule out underlying causes of hearing loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be exacerbated by repeated ear infections during monsoon and winter.",
+      "prevention_tips": "Regular veterinary check-ups to detect and treat ear infections early.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_vision_problems_35",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "vision_health issues",
+      "description": "Cloudy eyes and difficulty navigating in a senior Bengal cat.  Slow blinking and decreased pupil response.",
+      "indian_climate_factors": "Exposure to dust and UV rays can accelerate age-related vision problems.",
+      "breed_predisposition": "While not breed-specific, age-related vision problems are common.",
+      "age_considerations": "Vision problems are common in senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did you notice the vision problems?",
+        "Does the cat bump into objects frequently?",
+        "Is there any discharge from the eyes?"
+      ],
+      "home_care_india": "Create a safe environment, removing obstacles to prevent falls. Provide extra care and attention.",
+      "vet_triggers": "Immediate veterinary attention is needed for proper diagnosis and management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased UV exposure during summer can worsen vision problems.",
+      "prevention_tips": "Regular veterinary check-ups for senior cats to monitor eye health.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_eye_discharge_(purul_36",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "eye_discharge (purulent)",
+      "description": "Thick, yellow-green pus from both eyes in a kitten.  Severe swelling and redness.",
+      "indian_climate_factors": "Monsoon humidity increases bacterial growth, leading to severe infections.",
+      "breed_predisposition": "Long hair can trap irritants, increasing infection risk.",
+      "age_considerations": "Kittens are highly susceptible due to underdeveloped immune systems.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did it start?",
+        "Is the kitten lethargic?",
+        "Is there fever?"
+      ],
+      "home_care_india": "Keep the kitten warm and hydrated.  Do NOT attempt self-treatment.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during monsoon.",
+      "prevention_tips": "Regular cleaning and hygiene to avoid infection.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "eye_ear_mites_37",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "ear_mites",
+      "description": "Severe itching and scratching of ears in a young British Shorthair.  Dark brown, granular debris visible.",
+      "indian_climate_factors": "Warm, humid climate favors mite reproduction.",
+      "breed_predisposition": "No specific predisposition, but common in kittens.",
+      "age_considerations": "Common in kittens and young cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you notice the scratching?",
+        "Are there any other animals in the house?"
+      ],
+      "home_care_india": "Clean ears carefully with vet-approved solutions.",
+      "vet_triggers": "If home treatment isn't effective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during warm, humid months.",
+      "prevention_tips": "Regular ear checks and cleaning.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_conjunctivitis_(alle_38",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "conjunctivitis (allergic)",
+      "description": "Itchy, watery eyes in a Bengal cat exposed to pollen during spring.",
+      "indian_climate_factors": "Pollen counts are high during certain seasons.",
+      "breed_predisposition": "No specific predisposition, but common in cats.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What is the cat exposed to?",
+        "Is there sneezing or nasal discharge?"
+      ],
+      "home_care_india": "Keep the cat indoors during peak pollen times.",
+      "vet_triggers": "If symptoms are severe or don't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during spring and early summer.",
+      "prevention_tips": "Minimize exposure to allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "eye_eye_ulcer_39",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "eye ulcer",
+      "description": "A Ragdoll cat with a corneal ulcer, showing pain, redness, and excessive tearing.",
+      "indian_climate_factors": "Dust and pollutants can irritate the eye, increasing ulcer risk.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did you notice the problem?",
+        "Is the cat squinting or pawing at its eye?"
+      ],
+      "home_care_india": "Keep the cat calm and prevent further irritation.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during dry, dusty seasons.",
+      "prevention_tips": "Avoid eye trauma and maintain good hygiene.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "eye_chronic_ear_infectio_40",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "chronic ear infection",
+      "description": "A senior British Shorthair with recurring ear infections, despite treatment.",
+      "indian_climate_factors": "Humidity and dust make infections persistent.",
+      "breed_predisposition": "No specific predisposition, but common in senior cats.",
+      "age_considerations": "More common in senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How often do infections recur?",
+        "What treatments have been tried?"
+      ],
+      "home_care_india": "Maintain ear cleanliness and follow vet instructions.",
+      "vet_triggers": "Recurring infections need professional management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter.",
+      "prevention_tips": "Regular veterinary checkups and ear cleaning.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_cataracts_41",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "cataracts",
+      "description": "A senior Bengal with cloudy lenses, showing signs of vision impairment.",
+      "indian_climate_factors": "UV exposure can accelerate cataract development.",
+      "breed_predisposition": "No specific predisposition, but age-related.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did you notice vision changes?",
+        "Does the cat navigate well?"
+      ],
+      "home_care_india": "Create a safe environment, use visual cues.",
+      "vet_triggers": "Veterinary examination is needed for diagnosis and management.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "UV exposure during summer can worsen cataracts.",
+      "prevention_tips": "Regular eye exams for senior cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_glaucoma_42",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "glaucoma",
+      "description": "A Ragdoll cat with increased eye pressure, showing pain and vision loss.",
+      "indian_climate_factors": "No direct impact, but stress from heat can exacerbate.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Can occur at any age, but more common in seniors.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did you notice changes?",
+        "Is the cat showing pain?"
+      ],
+      "home_care_india": "Keep the cat calm and comfortable.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular eye exams for senior cats.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "eye_dry_eye_43",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "dry eye",
+      "description": "A British Shorthair with excessive blinking, redness, and reduced tear production.",
+      "indian_climate_factors": "Dust and pollution can exacerbate dry eye.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have you noticed these symptoms?",
+        "Is the cat squinting?"
+      ],
+      "home_care_india": "Use vet-recommended eye lubricants.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry, dusty seasons.",
+      "prevention_tips": "Maintain good eye hygiene and avoid irritants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "eye_blepharitis_44",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "blepharitis",
+      "description": "Inflammation of the eyelids in a Bengal cat, showing redness, swelling, and crusting.",
+      "indian_climate_factors": "Dust and allergens can irritate the eyelids.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did you notice the inflammation?",
+        "Is the cat scratching its eyes?"
+      ],
+      "home_care_india": "Clean eyelids gently with warm water.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry, dusty seasons.",
+      "prevention_tips": "Maintain good hygiene and avoid irritants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "eye_inner_ear_infection_45",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll",
+        "british_shorthair"
+      ],
+      "symptom": "inner ear infection",
+      "description": "A cat showing head tilt, nystagmus (involuntary eye movement), and loss of balance.",
+      "indian_climate_factors": "Humidity can contribute to bacterial growth.",
+      "breed_predisposition": "No specific predisposition, but common in cats.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did you notice these symptoms?",
+        "Is the cat showing any signs of pain?"
+      ],
+      "home_care_india": "Keep the cat in a safe, quiet environment.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Slightly worse during monsoon.",
+      "prevention_tips": "Regular ear cleaning and vet check-ups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "ee_ear_infection_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "cocker_spaniel",
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "ear_infection",
+      "description": "Dog with smelly ear discharge, head shaking, scratching at ears, redness. Bacterial or yeast ear infection requiring veterinary treatment with medicated drops. Can cause pain and hearing loss if untreated.",
+      "indian_climate_factors": "Monsoon humidity increases ear infections. Water in ears during bathing.",
+      "breed_predisposition": "Floppy-eared breeds (Cocker Spaniels, Labs) more prone.",
+      "age_considerations": "All ages affected.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has ear been smelly?",
+        "Any discharge color?",
+        "Is dog shaking head constantly?",
+        "Pain when touching ear?"
+      ],
+      "home_care_india": "Keep ear dry. Do NOT insert cotton swabs. Clean outer ear gently with vet-approved cleaner.",
+      "vet_triggers": "Smelly discharge, constant head shaking, pain, not improving in 2 days.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Peaks during monsoon (June-September).",
+      "prevention_tips": "Dry ears after bathing, regular ear cleaning, avoid water entering ear canal.",
+      "severity": "urgent"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "category": "nutrition_weight",
+    "total_entries": 15,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs"
+    ],
+    "breeds_covered": 4
+  },
+  "entries": [
+    {
+      "entry_id": "nut_obesity_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "obesity",
+      "description": "Labrador Retriever, adult, significantly overweight due to overfeeding and lack of exercise.  Appears lethargic.",
+      "indian_climate_factors": "Increased heat and humidity can exacerbate lethargy and breathing problems.",
+      "breed_predisposition": "Labradors have a high appetite and tendency towards weight gain.",
+      "age_considerations": "Adult dogs are most susceptible due to decreased activity levels.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is the dog's daily food intake?",
+        "How much exercise does the dog get?",
+        "Has the dog shown any signs of joint pain?"
+      ],
+      "home_care_india": "Controlled portion feeding, regular walks in cooler parts of the day, avoiding excessive treats.",
+      "vet_triggers": "Difficulty breathing, excessive panting, joint pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Weight gain may be more pronounced during cooler months due to decreased activity.",
+      "prevention_tips": "Regular exercise, portion-controlled high-quality food, avoid table scraps.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_underweight_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "underweight",
+      "description": "Young Golden Retriever and German Shepherd puppy showing significant weight loss despite adequate food intake.  Appears weak and lethargic.",
+      "indian_climate_factors": "Parasite infestations are common in Indian climates, leading to malnutrition.",
+      "breed_predisposition": "Fast metabolism in certain breeds can contribute to underweight issues.",
+      "age_considerations": "Puppies are vulnerable due to high energy needs and developing immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is the puppy's appetite like?",
+        "Has the puppy had any diarrhea or vomiting?",
+        "Are there any visible parasites?"
+      ],
+      "home_care_india": "High-calorie, easily digestible food, frequent small meals, deworming.",
+      "vet_triggers": "Persistent weight loss, weakness, lethargy, vomiting, diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Parasite infestations are higher during monsoon season.",
+      "prevention_tips": "Regular deworming, high-quality puppy food, veterinary check-ups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_picky_eating_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "picky_eating",
+      "description": "Adult Bulldog exhibiting selective eating habits, refusing most commercially available food.",
+      "indian_climate_factors": "High humidity can affect appetite and food palatability.",
+      "breed_predisposition": "Bulldogs can be prone to digestive sensitivities.",
+      "age_considerations": "Adult dogs may develop food preferences or sensitivities.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What types of food has the dog refused?",
+        "Are there any digestive issues?",
+        "Has there been any recent change in diet?"
+      ],
+      "home_care_india": "Trying different food textures and flavors, small frequent meals, adding wet food to kibble. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Significant weight loss, vomiting, diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Appetite may fluctuate slightly with temperature changes.",
+      "prevention_tips": "Introducing new food gradually, avoiding sudden dietary changes.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "nut_nutritional_deficien_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "nutritional_deficiencies",
+      "description": "Senior Labrador and Golden Retriever showing signs of coat dullness, lethargy, and weakened immunity.",
+      "indian_climate_factors": "Exposure to dust and pollution can exacerbate respiratory issues and nutrient absorption problems.",
+      "breed_predisposition": "Senior dogs are more prone to nutrient deficiencies due to decreased metabolism.",
+      "age_considerations": "Senior dogs have lower nutrient absorption rates.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is the dog's diet?",
+        "Has the dog had any recent health problems?",
+        "Are there any skin or coat issues?"
+      ],
+      "home_care_india": "High-quality senior dog food with added supplements, clean water, regular grooming.",
+      "vet_triggers": "Persistent lethargy, weakened immunity, skin problems, poor coat condition.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Nutritional needs may increase during hot and humid months.",
+      "prevention_tips": "Regular veterinary checkups, balanced senior diet, supplements as needed.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_obesity_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "obesity",
+      "description": "German Shepherd, adult, overweight due to lack of exercise and high-calorie diet.",
+      "indian_climate_factors": "Heat can make exercise difficult, leading to less activity.",
+      "breed_predisposition": "German Shepherds are prone to hip dysplasia, exacerbated by obesity.",
+      "age_considerations": "Adult dogs are less active than puppies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is the dog's daily routine?",
+        "What type of food is it eating?",
+        "Does it have any joint pain?"
+      ],
+      "home_care_india": "Controlled feeding, walks in cooler parts of the day, weight management diet.",
+      "vet_triggers": "Limping, difficulty rising, panting.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Obesity may be more pronounced during cooler months due to reduced activity.",
+      "prevention_tips": "Regular exercise, controlled portions of high-quality dog food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_underweight_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog",
+        "labrador_retriever"
+      ],
+      "symptom": "underweight",
+      "description": "Bulldog and Labrador Retriever puppy showing significant weight loss, lethargic and weak.",
+      "indian_climate_factors": "Intestinal parasites are common in India, leading to malnutrition.",
+      "breed_predisposition": "Some breeds have faster metabolisms, making them prone to underweight.",
+      "age_considerations": "Puppies have high energy requirements and developing immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is the puppy's food intake?",
+        "Any diarrhea or vomiting?",
+        "Signs of parasites?"
+      ],
+      "home_care_india": "High-calorie food, frequent small meals, deworming medication.",
+      "vet_triggers": "Persistent weight loss, weakness, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Parasite risk is higher during monsoon.",
+      "prevention_tips": "Regular deworming, high-quality puppy food, veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_picky_eating_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "picky_eating",
+      "description": "Senior Golden Retriever refusing most food, showing signs of dental issues.",
+      "indian_climate_factors": "Heat can reduce appetite.",
+      "breed_predisposition": "Senior dogs can develop dental problems affecting eating.",
+      "age_considerations": "Dental problems are common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods has the dog refused?",
+        "Any dental problems?",
+        "Recent weight loss?"
+      ],
+      "home_care_india": "Soft food, dental care, smaller meals.",
+      "vet_triggers": "Significant weight loss, dental pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Appetite may fluctuate with temperature.",
+      "prevention_tips": "Regular dental checkups, proper dental care.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_nutritional_deficien_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "nutritional_deficiencies",
+      "description": "Adult German Shepherd with dull coat, poor muscle mass, and fatigue.",
+      "indian_climate_factors": "Dust and pollution can affect respiratory health and nutrient absorption.",
+      "breed_predisposition": "Active breeds have higher nutrient needs.",
+      "age_considerations": "Adult dogs need balanced nutrition for optimal health.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is the dog's diet?",
+        "Any recent health issues?",
+        "Coat and muscle condition?"
+      ],
+      "home_care_india": "High-quality food, supplements, regular grooming.",
+      "vet_triggers": "Persistent fatigue, dull coat, muscle loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Nutritional needs may increase during hot and humid months.",
+      "prevention_tips": "Balanced diet, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_obesity_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "obesity",
+      "description": "Senior Bulldog significantly overweight, showing signs of breathing difficulties.",
+      "indian_climate_factors": "Heat and humidity exacerbate breathing problems.",
+      "breed_predisposition": "Brachycephalic breeds are prone to obesity and breathing issues.",
+      "age_considerations": "Senior dogs are less active and more prone to weight gain.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is the dog's diet?",
+        "Any breathing problems?",
+        "Joint pain?"
+      ],
+      "home_care_india": "Weight management diet, cool environment, limited exercise.",
+      "vet_triggers": "Severe breathing difficulties, excessive panting.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Breathing problems worsen in hot and humid weather.",
+      "prevention_tips": "Controlled feeding, regular veterinary checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "nut_underweight_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "underweight",
+      "description": "Labrador Retriever puppy found as a street dog, severely underweight and dehydrated.",
+      "indian_climate_factors": "Street dogs face malnutrition due to food scarcity and exposure to elements.",
+      "breed_predisposition": "Puppies are vulnerable to malnutrition.",
+      "age_considerations": "Puppies need high-calorie food for growth.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the puppy been without food?",
+        "Any injuries?",
+        "Signs of parasites?"
+      ],
+      "home_care_india": "Rehydration, high-calorie food, veterinary care immediately.",
+      "vet_triggers": "Severe dehydration, weakness, lethargy.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Malnutrition is more severe during monsoon and hot seasons.",
+      "prevention_tips": "Providing food and water to street animals, vaccination and deworming.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "nut_picky_eating_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "picky_eating",
+      "description": "Adult Golden Retriever and German Shepherd refusing commercial food, possibly due to food allergies.",
+      "indian_climate_factors": "Environmental allergens can trigger food sensitivities.",
+      "breed_predisposition": "Some breeds are prone to food allergies.",
+      "age_considerations": "Allergies can develop at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods has the dog refused?",
+        "Any skin issues?",
+        "Digestive problems?"
+      ],
+      "home_care_india": "Trial and error with hypoallergenic food, identify potential allergens.",
+      "vet_triggers": "Persistent vomiting, diarrhea, skin issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Allergens may be more prevalent during certain seasons.",
+      "prevention_tips": "Identify and avoid allergens, choose hypoallergenic food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_nutritional_deficien_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "nutritional_deficiencies",
+      "description": "Senior Bulldog with poor coat, brittle nails, and fatigue, possibly due to poor diet and limited sun exposure.",
+      "indian_climate_factors": "Limited sun exposure can affect vitamin D absorption.",
+      "breed_predisposition": "Senior dogs have reduced nutrient absorption.",
+      "age_considerations": "Senior dogs need specific nutritional support.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What is the dog's diet?",
+        "Any sun exposure?",
+        "Signs of vitamin D deficiency?"
+      ],
+      "home_care_india": "Balanced senior food, sun exposure (short periods), supplements.",
+      "vet_triggers": "Persistent symptoms, worsening condition.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Sun exposure is limited during monsoon.",
+      "prevention_tips": "Balanced senior diet, appropriate sun exposure, regular vet checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "nut_obesity_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "obesity",
+      "description": "Adult Labrador Retriever fed primarily with leftover Indian food, leading to obesity.",
+      "indian_climate_factors": "High-calorie Indian food can contribute to weight gain.",
+      "breed_predisposition": "Labradors are prone to overeating.",
+      "age_considerations": "Adult dogs are less active.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What type of food is the dog eating?",
+        "How often?",
+        "How much exercise does it get?"
+      ],
+      "home_care_india": "Controlled portions of appropriate dog food, regular exercise.",
+      "vet_triggers": "Difficulty breathing, joint pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Weight gain may be more pronounced during cooler months.",
+      "prevention_tips": "Avoid feeding table scraps, use high-quality dog food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_underweight_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "underweight",
+      "description": "Young German Shepherd showing signs of underweight due to a parasitic infection.",
+      "indian_climate_factors": "Parasitic infections are common in humid climates.",
+      "breed_predisposition": "High energy breeds can show weight loss due to parasites.",
+      "age_considerations": "Puppies are more susceptible to parasites.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Any signs of parasites?",
+        "Diarrhea or vomiting?",
+        "Lethargy?"
+      ],
+      "home_care_india": "Deworming medication, high-calorie diet, supportive care.",
+      "vet_triggers": "Severe weight loss, weakness, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Parasite risk is higher during monsoon.",
+      "prevention_tips": "Regular deworming, flea and tick prevention.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "nut_picky_eating_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "picky_eating",
+      "description": "Adult Golden Retriever living in an urban area, exhibiting picky eating habits possibly due to air pollution affecting taste and smell.",
+      "indian_climate_factors": "Air pollution can affect a dog's sense of smell and taste.",
+      "breed_predisposition": "Some breeds are more sensitive to environmental factors.",
+      "age_considerations": "Picky eating can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What foods has the dog refused?",
+        "Any respiratory issues?",
+        "Changes in smell or taste?"
+      ],
+      "home_care_india": "Trying different food textures and flavors, avoiding highly processed foods. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Significant weight loss, vomiting, diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Air pollution may be worse during certain seasons.",
+      "prevention_tips": "Provide high-quality food, minimize exposure to pollution.",
+      "severity": "routine"
+    }
+  ]
+}

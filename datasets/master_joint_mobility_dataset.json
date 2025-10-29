@@ -1,0 +1,1808 @@
+{
+  "metadata": {
+    "category": "joint_mobility",
+    "total_entries": 74,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 19
+  },
+  "entries": [
+    {
+      "entry_id": "jnt_limping_in_right_hin_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Limping in right hind leg",
+      "description": "A 7-year-old Golden Retriever exhibits mild limping after playing fetch in the hot afternoon sun.  The limping is intermittent.",
+      "indian_climate_factors": "Heat exhaustion can exacerbate existing joint issues.",
+      "breed_predisposition": "Golden Retrievers are prone to hip dysplasia.",
+      "age_considerations": "Older dogs are more susceptible to degenerative joint diseases.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Is it worse after exercise?",
+        "Is there any swelling or pain on palpation?"
+      ],
+      "home_care_india": "Rest, cool compresses, and avoiding strenuous activity, especially during peak heat hours.",
+      "vet_triggers": "If limping worsens or persists for more than 2 days.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during summer due to heat and humidity.",
+      "prevention_tips": "Maintain a healthy weight, provide regular, moderate exercise, and avoid strenuous activity on hot surfaces.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "Arthritis",
+      "description": "A 10-year-old Labrador and a 9-year-old German Shepherd both show signs of stiffness, especially in the mornings, and decreased range of motion.",
+      "indian_climate_factors": "Monsoon season's dampness can worsen joint pain.",
+      "breed_predisposition": "Large breeds like Labs and German Shepherds are prone to osteoarthritis.",
+      "age_considerations": "Arthritis is common in senior dogs.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any swelling or heat in the joints?",
+        "Does pain medication help?"
+      ],
+      "home_care_india": "Warm compresses, joint supplements (after vet consultation), and controlled exercise.",
+      "vet_triggers": "If pain is severe, unresponsive to home care, or accompanied by fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during monsoon due to dampness and cold.",
+      "prevention_tips": "Maintain ideal weight, provide regular low-impact exercise, and consider joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Hip Dysplasia",
+      "description": "A 2-year-old Bulldog shows signs of difficulty climbing stairs and exhibits a bunny hop gait.",
+      "indian_climate_factors": "Heat can exacerbate pain and discomfort.",
+      "breed_predisposition": "Bulldogs are predisposed to hip dysplasia.",
+      "age_considerations": "Symptoms often appear in young adulthood.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you notice the gait change?",
+        "Does the dog seem to be in pain?",
+        "Is there any clicking or grinding sound in the hips?"
+      ],
+      "home_care_india": "Provide ramps instead of stairs, avoid strenuous exercise, and maintain a healthy weight.",
+      "vet_triggers": "If the gait worsens or the dog shows signs of significant pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can increase discomfort; monsoon dampness may worsen joint pain.",
+      "prevention_tips": "Choose a reputable breeder, maintain a healthy weight, and provide controlled exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_stairs_difficulty_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Stairs Difficulty",
+      "description": "A senior German Shepherd struggles significantly to climb stairs, showing signs of pain and reluctance.",
+      "indian_climate_factors": "Cold and dampness in the monsoon can worsen stiffness.",
+      "breed_predisposition": "German Shepherds are prone to hip and elbow dysplasia.",
+      "age_considerations": "Common in senior dogs due to degenerative joint disease.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been an issue?",
+        "Is there any visible swelling or limping?",
+        "Is the dog vocalizing pain?"
+      ],
+      "home_care_india": "Provide ramps, avoid stairs completely, and manage pain with vet-prescribed medication.",
+      "vet_triggers": "Immediate veterinary attention if the dog is in significant pain or unable to move.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during winter and monsoon seasons.",
+      "prevention_tips": "Maintain ideal weight, low-impact exercise, and consider joint supplements from a young age.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Exercise Intolerance",
+      "description": "A middle-aged Labrador becomes tired quickly during walks, even in cooler weather.",
+      "indian_climate_factors": "Heat and humidity can lead to rapid fatigue.",
+      "breed_predisposition": "Labradors are prone to hip and elbow dysplasia.",
+      "age_considerations": "Can indicate early signs of joint issues in middle-aged dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long have you noticed this?",
+        "Is the dog panting excessively?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Short, frequent walks in cooler parts of the day, avoid strenuous activity.",
+      "vet_triggers": "If fatigue worsens or is accompanied by other symptoms like limping.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in summer due to heat and humidity.",
+      "prevention_tips": "Maintain a healthy weight, regular moderate exercise, and monitor for any signs of limping or stiffness.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_limping,_left_front__6",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Limping, left front leg",
+      "description": "A young Golden Retriever puppy shows intermittent limping in its left front leg after playing roughly with other dogs.",
+      "indian_climate_factors": "Hot surfaces can cause burns and injuries.",
+      "breed_predisposition": "Golden Retrievers are prone to various orthopedic issues.",
+      "age_considerations": "Young dogs are susceptible to injuries.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Was there a specific incident?",
+        "Is there any swelling or tenderness?"
+      ],
+      "home_care_india": "Rest, ice packs, and monitoring for worsening symptoms.",
+      "vet_triggers": "Persistent limping, increased swelling, or signs of pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Hot surfaces can cause injuries during summer.",
+      "prevention_tips": "Supervise playtime, avoid hot surfaces, and ensure proper nutrition for healthy bone development.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_stiffness_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Stiffness",
+      "description": "An older Bulldog shows increased stiffness, particularly after periods of rest.",
+      "indian_climate_factors": "Humidity can exacerbate joint pain.",
+      "breed_predisposition": "Bulldogs are prone to various skeletal issues due to their conformation.",
+      "age_considerations": "Common in senior dogs due to age-related degeneration.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Does it improve with movement?",
+        "Is there any pain associated with it?"
+      ],
+      "home_care_india": "Gentle stretching, warm compresses, and pain management (vet-prescribed).",
+      "vet_triggers": "If stiffness is severe, limits mobility, or is accompanied by pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during monsoon due to humidity.",
+      "prevention_tips": "Maintain ideal weight, gentle exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_pain_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Hip pain",
+      "description": "A middle-aged German Shepherd shows signs of pain when rising from rest and exhibits reluctance to jump.",
+      "indian_climate_factors": "Extreme temperatures can worsen hip pain.",
+      "breed_predisposition": "German Shepherds are highly susceptible to hip dysplasia.",
+      "age_considerations": "Hip dysplasia can manifest in middle age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice the pain?",
+        "Does it worsen with activity?",
+        "Is there any clicking or popping sound in the hip joint?"
+      ],
+      "home_care_india": "Rest, pain management as prescribed by the vet, and avoidance of strenuous activity.",
+      "vet_triggers": "If pain is severe, persistent, or worsening.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Pain may be worse during extreme heat or cold.",
+      "prevention_tips": "Choose a responsible breeder, maintain ideal weight, and provide controlled exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_swelling_in_knee_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Swelling in knee",
+      "description": "A young Labrador shows swelling in one knee after a fall.",
+      "indian_climate_factors": "Dust and debris can irritate wounds.",
+      "breed_predisposition": "Labradors are prone to various joint injuries.",
+      "age_considerations": "Young dogs are prone to injuries.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How did the injury occur?",
+        "Is there any pain?",
+        "Is the swelling increasing?"
+      ],
+      "home_care_india": "Rest, cold compresses, and keep the area clean to prevent infection.",
+      "vet_triggers": "If swelling increases, there's significant pain, or lameness persists.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust and debris can irritate wounds during dry seasons.",
+      "prevention_tips": "Supervise playtime, ensure safe environments, and clean any wounds properly.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_reduced_range_of_mot_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "bulldog"
+      ],
+      "symptom": "Reduced Range of Motion",
+      "description": "Both a Golden Retriever and a Bulldog show reduced range of motion in their hind legs.",
+      "indian_climate_factors": "Humidity can increase stiffness.",
+      "breed_predisposition": "Both breeds are prone to various orthopedic issues.",
+      "age_considerations": "Can be seen in senior dogs due to arthritis.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any pain?",
+        "Can you describe the limitations in movement?"
+      ],
+      "home_care_india": "Gentle stretching exercises, warm compresses, and pain management (vet-advised).",
+      "vet_triggers": "If limitations worsen or are accompanied by pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Humidity can worsen stiffness during monsoon.",
+      "prevention_tips": "Maintain ideal weight, gentle exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_severe_limping_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Severe limping",
+      "description": "A German Shepherd exhibits severe limping after an apparent injury during a run in the park.",
+      "indian_climate_factors": "Rough terrain can lead to injuries.",
+      "breed_predisposition": "German Shepherds are prone to ligament and tendon injuries.",
+      "age_considerations": "Young and active dogs are at higher risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How did the injury happen?",
+        "Is there any visible wound?",
+        "Is the dog in extreme pain?"
+      ],
+      "home_care_india": "Keep the dog calm and quiet, and transport to a vet immediately.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Injuries are possible year-round, but rough terrain may increase risk.",
+      "prevention_tips": "Avoid strenuous activity on uneven terrain, provide proper training, and ensure good physical condition.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_chronic_pain_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Chronic pain",
+      "description": "An older Labrador shows signs of chronic pain, with reduced activity and occasional whimpers.",
+      "indian_climate_factors": "Heat and humidity can exacerbate chronic pain.",
+      "breed_predisposition": "Labradors are prone to arthritis and degenerative joint disease.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the pain been present?",
+        "What makes it worse or better?",
+        "What pain relief measures have you tried?"
+      ],
+      "home_care_india": "Pain management as prescribed by the vet, comfortable bedding, and regular vet checkups.",
+      "vet_triggers": "If pain is severe, unmanageable, or worsening.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat and humidity can worsen pain during summer.",
+      "prevention_tips": "Maintain a healthy weight, provide regular low-impact exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_difficulty_walking_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Difficulty walking",
+      "description": "A senior Bulldog shows increasing difficulty walking, exhibiting a shuffling gait and reluctance to move.",
+      "indian_climate_factors": "Hot and humid weather can lead to exhaustion.",
+      "breed_predisposition": "Bulldogs are prone to spinal issues and arthritis.",
+      "age_considerations": "Common in senior dogs due to age-related degeneration.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the difficulty walking start?",
+        "Is there any pain?",
+        "Has the dog lost weight?"
+      ],
+      "home_care_india": "Provide support during walks, ensure a comfortable environment, and consult the vet for pain management. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If the dog is unable to walk, is in pain, or shows signs of neurological issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can worsen exhaustion and discomfort.",
+      "prevention_tips": "Maintain ideal weight, provide gentle exercise, and consider veterinary care for any signs of discomfort.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_muscle_atrophy_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd",
+        "labrador_retriever"
+      ],
+      "symptom": "Muscle Atrophy",
+      "description": "Both a German Shepherd and a Labrador Retriever show muscle wasting in their hind legs, potentially linked to disuse due to joint pain.",
+      "indian_climate_factors": "Heat can lead to dehydration, further affecting muscle health.",
+      "breed_predisposition": "Large breeds are prone to joint issues leading to muscle atrophy.",
+      "age_considerations": "Can occur in dogs of any age with chronic joint problems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have you noticed muscle wasting?",
+        "Is there associated joint pain?",
+        "Has the dog's appetite changed?"
+      ],
+      "home_care_india": "Physical therapy (under vet supervision), proper nutrition, and pain management.",
+      "vet_triggers": "If muscle wasting is progressive or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can exacerbate dehydration and muscle loss.",
+      "prevention_tips": "Maintain ideal weight, provide appropriate exercise, and address joint issues promptly.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_limping_in_hind_leg_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Limping in hind leg",
+      "description": "A 5-year-old Standard Poodle shows intermittent limping in its right hind leg after playing fetch in the park during monsoon season.",
+      "indian_climate_factors": "Increased humidity and muddy ground can worsen joint inflammation.",
+      "breed_predisposition": "Poodles, while generally healthy, can still develop hip dysplasia.",
+      "age_considerations": "Adult dogs are prone to degenerative joint diseases.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Is there any swelling or pain on palpation?",
+        "Does the limping worsen after exercise?"
+      ],
+      "home_care_india": "Rest, elevation of the leg, and application of a cold compress.",
+      "vet_triggers": "If limping persists for more than 2 days or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to increased humidity and slippery surfaces.",
+      "prevention_tips": "Maintain ideal weight, provide regular, low-impact exercise, and use joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis_16",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Arthritis",
+      "description": "An older Beagle (10 years) exhibits stiffness and reduced mobility, especially after resting, common in street dogs exposed to dust.",
+      "indian_climate_factors": "Heat can exacerbate joint pain and stiffness.",
+      "breed_predisposition": "Beagles are prone to intervertebral disc disease (IVDD).",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any pain on touch?",
+        "Does the dog have difficulty rising?"
+      ],
+      "home_care_india": "Provide a comfortable, soft bedding, manage weight, and use joint supplements (consult vet).",
+      "vet_triggers": "If pain is severe or mobility is significantly impaired.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during winter due to cold.",
+      "prevention_tips": "Maintain healthy weight, provide regular, gentle exercise, and use orthopedic beds.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia_17",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Hip dysplasia",
+      "description": "A young Rottweiler (2 years) shows signs of hip dysplasia, including a characteristic gait and reluctance to climb stairs.",
+      "indian_climate_factors": "Heat and humidity can worsen inflammation.",
+      "breed_predisposition": "Rottweilers are highly predisposed to hip dysplasia.",
+      "age_considerations": "Symptoms often appear in young adult dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there a history of hip problems in the family?",
+        "Does the dog have difficulty jumping or running?",
+        "Is there a clicking sound in the hip joint?"
+      ],
+      "home_care_india": "Weight management, supportive bedding, and restricted activity.",
+      "vet_triggers": "Immediate veterinary attention is required.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More discomfort during hot and humid seasons.",
+      "prevention_tips": "Careful breeding practices, controlled exercise, and maintaining ideal weight are crucial.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_18",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Exercise intolerance",
+      "description": "A Siberian Husky (8 years) displays exercise intolerance, showing signs of fatigue after short walks, exacerbated by urban pollution.",
+      "indian_climate_factors": "Heatstroke is a major concern in this breed, further straining joints.",
+      "breed_predisposition": "While less prone to hip dysplasia, they can develop other joint issues.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "What is the dog's typical exercise routine?",
+        "Are there any other symptoms present?"
+      ],
+      "home_care_india": "Avoid strenuous activities during peak heat hours, provide cool resting areas.",
+      "vet_triggers": "If the intolerance is sudden or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worst during summer months.",
+      "prevention_tips": "Regular, moderate exercise adjusted to weather conditions, avoiding strenuous activity in heat.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_stairs_difficulty_19",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "Stairs difficulty",
+      "description": "A senior Poodle-Beagle mix struggles climbing stairs, especially after a rainy day.",
+      "indian_climate_factors": "Slippery surfaces during monsoon increase the risk of falls.",
+      "breed_predisposition": "Mixed breeds can inherit predispositions from both parent breeds.",
+      "age_considerations": "Common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been an issue?",
+        "Does the dog show pain when climbing stairs?",
+        "Are there any other mobility issues?"
+      ],
+      "home_care_india": "Provide ramps or alternative access to avoid stairs.",
+      "vet_triggers": "If the dog shows significant pain or falls frequently.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to slippery floors.",
+      "prevention_tips": "Maintain a healthy weight, provide regular, low-impact exercise, and use ramps.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_limping_and_swelling_20",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Limping and swelling in front leg",
+      "description": "A Rottweiler puppy (6 months) shows limping and swelling in its left front leg after a playful scuffle with another dog.",
+      "indian_climate_factors": "Increased humidity can worsen swelling.",
+      "breed_predisposition": "Large breeds are prone to developmental orthopedic diseases.",
+      "age_considerations": "Common in puppies due to rapid growth.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the limping and swelling start?",
+        "Was there any trauma?",
+        "Is the dog showing signs of pain?"
+      ],
+      "home_care_india": "Rest, cold compress, and elevation of the leg.",
+      "vet_triggers": "If swelling doesn't reduce within 24 hours or pain is severe.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse during humid periods.",
+      "prevention_tips": "Supervise playtime, ensure proper nutrition for healthy growth.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_stiffness_after_slee_21",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Stiffness after sleep",
+      "description": "An adult Siberian Husky shows stiffness after sleeping, especially during winter mornings.",
+      "indian_climate_factors": "Cold weather can exacerbate stiffness.",
+      "breed_predisposition": "Susceptible to osteoarthritis in later life.",
+      "age_considerations": "More common in middle-aged and older dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long does the stiffness last?",
+        "Does it improve after some movement?",
+        "Is there any pain?"
+      ],
+      "home_care_india": "Gentle stretching exercises, warm-up before exercise.",
+      "vet_triggers": "If stiffness is severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during winter.",
+      "prevention_tips": "Regular, moderate exercise, maintain healthy weight.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_hip_pain_22",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Hip pain",
+      "description": "A senior Beagle shows signs of hip pain, particularly when jumping into the car.",
+      "indian_climate_factors": "Heat can aggravate hip pain.",
+      "breed_predisposition": "Prone to hip dysplasia and degenerative joint disease.",
+      "age_considerations": "Common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the hip pain begin?",
+        "Is there any lameness?",
+        "Does the dog show signs of discomfort when touched around the hip?"
+      ],
+      "home_care_india": "Provide a comfortable bed, avoid jumping, use ramps.",
+      "vet_triggers": "If pain is severe or mobility is significantly reduced.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during hot weather.",
+      "prevention_tips": "Maintain ideal weight, provide gentle exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_knee_pain_23",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Knee pain",
+      "description": "A young adult Poodle shows signs of knee pain after running on a hard surface.",
+      "indian_climate_factors": "Hard surfaces can increase stress on joints.",
+      "breed_predisposition": "Can develop cruciate ligament injuries.",
+      "age_considerations": "Can occur at any age but more common in active dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the knee pain start?",
+        "Is there any swelling or instability in the knee?",
+        "Does the dog show signs of pain when the knee is manipulated?"
+      ],
+      "home_care_india": "Rest, ice packs, and elevation of the leg.",
+      "vet_triggers": "If pain is severe or there is instability in the knee.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse on hard, hot surfaces.",
+      "prevention_tips": "Avoid running on hard surfaces, use joint supplements, and maintain healthy weight.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_generalized_stiffnes_24",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "Generalized stiffness",
+      "description": "Both a Rottweiler and a Siberian Husky, both senior dogs, show generalized stiffness, worsened by dust.",
+      "indian_climate_factors": "Dust can irritate joints and worsen inflammation.",
+      "breed_predisposition": "Large breeds are prone to osteoarthritis.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any pain?",
+        "Does the dog have difficulty moving?"
+      ],
+      "home_care_india": "Provide a comfortable, warm environment, use joint supplements (consult vet).",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during cold and dusty seasons.",
+      "prevention_tips": "Maintain ideal weight, provide gentle exercise, and use joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_sudden_lameness_25",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Sudden lameness",
+      "description": "A Beagle displays sudden lameness in one leg after a fall from a small height.",
+      "indian_climate_factors": "Falls on uneven surfaces are common, especially in street dogs.",
+      "breed_predisposition": "Can suffer from ligament injuries.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the lameness start?",
+        "Was there any trauma?",
+        "Is there any swelling or deformity?"
+      ],
+      "home_care_india": "Keep the dog quiet and prevent further injury.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid falls and injuries.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_mild_limp_26",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Mild limp",
+      "description": "A young Poodle shows a mild limp after excessive exercise in hot weather.",
+      "indian_climate_factors": "Overexertion in heat can cause muscle strain.",
+      "breed_predisposition": "Generally healthy but prone to muscle strains.",
+      "age_considerations": "More common in young and active dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the limp start?",
+        "Was there any strenuous activity?",
+        "Does the limp worsen with exercise?"
+      ],
+      "home_care_india": "Rest, cold compress, and avoid strenuous activity.",
+      "vet_triggers": "If the limp doesn't improve within 24 hours.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More likely during hot weather.",
+      "prevention_tips": "Avoid overexertion, especially in heat, and provide adequate hydration.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_reduced_range_of_mot_27",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Reduced range of motion",
+      "description": "A senior Siberian Husky shows reduced range of motion in its neck due to chronic arthritis.",
+      "indian_climate_factors": "Humidity can worsen joint pain and stiffness.",
+      "breed_predisposition": "Prone to arthritis in old age.",
+      "age_considerations": "Common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been an issue?",
+        "Is there any pain?",
+        "Does the dog have difficulty turning its head?"
+      ],
+      "home_care_india": "Gentle range of motion exercises, comfortable bedding.",
+      "vet_triggers": "If pain is severe or range of motion is significantly reduced.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during humid seasons.",
+      "prevention_tips": "Maintain a healthy weight, provide gentle exercise, and use joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_swollen_joints_28",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Swollen joints",
+      "description": "A Rottweiler puppy shows swollen joints due to poor diet and rapid growth.",
+      "indian_climate_factors": "Poor quality food readily available in India can contribute to nutritional deficiencies.",
+      "breed_predisposition": "Large breeds are prone to developmental orthopedic diseases.",
+      "age_considerations": "Common in rapidly growing puppies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the swelling start?",
+        "What is the dog's diet?",
+        "Is there any pain or lameness?"
+      ],
+      "home_care_india": "Provide a balanced diet, consult a vet for nutritional advice.",
+      "vet_triggers": "If swelling is severe or accompanied by pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Provide a balanced diet, monitor growth, and consult a vet for nutritional advice.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_reluctance_to_jump_29",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "siberian_husky"
+      ],
+      "symptom": "Reluctance to jump",
+      "description": "Both a Beagle and a Siberian Husky show reluctance to jump, especially onto furniture, due to age-related joint degeneration.",
+      "indian_climate_factors": "Hot weather can exacerbate joint pain, making jumping more difficult.",
+      "breed_predisposition": "Both breeds are prone to age-related joint issues.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has this been an issue?",
+        "Is there any pain when jumping?",
+        "Are there any other mobility issues?"
+      ],
+      "home_care_india": "Provide ramps or steps to help the dog access furniture.",
+      "vet_triggers": "If pain is severe or mobility is significantly affected.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot weather.",
+      "prevention_tips": "Maintain healthy weight, provide gentle exercise, and use joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_limping_in_hind_legs_30",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Limping in hind legs",
+      "description": "A young adult dachshund shows intermittent limping in its right hind leg after playing fetch in the hot afternoon sun.  The limping worsens after exercise.",
+      "indian_climate_factors": "Heat exacerbates existing joint issues, leading to increased inflammation.",
+      "breed_predisposition": "Dachshunds are prone to intervertebral disc disease (IVDD) due to their long backs.",
+      "age_considerations": "More common in adult dachshunds due to accumulated wear and tear.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the limping been present?",
+        "Does the limping worsen after exercise?",
+        "Is there any pain on palpation of the spine?"
+      ],
+      "home_care_india": "Rest in a cool, shaded area.  Avoid strenuous activity.  Provide cool water frequently.",
+      "vet_triggers": "If limping persists for more than 2 days or worsens significantly.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during the hot summer months.",
+      "prevention_tips": "Maintain a healthy weight. Avoid jumping from heights. Provide cool, shaded areas during peak heat hours.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_arthritis_in_front_l_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Arthritis in front legs",
+      "description": "An older Boxer exhibits stiffness and reduced range of motion in its front legs, particularly in the mornings.  Has difficulty navigating stairs.",
+      "indian_climate_factors": "Damp monsoon months increase joint pain and stiffness.",
+      "breed_predisposition": "Boxers are predisposed to elbow and shoulder dysplasia.",
+      "age_considerations": "Common in senior Boxers.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any swelling or heat in the joints?",
+        "Does the dog exhibit pain when touched near the joints?"
+      ],
+      "home_care_india": "Provide a comfortable, non-slip bedding. Use joint supplements as directed by the vet.  Avoid prolonged exposure to dampness.",
+      "vet_triggers": "If the dog shows significant pain or loss of mobility.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during monsoon season.",
+      "prevention_tips": "Maintain a healthy weight.  Regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Hip dysplasia",
+      "description": "A young Border Collie from an urban area shows signs of hip dysplasia, including a noticeable gait abnormality and reluctance to jump.",
+      "indian_climate_factors": "Urban pollution may exacerbate inflammation.",
+      "breed_predisposition": "While less prone than some breeds, Border Collies can still develop hip dysplasia.",
+      "age_considerations": "Can manifest in puppies or young adults.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "When did you first notice the limp?",
+        "Is there any clicking or popping sound from the hip joint?",
+        "Does the dog show pain when the hip is manipulated?"
+      ],
+      "home_care_india": "Restrict exercise.  Provide a comfortable, supportive bed.  Use joint supplements as vet-recommended.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be slightly worse during hot summer months due to increased inflammation.",
+      "prevention_tips": "Ensure proper nutrition during growth phases.  Avoid over-exercising young dogs.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_stairs_difficulty_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Stairs difficulty",
+      "description": "A senior Australian Shepherd struggles to navigate stairs due to stiffness and pain in its hind legs.  It avoids jumping or climbing.",
+      "indian_climate_factors": "High humidity can worsen joint pain.",
+      "breed_predisposition": "Australian Shepherds can develop hip and elbow dysplasia.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Does the dog show pain when trying to climb stairs?",
+        "Is there any swelling in the legs?"
+      ],
+      "home_care_india": "Provide ramps or alternative access to elevated areas.  Use joint supplements as vet-recommended.",
+      "vet_triggers": "If the difficulty climbing stairs significantly impacts the dog's quality of life.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during monsoon and winter due to cold and dampness.",
+      "prevention_tips": "Maintain a healthy weight.  Regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "Exercise intolerance",
+      "description": "Both a dachshund and a boxer show significant fatigue and reluctance to exercise after short periods of activity.  Both dogs are overweight.",
+      "indian_climate_factors": "Heat and humidity can quickly exhaust dogs with joint problems.",
+      "breed_predisposition": "Dachshunds (IVDD) and Boxers (various joint issues) are both predisposed.",
+      "age_considerations": "More common in adult and senior dogs.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has this been an issue?",
+        "What type and duration of exercise triggers this?",
+        "Is there any noticeable limping or stiffness?"
+      ],
+      "home_care_india": "Weight management is crucial.  Short, frequent walks in cooler parts of the day.",
+      "vet_triggers": "If exercise intolerance worsens or is accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during summer months.",
+      "prevention_tips": "Weight management is key.  Regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_mild_limping_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Mild limping",
+      "description": "A young Border Collie shows occasional, mild limping after playing in dusty conditions.",
+      "indian_climate_factors": "Dust can irritate joints and exacerbate underlying conditions.",
+      "breed_predisposition": "Border Collies are relatively less prone to severe joint issues but can still be affected.",
+      "age_considerations": "Can occur in young adults.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How often does the limping occur?",
+        "Does it seem to be triggered by activity or environment?",
+        "Is there any swelling or heat in the affected leg?"
+      ],
+      "home_care_india": "Rest and observation.  Keep the dog's paws clean after outdoor activities.",
+      "vet_triggers": "If limping persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during dry, dusty months.",
+      "prevention_tips": "Regular paw cleaning after walks in dusty areas.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_severe_hip_dysplasia_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Severe hip dysplasia",
+      "description": "A young Australian Shepherd, a street dog, shows severe hip dysplasia, with significant limping and difficulty walking.",
+      "indian_climate_factors": "Malnutrition and lack of veterinary care exacerbate the condition.",
+      "breed_predisposition": "Australian Shepherds have a predisposition to hip dysplasia.",
+      "age_considerations": "Can occur in young dogs due to genetic predisposition and poor nutrition.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "How long have you observed these symptoms?",
+        "Is there any history of trauma?",
+        "Does the dog show significant pain?"
+      ],
+      "home_care_india": "Provide high-quality food and a comfortable resting place.  Keep the dog warm and dry.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Condition worsens during harsh weather conditions.",
+      "prevention_tips": "Ensure proper nutrition during growth.  Early veterinary screening for genetic predispositions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_ivdd_(mild)_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "IVDD (mild)",
+      "description": "A middle-aged dachshund shows mild signs of IVDD, with occasional stiffness and subtle changes in gait.",
+      "indian_climate_factors": "Heat can increase inflammation and discomfort.",
+      "breed_predisposition": "Dachshunds are highly prone to IVDD.",
+      "age_considerations": "More common in middle-aged and older dachshunds.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did you notice the changes in gait?",
+        "Is there any pain on palpation of the spine?",
+        "Does the dog hesitate to jump or climb?"
+      ],
+      "home_care_india": "Maintain a healthy weight.  Avoid strenuous activity.  Provide a comfortable bed.",
+      "vet_triggers": "If symptoms worsen or become more frequent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse during hot summer months.",
+      "prevention_tips": "Maintain a healthy weight.  Avoid jumping and sudden movements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_elbow_dysplasia_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Elbow dysplasia",
+      "description": "A young Boxer puppy shows signs of elbow dysplasia, including lameness and swelling in one elbow.",
+      "indian_climate_factors": "High humidity can worsen inflammation.",
+      "breed_predisposition": "Boxers have a high incidence of elbow dysplasia.",
+      "age_considerations": "Often diagnosed in young puppies.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "When did you first notice the lameness?",
+        "Is there any swelling or heat around the elbow?",
+        "Does the dog seem to be in pain?"
+      ],
+      "home_care_india": "Rest and restrict exercise.  Keep the area clean and dry.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse during humid months.",
+      "prevention_tips": "Ensure proper nutrition during puppyhood.  Avoid over-exercising young puppies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis_(severe)_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "Arthritis (severe)",
+      "description": "Both a Border Collie and an Australian Shepherd, senior dogs, exhibit severe arthritis, with significant pain and limited mobility.",
+      "indian_climate_factors": "Cold and damp weather exacerbates arthritis symptoms.",
+      "breed_predisposition": "Both breeds can develop arthritis with age.",
+      "age_considerations": "Common in senior dogs.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How long have the symptoms been present?",
+        "What pain relief methods have you tried?",
+        "Is there any swelling or deformity in the joints?"
+      ],
+      "home_care_india": "Provide a warm, comfortable bed.  Use pain relief medication as prescribed by the vet.",
+      "vet_triggers": "Regular veterinary checkups are essential.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during winter and monsoon seasons.",
+      "prevention_tips": "Maintain a healthy weight.  Regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_intermittent_limping_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Intermittent limping",
+      "description": "An older dachshund shows intermittent limping in its hind legs, particularly after periods of rest.",
+      "indian_climate_factors": "Changes in temperature and humidity can trigger inflammation.",
+      "breed_predisposition": "Dachshunds are susceptible to IVDD and other spinal issues.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How frequently does the limping occur?",
+        "Does it seem to be related to activity or rest?",
+        "Is there any pain on palpation of the spine or legs?"
+      ],
+      "home_care_india": "Provide a comfortable bed.  Gentle stretching exercises as advised by a vet.",
+      "vet_triggers": "If limping worsens or becomes more frequent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more noticeable during temperature fluctuations.",
+      "prevention_tips": "Maintain a healthy weight.  Avoid strenuous activity.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_stiffness_after_rest_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Stiffness after rest",
+      "description": "A senior Boxer experiences stiffness and reluctance to move after periods of rest, particularly in the mornings.",
+      "indian_climate_factors": "Dampness can worsen joint stiffness.",
+      "breed_predisposition": "Boxers are prone to various joint issues, including arthritis.",
+      "age_considerations": "Common in older dogs.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Does it improve after some movement?",
+        "Is there any pain on palpation of the joints?"
+      ],
+      "home_care_india": "Gentle stretching exercises.  Keep the dog warm and dry.",
+      "vet_triggers": "If stiffness significantly impacts the dog's mobility.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon and winter.",
+      "prevention_tips": "Maintain a healthy weight.  Regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_mild_hip_pain_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Mild hip pain",
+      "description": "A young Australian Shepherd shows signs of mild hip pain, with subtle changes in gait and occasional reluctance to jump.",
+      "indian_climate_factors": "Heat can increase inflammation and discomfort.",
+      "breed_predisposition": "Australian Shepherds can develop hip dysplasia.",
+      "age_considerations": "Can occur in young adults.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did you first notice the changes in gait?",
+        "Does the dog seem to be in pain when touched near the hip?",
+        "Does the dog favor one leg?"
+      ],
+      "home_care_india": "Restrict strenuous activity.  Provide a comfortable bed.",
+      "vet_triggers": "If symptoms worsen or become more frequent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse during hot months.",
+      "prevention_tips": "Maintain a healthy weight.  Avoid excessive exercise.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_sudden_onset_lamenes_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Sudden onset lameness",
+      "description": "A middle-aged Border Collie experiences sudden onset lameness in one hind leg after a fall.",
+      "indian_climate_factors": "Hard surfaces can increase the risk of injuries.",
+      "breed_predisposition": "Border Collies are generally less prone to joint issues, but injuries can occur.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "When did the lameness occur?",
+        "Was there any trauma involved?",
+        "Is there any swelling or deformity?"
+      ],
+      "home_care_india": "Keep the dog calm and quiet.  Apply a cold compress (carefully).",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid falls.  Provide safe play areas.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_limping_in_hind_legs_44",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "Limping in hind legs",
+      "description": "A 7-year-old Persian cat shows intermittent limping in its right hind leg, worsened after playing.  It's an indoor cat, fed commercial food.",
+      "indian_climate_factors": "Increased humidity can exacerbate joint inflammation.",
+      "breed_predisposition": "Persians are prone to hip dysplasia due to their brachycephalic features.",
+      "age_considerations": "Adult cats are more susceptible to degenerative joint diseases.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Is there any swelling or pain on palpation?",
+        "Does the limping worsen after exercise?"
+      ],
+      "home_care_india": "Provide a comfortable, cool resting place, limit strenuous activity, use orthopedic bedding.",
+      "vet_triggers": "If limping persists for more than 3 days or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during monsoon due to increased humidity and dampness.",
+      "prevention_tips": "Maintain ideal weight, provide regular, gentle exercise, and a balanced diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis_in_front_p_45",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "Arthritis in front paws",
+      "description": "A senior Siamese cat (15 years) exhibits stiffness and reluctance to jump, particularly after sleeping.  It lives in a dusty urban environment.",
+      "indian_climate_factors": "Dust particles can aggravate existing arthritis.",
+      "breed_predisposition": "Siamese cats can develop osteoarthritis later in life.",
+      "age_considerations": "Common in senior cats due to age-related degeneration.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any swelling or redness in the paws?",
+        "Does pain medication help?"
+      ],
+      "home_care_india": "Provide ramps for easy access, keep the environment clean and dust-free, use warm compresses.",
+      "vet_triggers": "If stiffness severely limits mobility or causes significant pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May improve slightly during winter months.",
+      "prevention_tips": "Maintain a healthy weight, provide regular low-impact exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia_46",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "Hip dysplasia",
+      "description": "A young Maine Coon kitten (6 months) shows signs of hip instability and difficulty climbing stairs. It's an outdoor cat.",
+      "indian_climate_factors": "Extreme heat can lead to dehydration and exacerbate joint pain.",
+      "breed_predisposition": "Large breeds like Maine Coons are predisposed to hip dysplasia.",
+      "age_considerations": "Often diagnosed in young, rapidly growing cats.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "Has the kitten shown any signs of lameness?",
+        "Is there any clicking or popping sound in the hip joint?",
+        "Does the kitten cry out in pain?"
+      ],
+      "home_care_india": "Provide a cool, shaded area, limit jumping and climbing, use orthopedic bedding.",
+      "vet_triggers": "Immediate veterinary attention is required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen the condition during summer.",
+      "prevention_tips": "Ensure proper nutrition during growth, monitor weight, and avoid strenuous activity.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_stairs_difficulty_47",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "Stairs Difficulty",
+      "description": "Both a middle-aged Persian and Siamese cat struggle with stairs, showing signs of stiffness and reluctance to climb.",
+      "indian_climate_factors": "High humidity can make joint pain worse.",
+      "breed_predisposition": "Both breeds can be prone to age-related joint issues.",
+      "age_considerations": "More common in middle-aged and senior cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Do they show any signs of pain when climbing?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Provide ramps or alternative access points, keep stairs clean and free of obstacles.",
+      "vet_triggers": "If the cats are showing signs of pain or are unable to use the stairs at all.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during monsoons due to increased humidity.",
+      "prevention_tips": "Maintain a healthy weight and provide regular, low-impact exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_48",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "Exercise Intolerance",
+      "description": "A large Maine Coon shows fatigue and reluctance to play after short periods of activity.",
+      "indian_climate_factors": "Heat can cause rapid fatigue and dehydration.",
+      "breed_predisposition": "Large size predisposes to joint stress.",
+      "age_considerations": "Can occur in any age group, but more likely in adults and seniors.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has this been going on?",
+        "What kind of exercise triggers fatigue?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Provide cool resting places, schedule exercise during cooler parts of the day.",
+      "vet_triggers": "If fatigue is severe or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during hot and humid months.",
+      "prevention_tips": "Maintain a healthy weight, provide regular, low-impact exercise tailored to the cat's tolerance.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_limping,_front_left__49",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "Limping, front left leg",
+      "description": "A young Persian kitten, 4 months old, shows a slight limp in its front left leg after a fall.",
+      "indian_climate_factors": "Monsoon season's dampness can increase the risk of infections.",
+      "breed_predisposition": "Brachycephalic features can sometimes affect joint development.",
+      "age_considerations": "Common in kittens due to accidents or developmental issues.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did the limp start?",
+        "Was there any trauma?",
+        "Is there any swelling or pain?"
+      ],
+      "home_care_india": "Keep the area clean and dry, restrict activity, monitor for signs of infection.",
+      "vet_triggers": "If the limp doesn't improve within 2 days or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased risk of infection during monsoon.",
+      "prevention_tips": "Supervise kittens closely to prevent falls, provide a safe environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis,_hind_legs_50",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "Arthritis, hind legs",
+      "description": "An older Siamese cat (12 years) shows stiffness and pain in its hind legs, especially in the mornings.",
+      "indian_climate_factors": "Cold weather can make arthritis worse.",
+      "breed_predisposition": "Age-related degeneration is common in Siamese cats.",
+      "age_considerations": "Typical in older cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any swelling or redness?",
+        "Does pain medication help?"
+      ],
+      "home_care_india": "Keep the cat warm, provide soft bedding, and consider joint supplements.",
+      "vet_triggers": "If the pain is severe or medication isn't effective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during winter months.",
+      "prevention_tips": "Maintain a healthy weight, provide regular gentle exercise, and manage pain effectively.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia,_sever_51",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "Hip dysplasia, severe",
+      "description": "A young Maine Coon (1 year) exhibits significant limping, difficulty walking, and pain in its hips.",
+      "indian_climate_factors": "Heat and humidity can aggravate hip pain.",
+      "breed_predisposition": "Large breed, high risk of hip dysplasia.",
+      "age_considerations": "Often diagnosed in young, growing cats.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Is there any clicking or popping sound?",
+        "Is the cat in significant pain?"
+      ],
+      "home_care_india": "Provide a comfortable, cool environment, limit activity, use orthopedic bedding.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens in hot and humid weather.",
+      "prevention_tips": "Ensure proper nutrition during growth, monitor weight, and avoid strenuous activity.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_arthritis,_mild_52",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "Arthritis, mild",
+      "description": "An older Persian cat (10 years) shows slight stiffness after resting.",
+      "indian_climate_factors": "Humidity can worsen joint pain.",
+      "breed_predisposition": "Predisposition to osteoarthritis with age.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any pain?",
+        "Does it improve with movement?"
+      ],
+      "home_care_india": "Provide warm bedding, gentle massage, and a comfortable environment.",
+      "vet_triggers": "If stiffness worsens or pain develops.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during monsoon.",
+      "prevention_tips": "Maintain a healthy weight, provide regular gentle exercise.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_limping,_right_hind__53",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "Limping, right hind leg",
+      "description": "A middle-aged Siamese cat (8 years) shows a limp in its right hind leg after a suspected injury.",
+      "indian_climate_factors": "Heat can increase inflammation.",
+      "breed_predisposition": "Susceptible to injuries due to active nature.",
+      "age_considerations": "Can occur at any age due to injury.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did the limp start?",
+        "Was there any trauma?",
+        "Is there any swelling or pain?"
+      ],
+      "home_care_india": "Rest, ice packs (carefully), keep the area clean.",
+      "vet_triggers": "If the limp doesn't improve or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can worsen inflammation during summer.",
+      "prevention_tips": "Provide a safe environment to prevent injuries.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_54",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "Exercise intolerance, severe",
+      "description": "A senior Maine Coon (14 years) shows extreme fatigue after minimal exercise.",
+      "indian_climate_factors": "Heat can exacerbate fatigue.",
+      "breed_predisposition": "Large size increases stress on joints.",
+      "age_considerations": "Common in senior cats due to age-related degeneration.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "What triggers the fatigue?",
+        "Are there other symptoms?"
+      ],
+      "home_care_india": "Provide a cool, comfortable environment, limit activity.",
+      "vet_triggers": "Immediate veterinary attention is recommended.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens in hot weather.",
+      "prevention_tips": "Manage weight, provide comfortable bedding, and address underlying medical conditions.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_and_knee_pain_55",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "Hip and knee pain",
+      "description": "Both a Persian and Siamese cat show signs of pain in their hips and knees, affecting mobility.",
+      "indian_climate_factors": "Humidity can increase joint inflammation.",
+      "breed_predisposition": "Both breeds can develop age-related joint issues.",
+      "age_considerations": "More common in middle-aged and senior cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "Where is the pain located?",
+        "Is there any swelling or stiffness?",
+        "Does pain medication help?"
+      ],
+      "home_care_india": "Provide comfortable bedding, limit strenuous activity, and consider pain relief measures.",
+      "vet_triggers": "If pain is severe or doesn't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during humid seasons.",
+      "prevention_tips": "Maintain healthy weight, provide regular low-impact exercise, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_stiffness_after_slee_56",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "Stiffness after sleep",
+      "description": "A Maine Coon cat shows stiffness and reluctance to move immediately after waking.",
+      "indian_climate_factors": "Cold mornings can exacerbate stiffness.",
+      "breed_predisposition": "Large size and age can contribute to stiffness.",
+      "age_considerations": "Common in older cats, but can occur in younger cats too.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "How long does the stiffness last?",
+        "Is there any pain?"
+      ],
+      "home_care_india": "Provide warm bedding, gentle stretching exercises, and a comfortable environment.",
+      "vet_triggers": "If stiffness is severe or persistent, or if pain is present.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during winter months.",
+      "prevention_tips": "Maintain healthy weight, provide regular gentle exercise.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_sudden_lameness_57",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "Sudden lameness",
+      "description": "A Persian cat experiences sudden lameness in one leg, possibly due to a fracture or ligament injury.",
+      "indian_climate_factors": "Street cats are exposed to more injuries.",
+      "breed_predisposition": "Prone to injuries due to their less active nature.",
+      "age_considerations": "Can occur at any age due to trauma.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "When did the lameness begin?",
+        "Was there any trauma?",
+        "Is there any swelling or deformity?"
+      ],
+      "home_care_india": "Keep the cat calm and quiet, transport to vet immediately.",
+      "vet_triggers": "Immediate veterinary attention required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Provide a safe environment to avoid injuries.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "f7g8h9i0",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese",
+        "street cat"
+      ],
+      "symptom": "Chronic pain",
+      "description": "A street Siamese cat shows signs of chronic pain, possibly due to untreated injuries or infections.",
+      "indian_climate_factors": "Exposure to harsh weather and poor nutrition contribute to chronic pain.",
+      "breed_predisposition": "Street cats are highly vulnerable.",
+      "age_considerations": "Common in older street cats.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "How long has the cat been showing signs of pain?",
+        "What are the pain behaviors?",
+        "Is there any history of injury or illness?"
+      ],
+      "home_care_india": "Provide shelter, food, and water.  Seek veterinary help immediately.",
+      "vet_triggers": "Immediate veterinary attention is required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during extreme weather conditions.",
+      "prevention_tips": "Provide regular veterinary care for street cats, improve access to food and shelter.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_limping_in_hind_leg_59",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Limping in hind leg",
+      "description": "A 5-year-old British Shorthair shows intermittent limping in its right hind leg, particularly after strenuous play.  It's an indoor cat, but occasionally ventures onto the balcony.",
+      "indian_climate_factors": "Increased heat and humidity can exacerbate joint inflammation.",
+      "breed_predisposition": "British Shorthairs, while generally robust, can be prone to hip dysplasia.",
+      "age_considerations": "Middle-aged cats are susceptible to degenerative joint diseases.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did the limping start?",
+        "Is there any swelling or pain on palpation?",
+        "Does the limping worsen after exercise?"
+      ],
+      "home_care_india": "Provide cool resting areas, avoid strenuous activity, and use orthopedic bedding.",
+      "vet_triggers": "If limping persists for more than a week or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during the hot summer months.",
+      "prevention_tips": "Maintain a healthy weight, provide regular, moderate exercise, and consider joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_arthritis_60",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Arthritis",
+      "description": "An elderly Ragdoll (12 years) exhibits stiffness, especially in the mornings, and difficulty jumping onto furniture.",
+      "indian_climate_factors": "Monsoon season dampness can worsen joint pain.",
+      "breed_predisposition": "Ragdolls, due to their size, are prone to osteoarthritis as they age.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Is there any noticeable swelling?",
+        "Does pain medication provide relief?"
+      ],
+      "home_care_india": "Provide a warm, dry sleeping area, use ramps for furniture access, and offer pain relief as advised by the vet.",
+      "vet_triggers": "If stiffness significantly impacts mobility or causes distress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may be more pronounced during the monsoon and winter.",
+      "prevention_tips": "Maintain ideal weight, provide gentle exercise, and consider a diet rich in omega-3 fatty acids.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_hip_dysplasia_61",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Hip Dysplasia",
+      "description": "A young Bengal kitten (6 months) shows signs of uneven gait and reluctance to jump.",
+      "indian_climate_factors": "Dust and air pollution can irritate already inflamed joints.",
+      "breed_predisposition": "Bengals, being an active breed, can develop hip dysplasia if genetically predisposed.",
+      "age_considerations": "Can manifest in kittens, but often diagnosed later.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "Has the kitten always walked like this?",
+        "Is there any clicking sound in the hip joint?",
+        "Does the kitten show signs of pain?"
+      ],
+      "home_care_india": "Keep the kitten in a clean environment, limit strenuous activity, and provide soft bedding.",
+      "vet_triggers": "Immediately if there's noticeable lameness or pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat stress can worsen hip dysplasia.",
+      "prevention_tips": "Choose a reputable breeder, ensure proper nutrition, and monitor the kitten's growth.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_stairs_difficulty_62",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "Stairs Difficulty",
+      "description": "An older British Shorthair and Ragdoll (both 8 years) struggle to climb stairs.",
+      "indian_climate_factors": "High humidity can make joint pain worse.",
+      "breed_predisposition": "Both breeds can be prone to age-related joint issues.",
+      "age_considerations": "More common in older cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did the difficulty start?",
+        "Are there any other mobility issues?",
+        "Do they seem to be in pain?"
+      ],
+      "home_care_india": "Provide ramps or alternative access points, ensure a comfortable resting area on the ground floor.",
+      "vet_triggers": "If the difficulty leads to falls or injuries.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during humid months.",
+      "prevention_tips": "Maintain healthy weight, manage underlying conditions like arthritis.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_exercise_intolerance_63",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Exercise Intolerance",
+      "description": "A Bengal cat (3 years) quickly tires during play and shows reluctance to engage in activities.",
+      "indian_climate_factors": "Heat can lead to dehydration and exacerbate joint problems.",
+      "breed_predisposition": "Active Bengals may mask subtle joint issues by reducing activity.",
+      "age_considerations": "Can appear in adult cats.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "What type of exercise is tolerated?",
+        "Any signs of limping or stiffness?"
+      ],
+      "home_care_india": "Provide shorter play sessions in cooler parts of the day, ensure access to fresh water.",
+      "vet_triggers": "If lethargy and reduced activity persist.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More noticeable during hot summer months.",
+      "prevention_tips": "Regular veterinary check-ups, balanced diet, appropriate exercise.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_stiffness_64",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Stiffness",
+      "description": "A senior British Shorthair (14 years) exhibits stiffness after resting.",
+      "indian_climate_factors": "Cold weather can worsen stiffness.",
+      "breed_predisposition": "Older British Shorthairs are susceptible to age-related joint degeneration.",
+      "age_considerations": "Common in geriatric cats.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has the stiffness been present?",
+        "Does it improve with movement?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Provide a warm, comfortable bed, gentle massage, and monitor for any worsening.",
+      "vet_triggers": "If stiffness significantly restricts movement.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during winter.",
+      "prevention_tips": "Maintain a healthy weight, provide a balanced diet, and consider joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_sudden_limping_65",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Sudden Limping",
+      "description": "A young adult Ragdoll (2 years) suddenly starts limping after a fall.",
+      "indian_climate_factors": "Hard surfaces common in Indian homes can worsen injuries.",
+      "breed_predisposition": "Ragdolls, with their larger size, can be more prone to injuries from falls.",
+      "age_considerations": "Can occur at any age, often trauma-related.",
+      "severity_level": "Emergency",
+      "questions_to_ask": [
+        "How did the injury occur?",
+        "Is there any swelling or deformity?",
+        "Is the cat in pain?"
+      ],
+      "home_care_india": "Keep the cat quiet and comfortable, restrict movement.",
+      "vet_triggers": "Immediately.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Cat-proof the home, provide safe climbing options.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "jnt_reduced_jumping_abil_66",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Reduced Jumping Ability",
+      "description": "A middle-aged Bengal (5 years) has difficulty jumping onto high surfaces.",
+      "indian_climate_factors": "Heat can cause fatigue, making jumping more difficult.",
+      "breed_predisposition": "Bengals' active nature means joint issues might be noticed later due to reduced activity.",
+      "age_considerations": "Can occur in middle-aged cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did this start?",
+        "Any other mobility issues?",
+        "Does the cat show signs of pain?"
+      ],
+      "home_care_india": "Provide ramps and steps for easier access to high places.",
+      "vet_triggers": "If the difficulty worsens or is accompanied by pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot and humid seasons.",
+      "prevention_tips": "Regular exercise, healthy weight, and veterinary check-ups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_chronic_limping_67",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Chronic Limping",
+      "description": "A street British Shorthair exhibits chronic limping in its front left leg, possibly due to an old injury.",
+      "indian_climate_factors": "Exposure to elements and lack of proper care can worsen existing conditions.",
+      "breed_predisposition": "Street cats face higher risks of injuries and infections.",
+      "age_considerations": "Can occur at any age in street cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has the limping been present?",
+        "Any history of trauma?",
+        "Is there any swelling or discharge?"
+      ],
+      "home_care_india": "Provide shelter, clean water, and high-quality food if possible.",
+      "vet_triggers": "If limping worsens, or there's infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to increased humidity and infections.",
+      "prevention_tips": "Provide regular veterinary care to street cats if possible.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_pain_on_palpation_68",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Pain on Palpation",
+      "description": "A senior Ragdoll (15 years) shows pain when its hip joints are touched.",
+      "indian_climate_factors": "Fluctuations in temperature can trigger joint pain.",
+      "breed_predisposition": "Large size and age increase risk of degenerative joint disease.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Any other symptoms?",
+        "Does the cat respond to pain relief?"
+      ],
+      "home_care_india": "Provide a comfortable, warm bed, gentle handling, and pain management as directed by the vet.",
+      "vet_triggers": "Persistent pain despite home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during cold weather.",
+      "prevention_tips": "Maintain healthy weight, provide supportive bedding, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_swelling_in_joint_69",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Swelling in Joint",
+      "description": "A young Bengal (1 year) has noticeable swelling in its knee joint.",
+      "indian_climate_factors": "High humidity can increase swelling.",
+      "breed_predisposition": "Active Bengals may injure their joints during play.",
+      "age_considerations": "Can occur at any age, often injury-related.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did the swelling appear?",
+        "Any history of trauma?",
+        "Is there any pain or limping?"
+      ],
+      "home_care_india": "Keep the cat quiet and comfortable, apply cool compresses (as advised by vet).",
+      "vet_triggers": "If swelling increases, or there's pain or limping.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More noticeable during humid months.",
+      "prevention_tips": "Supervise play, ensure safe environment, and provide proper nutrition.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jnt_difficulty_grooming_70",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "Difficulty Grooming",
+      "description": "An older British Shorthair and Ragdoll (both 10 years) show difficulty grooming their hindquarters due to joint pain.",
+      "indian_climate_factors": "Heat and humidity can exacerbate discomfort.",
+      "breed_predisposition": "Both breeds are susceptible to age-related joint problems.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did this start?",
+        "Any other mobility issues?",
+        "Does the cat seem uncomfortable?"
+      ],
+      "home_care_india": "Provide assistance with grooming, ensure a comfortable resting area.",
+      "vet_triggers": "If grooming difficulty is severe or accompanied by pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot and humid months.",
+      "prevention_tips": "Maintain healthy weight, provide supportive bedding, and consider joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_muscle_atrophy_71",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Muscle Atrophy",
+      "description": "A senior Bengal (12 years) shows muscle wasting in its hind legs due to disuse atrophy secondary to hip pain.",
+      "indian_climate_factors": "Heat can lead to dehydration and muscle weakness.",
+      "breed_predisposition": "Bengals, being active, might show muscle loss more dramatically when mobility is reduced.",
+      "age_considerations": "Common in senior cats with chronic joint pain.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "How long has this been present?",
+        "Any history of joint pain?",
+        "Is there any other neurological sign?"
+      ],
+      "home_care_india": "Provide physical therapy as advised by vet, maintain good nutrition.",
+      "vet_triggers": "Muscle wasting indicates significant underlying issue.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during hot months due to decreased activity.",
+      "prevention_tips": "Maintain optimal weight, provide regular, gentle exercise, and address any underlying joint issues promptly.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jnt_vocalization_during__72",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Vocalization during Movement",
+      "description": "A senior British Shorthair (13 years) vocalizes (yowls) when moving, especially when getting up from rest.",
+      "indian_climate_factors": "Changes in temperature and humidity can affect joint pain.",
+      "breed_predisposition": "Older British Shorthairs can develop osteoarthritis.",
+      "age_considerations": "Common in senior cats with osteoarthritis.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "How long has this vocalization been present?",
+        "Any other symptoms of discomfort?",
+        "Does it worsen with certain movements?"
+      ],
+      "home_care_india": "Provide pain relief medication as advised by the vet, use supportive bedding.",
+      "vet_triggers": "Persistent vocalization during movement.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during cold or damp weather.",
+      "prevention_tips": "Maintain healthy weight, provide pain relief as needed, and consider joint supplements.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "jm_senior_stiffness_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd",
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "old senior dog stiff stiffness mornings arthritis elderly",
+      "description": "Senior or old dog with stiffness especially in the mornings. Senior dog (10+ years) showing stiffness after rest, particularly in morning. Moves slowly initially but improves with movement. Indicates arthritis or degenerative joint disease requiring veterinary management for pain relief.",
+      "indian_climate_factors": "Cold weather and monsoon humidity worsen joint stiffness.",
+      "breed_predisposition": "Large breeds and working dogs more prone to arthritis.",
+      "age_considerations": "Common in dogs over 10 years, progressive condition.",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "How old is your dog?",
+        "How long does stiffness last?",
+        "Does it improve with walking?",
+        "Difficulty with stairs?"
+      ],
+      "home_care_india": "Soft bedding, maintain healthy weight, gentle exercise. However, veterinary consultation needed for pain management.",
+      "vet_triggers": "Persistent morning stiffness in senior dogs, difficulty rising, reluctance to exercise.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during cold winter and monsoon.",
+      "prevention_tips": "Maintain healthy weight, regular low-impact exercise, joint supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "jm_limping_pain_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "limping_with_pain",
+      "description": "Dog limping and showing pain when leg is touched - yelping, pulling away, or crying. Indicates injury, sprain, or joint problem causing significant discomfort. Requires same-day vet examination for pain relief and diagnosis.",
+      "indian_climate_factors": "Slippery floors during monsoon increase injury risk.",
+      "breed_predisposition": "Active breeds and large breeds more prone to injuries.",
+      "age_considerations": "Puppies may injure during play. Senior dogs may have arthritis flare-ups.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Which leg is affected?",
+        "When did limping start?",
+        "Did you see an injury happen?",
+        "Can dog put any weight on leg?"
+      ],
+      "home_care_india": "Restrict activity, keep dog calm. Apply cool compress if swelling visible. No stairs.",
+      "vet_triggers": "Severe limping, can't bear weight, yelping in pain, swelling, not improving in 24 hours.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Injuries increase during festival play and monsoon slippery conditions.",
+      "prevention_tips": "Supervise play, avoid slippery floors, maintain healthy weight, regular exercise.",
+      "severity": "urgent"
+    }
+  ]
+}

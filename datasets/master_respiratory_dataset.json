@@ -1,0 +1,1829 @@
+{
+  "metadata": {
+    "category": "respiratory",
+    "total_entries": 75,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "res_chronic_coughing_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "Chronic Coughing",
+      "description": "Persistent dry cough, worse at night, affecting a 5-year-old Golden Retriever.  Possible kennel cough.",
+      "indian_climate_factors": "Dust and humidity exacerbate coughing during monsoon.",
+      "breed_predisposition": "Labradors and Golden Retrievers are prone to respiratory infections due to their size and susceptibility to allergies.",
+      "age_considerations": "Adult dogs are more susceptible to chronic respiratory issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough persisted?",
+        "Is there any nasal discharge?",
+        "Has the dog been exposed to other dogs?"
+      ],
+      "home_care_india": "Ensure adequate hydration, avoid dust exposure, use a humidifier during dry weather.",
+      "vet_triggers": "If cough worsens, becomes productive (with mucus), or is accompanied by lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon due to high humidity and dust.",
+      "prevention_tips": "Regular vaccination, avoid contact with sick dogs, use air purifiers.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_snoring_and_breathin_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Snoring and Breathing Difficulty",
+      "description": "Loud snoring and noticeable breathing difficulty, especially during sleep, in a senior Bulldog.",
+      "indian_climate_factors": "Heat and humidity worsen breathing problems; increased panting.",
+      "breed_predisposition": "Brachycephalic breeds like Bulldogs are predisposed to breathing issues due to their short noses.",
+      "age_considerations": "Senior dogs are more vulnerable due to age-related degeneration.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Does the dog struggle to breathe during exercise?",
+        "Is there any cyanosis (blue tinge to gums)?"
+      ],
+      "home_care_india": "Keep the dog cool, use a fan, avoid strenuous activity during hot weather.",
+      "vet_triggers": "If breathing becomes labored, cyanosis appears, or the dog collapses.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More severe during hot and humid months.",
+      "prevention_tips": "Maintain ideal weight, avoid overheating, regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Wheezing",
+      "description": "A young German Shepherd exhibits wheezing after playing in dusty areas.",
+      "indian_climate_factors": "Dust and air pollution trigger wheezing, especially during dry seasons.",
+      "breed_predisposition": "German Shepherds can be susceptible to allergies and asthma.",
+      "age_considerations": "Young dogs may develop allergies early in life.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does the wheezing occur?",
+        "Is there any coughing?",
+        "Has the dog been exposed to irritants?"
+      ],
+      "home_care_india": "Avoid dusty areas, provide clean water, use air purifiers.",
+      "vet_triggers": "If wheezing becomes persistent or severe, or is accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during dry and dusty seasons.",
+      "prevention_tips": "Regular grooming, avoid exposure to irritants, use allergy-friendly bedding.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Nasal Discharge",
+      "description": "A Labrador Retriever puppy has a clear nasal discharge and mild sneezing.",
+      "indian_climate_factors": "Monsoon season increases the risk of upper respiratory infections.",
+      "breed_predisposition": "Labrador Retrievers are not particularly predisposed to this but can be affected by environmental factors.",
+      "age_considerations": "Puppies have developing immune systems, making them vulnerable.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the discharge clear, white, yellow, or green?",
+        "Is the puppy lethargic?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the puppy warm and dry, provide supportive care.",
+      "vet_triggers": "If discharge becomes colored, thick, or accompanied by fever or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Vaccination, avoid exposure to sick dogs.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "Panting",
+      "description": "Excessive panting, even at rest, in an adult Golden Retriever, especially during hot and humid days.",
+      "indian_climate_factors": "High temperatures and humidity trigger excessive panting.",
+      "breed_predisposition": "Large breeds like Golden Retrievers and German Shepherds can overheat easily.",
+      "age_considerations": "Adult dogs are more susceptible to heatstroke than puppies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the excessive panting been occurring?",
+        "Is the dog lethargic?",
+        "Is the dog's tongue excessively dry?"
+      ],
+      "home_care_india": "Provide cool water, shade, and fans; wet the dog down.",
+      "vet_triggers": "If panting is excessive, gums are dry, or the dog shows signs of heatstroke (collapse, seizures).",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer months.",
+      "prevention_tips": "Avoid strenuous activity during peak heat, provide adequate shade and water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_and_nasal_d_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Coughing and Nasal Discharge",
+      "description": "A Bulldog exhibits a persistent cough and thick, yellow nasal discharge.",
+      "indian_climate_factors": "Pollution and dust worsen respiratory infections.",
+      "breed_predisposition": "Bulldogs' short noses make them susceptible to infections.",
+      "age_considerations": "Adult dogs are at higher risk.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have the symptoms been present?",
+        "Is there any fever?",
+        "Is the dog lethargic?"
+      ],
+      "home_care_india": "Keep the dog warm and comfortable, provide supportive care.",
+      "vet_triggers": "If the dog's condition worsens, or if there is a fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during dry and dusty seasons.",
+      "prevention_tips": "Regular vet checkups, avoid exposure to irritants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Breathing Difficulty and Wheezing",
+      "description": "A senior German Shepherd is experiencing labored breathing and wheezing, especially during exercise.",
+      "indian_climate_factors": "High humidity and heat can exacerbate breathing problems.",
+      "breed_predisposition": "Large breeds can develop heart conditions that affect breathing.",
+      "age_considerations": "Senior dogs are prone to age-related respiratory issues.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been occurring?",
+        "Is the dog coughing?",
+        "Is there any cyanosis?"
+      ],
+      "home_care_india": "Keep the dog cool and comfortable, limit exercise.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during hot and humid months.",
+      "prevention_tips": "Regular vet checkups, maintain ideal weight.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_mild_coughing_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Mild Coughing",
+      "description": "A young Labrador Retriever has a mild, occasional cough.",
+      "indian_climate_factors": "Dust and pollen can trigger mild coughs.",
+      "breed_predisposition": "Labradors can be prone to allergies.",
+      "age_considerations": "Young dogs can develop allergies.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the dog cough?",
+        "Is there any other symptoms?",
+        "What is the dog's environment like?"
+      ],
+      "home_care_india": "Keep the dog in a clean environment.",
+      "vet_triggers": "If the cough worsens or persists.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry and dusty seasons.",
+      "prevention_tips": "Regular grooming, use air purifiers.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_snoring_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Snoring",
+      "description": "A dogs presenting with Snoring. A senior Golden Retriever snores loudly at night.",
+      "indian_climate_factors": "Humidity can worsen snoring.",
+      "breed_predisposition": "Large breeds can develop age-related snoring.",
+      "age_considerations": "Snoring is common in senior dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is there any other respiratory symptoms?"
+      ],
+      "home_care_india": "Ensure comfortable sleeping position.",
+      "vet_triggers": "If snoring is accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during humid seasons.",
+      "prevention_tips": "Maintain a healthy weight.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_and_nasal_di_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog",
+        "german_shepherd"
+      ],
+      "symptom": "Panting and Nasal Discharge",
+      "description": "A Bulldog and German Shepherd mix has excessive panting and a clear nasal discharge after a long walk in the sun.",
+      "indian_climate_factors": "Heat and sun exposure can cause overheating and dehydration.",
+      "breed_predisposition": "Brachycephalic breeds are prone to overheating, while German Shepherds can be susceptible to heatstroke.",
+      "age_considerations": "Adult dogs are at higher risk.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the panting been occurring?",
+        "Is the dog lethargic?",
+        "Is the dog drinking enough water?"
+      ],
+      "home_care_india": "Provide cool water, shade, and rest.",
+      "vet_triggers": "If the dog is lethargic, showing signs of heatstroke, or the discharge changes color.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer.",
+      "prevention_tips": "Avoid strenuous activity during peak heat, provide adequate hydration.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_severe_coughing_and__11",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Severe Coughing and Wheezing",
+      "description": "A Labrador Retriever is experiencing severe coughing and wheezing, with difficulty breathing.",
+      "indian_climate_factors": "Air pollution and dust storms can trigger severe respiratory distress.",
+      "breed_predisposition": "Labradors can be susceptible to respiratory infections.",
+      "age_considerations": "Adult dogs are at risk.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have the symptoms been present?",
+        "Is the dog lethargic?",
+        "Is there any cyanosis?"
+      ],
+      "home_care_india": "Keep the dog calm and comfortable, provide oxygen if possible.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during periods of high air pollution.",
+      "prevention_tips": "Avoid exposure to pollutants, regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Breathing Difficulty",
+      "description": "A senior Golden Retriever is experiencing labored breathing, especially during exertion.",
+      "indian_climate_factors": "Heat and humidity can exacerbate heart and lung conditions.",
+      "breed_predisposition": "Large breeds can develop heart conditions.",
+      "age_considerations": "Older dogs are at higher risk of heart failure.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been occurring?",
+        "Is there any coughing or wheezing?",
+        "Is the dog coughing up blood?"
+      ],
+      "home_care_india": "Keep the dog cool and comfortable, limit activity.",
+      "vet_triggers": "Immediate veterinary care is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during hot and humid weather.",
+      "prevention_tips": "Regular vet checkups, manage weight.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_nasal_discharge_and__13",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Nasal Discharge and Sneezing",
+      "description": "A German Shepherd puppy has a clear nasal discharge and frequent sneezing.",
+      "indian_climate_factors": "Dust and allergens can trigger allergic rhinitis.",
+      "breed_predisposition": "German Shepherds can be prone to allergies.",
+      "age_considerations": "Puppies are more susceptible to infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long have these symptoms been present?",
+        "Is the puppy lethargic?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the puppy warm and dry, provide supportive care.",
+      "vet_triggers": "If symptoms worsen, or if there is a fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry and dusty seasons.",
+      "prevention_tips": "Avoid exposure to irritants, regular grooming.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_chronic_snoring_and__14",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Chronic Snoring and Wheezing",
+      "description": "A Bulldog exhibits chronic snoring and wheezing, worsened by exercise.",
+      "indian_climate_factors": "Heat and humidity increase respiratory effort.",
+      "breed_predisposition": "Brachycephalic breeds are prone to airway obstruction.",
+      "age_considerations": "Adult and senior dogs are affected.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Does the dog struggle to breathe?",
+        "Is there any bluish tinge to the gums?"
+      ],
+      "home_care_india": "Keep the dog cool, avoid strenuous activity.",
+      "vet_triggers": "If breathing becomes labored, or if cyanosis appears.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during hot and humid months.",
+      "prevention_tips": "Maintain ideal weight, avoid overheating.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_acute_coughing_and_p_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "Acute Coughing and Panting",
+      "description": "A Labrador Retriever exhibits sudden onset of severe coughing and rapid panting after consuming leftover street food.",
+      "indian_climate_factors": "Contaminated food can cause acute respiratory infections, especially during monsoon.",
+      "breed_predisposition": "Labrador Retrievers and Golden Retrievers are prone to scavenging and ingesting harmful substances.",
+      "age_considerations": "Adult dogs are at risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "How long ago did the symptoms start?",
+        "Is the dog vomiting or having diarrhea?"
+      ],
+      "home_care_india": "Do not induce vomiting; seek veterinary attention immediately.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during monsoon due to food contamination.",
+      "prevention_tips": "Supervise the dog closely, avoid feeding scraps or street food.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_coughing_16",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "coughing",
+      "description": "Persistent dry cough, worse at night, affecting a 5-year-old Poodle.  Possible tracheal collapse.",
+      "indian_climate_factors": "Increased humidity exacerbates the condition, making breathing more difficult.",
+      "breed_predisposition": "Poodles, with their long necks, are predisposed to tracheal collapse.",
+      "age_considerations": "More common in middle-aged to senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough been present?",
+        "Is the cough dry or productive?",
+        "Does the cough worsen with exercise?"
+      ],
+      "home_care_india": "Keep the dog in a cool, well-ventilated area. Avoid strenuous activity.",
+      "vet_triggers": "If cough persists for more than a week or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to humidity.",
+      "prevention_tips": "Maintain ideal weight to reduce strain on trachea.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_nasal_discharge_17",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Thick, yellow-green nasal discharge in a 2-year-old Beagle, possibly due to an upper respiratory infection.",
+      "indian_climate_factors": "Dust and pollutants in urban areas can trigger or worsen infections.",
+      "breed_predisposition": "Beagles, with their short snouts, can be more prone to nasal congestion.",
+      "age_considerations": "Common in young dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the discharge clear, yellow, or green?",
+        "Is the dog sneezing?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the dog hydrated. Clean nasal discharge gently.",
+      "vet_triggers": "If discharge persists for more than 3 days or is accompanied by fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during dry, dusty months.",
+      "prevention_tips": "Regular cleaning of the nasal area.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_18",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Labored breathing and panting in a senior Rottweiler, possibly due to heart disease.",
+      "indian_climate_factors": "Heat and humidity can significantly worsen breathing problems.",
+      "breed_predisposition": "Rottweilers are prone to heart conditions.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the dog been struggling to breathe?",
+        "Is the dog coughing?",
+        "Is there any cyanosis?"
+      ],
+      "home_care_india": "Keep the dog in a cool, shaded area.  Provide access to fresh water.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during hot summer months.",
+      "prevention_tips": "Regular veterinary check-ups, especially for heart health.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_19",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "wheezing",
+      "description": "High-pitched wheezing sound during respiration in a young Siberian Husky, possibly due to allergies.",
+      "indian_climate_factors": "Seasonal changes in pollen and dust can trigger allergic reactions.",
+      "breed_predisposition": "Siberian Huskies can be prone to allergies.",
+      "age_considerations": "Can affect dogs of any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When does the wheezing occur?",
+        "Is the dog coughing?",
+        "Are there any other allergic symptoms?"
+      ],
+      "home_care_india": "Keep the dog indoors during high pollen counts.",
+      "vet_triggers": "If wheezing is persistent or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during spring and monsoon seasons.",
+      "prevention_tips": "Regular grooming to remove allergens from fur.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_panting_20",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "panting",
+      "description": "Excessive panting even at rest in a street dog (Poodle mix and Beagle mix) due to heat stress.",
+      "indian_climate_factors": "Extreme heat and humidity can lead to heatstroke.",
+      "breed_predisposition": "Brachycephalic breeds are more susceptible to heatstroke.",
+      "age_considerations": "All ages susceptible, especially puppies and seniors.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the dog been panting?",
+        "Is the dog lethargic?",
+        "Is the dog's gums dry?"
+      ],
+      "home_care_india": "Cool the dog down immediately. Provide cool water.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most critical during summer months.",
+      "prevention_tips": "Provide shade and cool water during hot weather.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_snoring_21",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "snoring",
+      "description": "Loud snoring during sleep in an adult Rottweiler, possibly due to nasal polyps or allergies.",
+      "indian_climate_factors": "Dust and allergens in the environment can worsen snoring.",
+      "breed_predisposition": "Certain breeds are predisposed to nasal issues.",
+      "age_considerations": "Can occur at any age but more common in adults.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How loud is the snoring?",
+        "Is there any nasal discharge?",
+        "Does the dog seem distressed?"
+      ],
+      "home_care_india": "Keep the dog's sleeping area clean and dust-free.",
+      "vet_triggers": "If snoring is excessive or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during dusty seasons.",
+      "prevention_tips": "Regular cleaning of the dog's bedding.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_coughing_22",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "coughing",
+      "description": "A hacking cough, particularly in the mornings, in a senior Siberian Husky, possibly due to kennel cough.",
+      "indian_climate_factors": "Monsoon season's humidity may worsen the spread of respiratory infections.",
+      "breed_predisposition": "Huskies, being social dogs, are susceptible to contagious respiratory illnesses.",
+      "age_considerations": "More common in older dogs with weakened immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cough dry or productive?",
+        "Is the dog lethargic?",
+        "Has the dog been around other dogs recently?"
+      ],
+      "home_care_india": "Isolate the dog from other animals. Provide supportive care.",
+      "vet_triggers": "If the cough is severe or prolonged.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during the monsoon season.",
+      "prevention_tips": "Vaccination against kennel cough.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_23",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Sudden onset of labored breathing and bluish gums in a young Poodle, possibly due to aspiration pneumonia.",
+      "indian_climate_factors": "Monsoon season's dampness could contribute to fungal growth.",
+      "breed_predisposition": "Predisposition is less breed-specific; it relates to accidental ingestion.",
+      "age_considerations": "More common in puppies due to playful behavior.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the breathing difficulty start?",
+        "Did the dog ingest anything unusual?",
+        "Are the gums blue?"
+      ],
+      "home_care_india": "Keep the dog calm and quiet. Provide oxygen if possible.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Potentially worse during monsoon due to increased humidity and fungal spores.",
+      "prevention_tips": "Supervise puppies closely to prevent accidental ingestion of foreign objects.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_nasal_discharge_24",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Clear nasal discharge with sneezing in a puppy Beagle, possibly due to allergies to local pollens.",
+      "indian_climate_factors": "High pollen counts during certain seasons can trigger allergies.",
+      "breed_predisposition": "Beagles can be prone to allergies.",
+      "age_considerations": "Common in puppies and young dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the discharge watery or thick?",
+        "Is the puppy sneezing frequently?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Keep the puppy indoors during high pollen counts.",
+      "vet_triggers": "If symptoms persist or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during spring and autumn.",
+      "prevention_tips": "Regular cleaning of the environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_wheezing_25",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "wheezing",
+      "description": "Mild wheezing during exercise in an adult Rottweiler, possibly due to mild asthma.",
+      "indian_climate_factors": "Air pollution in urban areas can trigger asthma attacks.",
+      "breed_predisposition": "While not highly predisposed, Rottweilers can develop asthma.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does the wheezing occur?",
+        "Is the dog coughing?",
+        "Does the wheezing worsen with exercise?"
+      ],
+      "home_care_india": "Avoid strenuous activity during periods of high air pollution.",
+      "vet_triggers": "If wheezing becomes severe or frequent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during periods of high air pollution.",
+      "prevention_tips": "Avoid exposure to irritants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_26",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "panting",
+      "description": "Excessive panting and lethargy in a senior Siberian Husky, possibly due to heatstroke.",
+      "indian_climate_factors": "Extreme heat can quickly lead to heatstroke in dogs.",
+      "breed_predisposition": "Thick double coat makes them susceptible to overheating.",
+      "age_considerations": "Older dogs are less tolerant of heat.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the dog been panting?",
+        "Is the dog lethargic?",
+        "Is the dog's gums dry?"
+      ],
+      "home_care_india": "Cool the dog down immediately. Provide cool water.",
+      "vet_triggers": "Immediate veterinary attention needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most critical during summer months.",
+      "prevention_tips": "Avoid strenuous activity during hot weather. Provide shade and cool water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_coughing_27",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "coughing",
+      "description": "Mild, occasional cough in a puppy Poodle/Beagle mix possibly due to a mild upper respiratory infection.",
+      "indian_climate_factors": "Dust and pollutants can contribute to respiratory infections.",
+      "breed_predisposition": "Mixed breeds can have varying predispositions.",
+      "age_considerations": "Common in puppies with developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How frequent is the cough?",
+        "Is the puppy lethargic?",
+        "Is there any nasal discharge?"
+      ],
+      "home_care_india": "Keep the puppy warm and comfortable. Provide supportive care.",
+      "vet_triggers": "If cough persists or worsens.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more frequent during dusty seasons.",
+      "prevention_tips": "Maintain a clean environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_snoring_28",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "snoring",
+      "description": "Occasional snoring in an adult Rottweiler, possibly due to anatomical features.",
+      "indian_climate_factors": "High humidity can sometimes worsen snoring.",
+      "breed_predisposition": "Breed-specific anatomical features can contribute to snoring.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the dog snore?",
+        "Is there any nasal discharge?",
+        "Does the dog seem distressed?"
+      ],
+      "home_care_india": "Ensure a clean and comfortable sleeping environment.",
+      "vet_triggers": "If snoring becomes excessive or is accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be slightly worse during humid periods.",
+      "prevention_tips": "Maintain a clean sleeping area.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_29",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Mild breathing difficulty after strenuous exercise in an adult Siberian Husky, possibly due to underlying heart condition.",
+      "indian_climate_factors": "Heat and humidity can exacerbate cardiovascular issues.",
+      "breed_predisposition": "While not highly predisposed, some Huskies can develop heart problems.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When does the breathing difficulty occur?",
+        "Is the dog coughing?",
+        "Is there any cyanosis?"
+      ],
+      "home_care_india": "Avoid strenuous exercise during hot weather.",
+      "vet_triggers": "If breathing difficulty becomes severe or frequent.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worsens during hot and humid weather.",
+      "prevention_tips": "Regular veterinary check-ups for heart health.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_30",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "wheezing",
+      "description": "Intermittent wheezing in a senior Poodle, possibly due to collapsing trachea.",
+      "indian_climate_factors": "High humidity can worsen tracheal collapse symptoms.",
+      "breed_predisposition": "Poodles are predisposed to tracheal collapse.",
+      "age_considerations": "More common in older dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When does the wheezing occur?",
+        "Is the dog coughing?",
+        "Is the dog overweight?"
+      ],
+      "home_care_india": "Maintain a comfortable environment. Avoid irritants.",
+      "vet_triggers": "If wheezing is persistent or severe.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during humid seasons.",
+      "prevention_tips": "Maintain ideal weight to reduce strain on the trachea.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "coughing",
+      "description": "Persistent, dry cough, worse at night, in a senior dachshund.",
+      "indian_climate_factors": "Increased dust during summer and monsoon exacerbates coughing.",
+      "breed_predisposition": "Dachshunds' long backs can predispose them to tracheal collapse.",
+      "age_considerations": "More common in senior dogs due to age-related degeneration.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough been present?",
+        "Is it productive?",
+        "Does the dog seem distressed?"
+      ],
+      "home_care_india": "Keep the dog indoors during dusty periods, use a humidifier.",
+      "vet_triggers": "Cough lasting >2 weeks, labored breathing, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer and monsoon due to dust and allergens.",
+      "prevention_tips": "Avoid dusty areas, regular grooming to remove loose hair.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Labored breathing, especially during hot and humid weather, in an adult Boxer.",
+      "indian_climate_factors": "High humidity and heat stress can worsen breathing problems.",
+      "breed_predisposition": "Boxers are brachycephalic, prone to breathing difficulties.",
+      "age_considerations": "Can occur at any age but may worsen with age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When does breathing become labored?",
+        "Is there any wheezing?",
+        "Is the dog exercising normally?"
+      ],
+      "home_care_india": "Keep the dog cool, provide shade and water, avoid strenuous activity during heat.",
+      "vet_triggers": "Blue gums, collapse, prolonged labored breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during summer and monsoon due to heat and humidity.",
+      "prevention_tips": "Maintain ideal weight, avoid overexertion in heat.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "wheezing",
+      "description": "High-pitched wheezing sound during exercise, in a young Border Collie.",
+      "indian_climate_factors": "Air pollution can irritate airways, worsening wheezing.",
+      "breed_predisposition": "Border Collies are relatively less prone to respiratory issues but can develop allergies.",
+      "age_considerations": "More common in younger dogs due to developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does wheezing occur?",
+        "Is there any coughing?",
+        "Any history of allergies?"
+      ],
+      "home_care_india": "Avoid polluted areas, use air purifiers.",
+      "vet_triggers": "Persistent wheezing, labored breathing, exercise intolerance.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during winter and monsoon due to higher pollution levels.",
+      "prevention_tips": "Regular grooming, avoid exposure to irritants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Clear nasal discharge, sneezing, in an adult Australian Shepherd.",
+      "indian_climate_factors": "Dust and pollen during monsoon can trigger allergies.",
+      "breed_predisposition": "Australian Shepherds are prone to certain allergies.",
+      "age_considerations": "Can occur at any age but often manifests in adulthood.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Color of discharge?",
+        "Is there sneezing?",
+        "Any eye discharge?"
+      ],
+      "home_care_india": "Clean nasal discharge, avoid allergens.",
+      "vet_triggers": "Thick, colored discharge, fever, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and spring due to pollen and dust.",
+      "prevention_tips": "Regular grooming, use allergen-reducing products.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "panting",
+      "description": "Excessive panting, even at rest, in a senior Dachshund.",
+      "indian_climate_factors": "Heat stress is exacerbated by the Indian climate.",
+      "breed_predisposition": "Dachshunds' body shape and Boxers' brachycephalic features contribute to panting.",
+      "age_considerations": "More common in senior dogs due to decreased cardiovascular efficiency.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has excessive panting been present?",
+        "Is the dog dehydrated?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Keep the dog cool, provide shade and water, monitor hydration.",
+      "vet_triggers": "Pale gums, weakness, collapse.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer.",
+      "prevention_tips": "Avoid strenuous activity during heat, ensure access to cool water.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "coughing",
+      "description": "A puppy Border Collie with a persistent, harsh cough and occasional wheezing.",
+      "indian_climate_factors": "Exposure to dust and pollutants can trigger respiratory infections.",
+      "breed_predisposition": "While not highly predisposed, puppies are vulnerable to infections.",
+      "age_considerations": "Common in puppies due to underdeveloped immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the cough start?",
+        "Is there any fever?",
+        "Is the puppy lethargic?"
+      ],
+      "home_care_india": "Keep the puppy warm and dry, provide supportive care.",
+      "vet_triggers": "Lethargy, fever, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter.",
+      "prevention_tips": "Vaccinations, avoid exposure to sick dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_snoring_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "snoring",
+      "description": "Loud snoring, especially during sleep, in an adult Australian Shepherd.",
+      "indian_climate_factors": "Humidity can increase mucus production.",
+      "breed_predisposition": "Not specifically predisposed but can develop nasal polyps or other obstructions.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the snoring been present?",
+        "Is there any nasal discharge?",
+        "Is it affecting sleep?"
+      ],
+      "home_care_india": "Keep nasal passages clean, ensure good ventilation.",
+      "vet_triggers": "Difficulty breathing, changes in snoring pattern.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Potentially worse during monsoon.",
+      "prevention_tips": "Regular cleaning of nasal passages.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_wheezing_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "wheezing",
+      "description": "Mild wheezing during exercise in a young Dachshund.",
+      "indian_climate_factors": "Air pollution can trigger allergic reactions.",
+      "breed_predisposition": "Susceptible to tracheal collapse later in life, but wheezing in youth could indicate allergies.",
+      "age_considerations": "Could be allergy-related in young dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does wheezing occur?",
+        "Is there any coughing?",
+        "Any exposure to allergens?"
+      ],
+      "home_care_india": "Avoid polluted areas, monitor for worsening symptoms.",
+      "vet_triggers": "Increased wheezing, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter.",
+      "prevention_tips": "Avoid allergens, regular exercise (in cleaner air).",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Severe breathing difficulty, open-mouth breathing, in a senior Boxer.",
+      "indian_climate_factors": "Heat and humidity severely impact brachycephalic breeds.",
+      "breed_predisposition": "Brachycephalic conformation increases risk of respiratory distress.",
+      "age_considerations": "Worsens with age due to decreased cardiovascular function.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been happening?",
+        "Is the dog cyanotic?",
+        "Is the dog collapsing?"
+      ],
+      "home_care_india": "Immediate cooling measures, seek veterinary help immediately.",
+      "vet_triggers": "Any sign of respiratory distress in a brachycephalic breed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Much worse in summer.",
+      "prevention_tips": "Weight management, avoid strenuous activity in heat.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_nasal_discharge_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Thick, yellow-green nasal discharge and sneezing in a street dog (Border Collie mix).",
+      "indian_climate_factors": "Monsoon season increases exposure to infections.",
+      "breed_predisposition": "Street dogs are more susceptible to infections due to poor hygiene.",
+      "age_considerations": "Can affect dogs of all ages.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the discharge been present?",
+        "Is there fever?",
+        "Is the dog lethargic?"
+      ],
+      "home_care_india": "Keep the dog warm and dry, provide supportive care.",
+      "vet_triggers": "Fever, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon.",
+      "prevention_tips": "Regular deworming, vaccination, good hygiene.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "coughing",
+      "description": "A hacking cough, especially after eating, in an adult Dachshund.",
+      "indian_climate_factors": "Spicy food can irritate the throat.",
+      "breed_predisposition": "Could be related to esophageal issues or tracheal sensitivity.",
+      "age_considerations": "Can occur at any age but may be linked to age-related issues.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does coughing occur?",
+        "What does the dog eat?",
+        "Is there any vomiting?"
+      ],
+      "home_care_india": "Avoid spicy foods, feed smaller meals.",
+      "vet_triggers": "Persistent cough, vomiting, weight loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid feeding spicy or irritating foods.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_snoring_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "snoring",
+      "description": "Soft snoring, only noticeable during sleep, in a young Boxer.",
+      "indian_climate_factors": "Humidity may slightly increase mucus production.",
+      "breed_predisposition": "Brachycephalic breeds are more prone to snoring.",
+      "age_considerations": "Common in young Boxers, may worsen with age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How loud is the snoring?",
+        "Is there any nasal discharge?",
+        "Is the dog sleeping normally?"
+      ],
+      "home_care_india": "Ensure clean sleeping area.",
+      "vet_triggers": "Loud snoring, difficulty breathing, nasal discharge.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Slightly worse during monsoon.",
+      "prevention_tips": "Maintain a clean sleeping environment.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "panting",
+      "description": "Increased panting after moderate exercise in an adult Border Collie.",
+      "indian_climate_factors": "Heat and humidity increase the need for panting.",
+      "breed_predisposition": "Not specifically predisposed but can be affected by heat.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does panting occur?",
+        "How long does it last?",
+        "Is the dog dehydrated?"
+      ],
+      "home_care_india": "Provide shade and water during exercise.",
+      "vet_triggers": "Excessive panting, lethargy, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer.",
+      "prevention_tips": "Avoid strenuous activity during heat, provide adequate water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_wheezing_44",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "wheezing",
+      "description": "Intermittent wheezing, only during strenuous activity, in a senior Australian Shepherd.",
+      "indian_climate_factors": "Air pollution can worsen underlying respiratory conditions.",
+      "breed_predisposition": "Can develop age-related respiratory issues.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When does wheezing occur?",
+        "Is there any coughing?",
+        "Any history of respiratory issues?"
+      ],
+      "home_care_india": "Avoid polluted areas, monitor for worsening symptoms.",
+      "vet_triggers": "Persistent wheezing, difficulty breathing, exercise intolerance.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during winter and monsoon.",
+      "prevention_tips": "Avoid air pollutants, regular check-ups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_45",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Mild breathing difficulty during hot weather, in a puppy Dachshund and Boxer mix.",
+      "indian_climate_factors": "Heat stress is a significant factor.",
+      "breed_predisposition": "Dachshunds and Boxers have predispositions to respiratory issues.",
+      "age_considerations": "More common in puppies due to underdeveloped systems.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When does breathing difficulty occur?",
+        "Is the puppy lethargic?",
+        "Is the puppy drinking enough water?"
+      ],
+      "home_care_india": "Keep puppy cool, provide plenty of water.",
+      "vet_triggers": "Increased breathing difficulty, lethargy, dehydration.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during summer.",
+      "prevention_tips": "Keep the puppy cool, avoid strenuous activity during heat.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_coughing_46",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "coughing",
+      "description": "Chronic, dry cough in a 5-year-old Persian cat, worsened by dust exposure in a Delhi home.",
+      "indian_climate_factors": "Monsoon season increases dust and mold, exacerbating coughing.",
+      "breed_predisposition": "Persian cats' brachycephalic features can contribute to airway obstruction.",
+      "age_considerations": "Adult cats may develop chronic respiratory issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough persisted?",
+        "Is there any nasal discharge?",
+        "Has the cat experienced any recent respiratory infections?"
+      ],
+      "home_care_india": "Air purifier use, regular cleaning to minimize dust.",
+      "vet_triggers": "Cough lasting >2 weeks, labored breathing, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter due to increased humidity and pollutants.",
+      "prevention_tips": "Regular grooming to minimize hairballs, air purifier use.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_47",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Labored breathing in a senior Siamese cat during a Mumbai heatwave.",
+      "indian_climate_factors": "High heat and humidity can trigger respiratory distress.",
+      "breed_predisposition": "Siamese cats are generally healthy but can be affected by heat stress.",
+      "age_considerations": "Older cats are more vulnerable to heatstroke and respiratory issues.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat panting excessively?",
+        "Are the gums pale?",
+        "Is the cat lethargic?"
+      ],
+      "home_care_india": "Cool, shaded environment, access to cool water.",
+      "vet_triggers": "Immediate veterinary attention needed for labored breathing and heatstroke symptoms.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most severe during summer months.",
+      "prevention_tips": "Ensure access to cool water and shade during hot weather.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_48",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "wheezing",
+      "description": "A kitten Maine Coon with wheezing after playing in dusty streets of Jaipur.",
+      "indian_climate_factors": "Dust and pollutants from streets irritate airways.",
+      "breed_predisposition": "Large breeds like Maine Coons can be susceptible to asthma.",
+      "age_considerations": "Kittens are more vulnerable to infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the wheezing start?",
+        "Is there any coughing?",
+        "Has the kitten been exposed to dust or irritants?"
+      ],
+      "home_care_india": "Keep the kitten indoors, away from dust and pollutants.",
+      "vet_triggers": "Persistent wheezing, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry, dusty seasons.",
+      "prevention_tips": "Avoid dusty areas, regular cleaning.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_49",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Clear nasal discharge in a young adult Persian and Siamese mix in Kolkata during monsoon.",
+      "indian_climate_factors": "High humidity can contribute to upper respiratory infections.",
+      "breed_predisposition": "Mixed breeds can inherit predispositions from both parent breeds.",
+      "age_considerations": "Young adults are susceptible to infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the discharge clear or colored?",
+        "Is the cat sneezing?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the cat warm and dry, provide supportive care.",
+      "vet_triggers": "Colored discharge, fever, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Vaccination, avoid exposure to sick animals.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_50",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "panting",
+      "description": "Excessive panting in an adult Maine Coon during a Chennai summer.",
+      "indian_climate_factors": "Extreme heat can cause overheating.",
+      "breed_predisposition": "Large breeds are prone to overheating.",
+      "age_considerations": "Adults can be more susceptible to heatstroke.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cat been panting?",
+        "Is the cat lethargic?",
+        "Are the gums dry?"
+      ],
+      "home_care_india": "Provide cool water and a cool environment.",
+      "vet_triggers": "Persistent panting, lethargy, high body temperature.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer.",
+      "prevention_tips": "Provide shade and cool water during hot weather.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_snoring_51",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "snoring",
+      "description": "Loud snoring in a senior Persian cat in Bangalore, possibly due to airway obstruction.",
+      "indian_climate_factors": "Dust and allergens can exacerbate airway issues.",
+      "breed_predisposition": "Brachycephalic features increase snoring risk.",
+      "age_considerations": "Older cats may develop age-related airway issues.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the snoring been present?",
+        "Is there any other respiratory symptom?",
+        "Is the cat overweight?"
+      ],
+      "home_care_india": "Maintain a clean environment, manage weight.",
+      "vet_triggers": "Difficulty breathing, change in snoring pattern.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during dusty seasons.",
+      "prevention_tips": "Regular cleaning, weight management.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_coughing_52",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "coughing",
+      "description": "Persistent cough in a young Siamese cat exposed to air pollution in Mumbai.",
+      "indian_climate_factors": "Air pollution irritates the airways.",
+      "breed_predisposition": "No specific predisposition, but exposure to pollution affects all cats.",
+      "age_considerations": "Young cats are more susceptible to infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often does the cat cough?",
+        "Is there any nasal discharge?",
+        "Has the cat been vaccinated?"
+      ],
+      "home_care_india": "Keep the cat indoors when air quality is poor.",
+      "vet_triggers": "Cough lasting >1 week, lethargy, fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during winter and dry seasons.",
+      "prevention_tips": "Vaccination, avoid exposure to pollutants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_53",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Sudden onset breathing difficulty in an adult Maine Coon after eating contaminated street food in Delhi.",
+      "indian_climate_factors": "Contaminated food can cause various infections.",
+      "breed_predisposition": "No specific predisposition, but exposure to contaminated food affects all cats.",
+      "age_considerations": "Adults can be more susceptible to certain infections.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the breathing difficulty start?",
+        "What did the cat eat?",
+        "Is the cat vomiting or having diarrhea?"
+      ],
+      "home_care_india": "Restrict food intake, provide supportive care.",
+      "vet_triggers": "Immediate veterinary attention needed for sudden onset breathing difficulty.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk may vary depending on food contamination levels.",
+      "prevention_tips": "Avoid feeding street food, ensure food safety.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_wheezing_54",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "wheezing",
+      "description": "Mild wheezing in a kitten Persian cat living in a humid coastal area of Kerala.",
+      "indian_climate_factors": "High humidity can exacerbate allergies and asthma.",
+      "breed_predisposition": "Persian cats are prone to respiratory issues.",
+      "age_considerations": "Kittens are more vulnerable to respiratory infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the wheezing been present?",
+        "Is there any coughing?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Keep the kitten in a dry and clean environment.",
+      "vet_triggers": "Worsening wheezing, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season.",
+      "prevention_tips": "Regular cleaning, minimize exposure to allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_55",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Thick, yellow nasal discharge in a senior Siamese cat in a crowded urban area of Chennai.",
+      "indian_climate_factors": "Air pollution and crowded conditions increase infection risk.",
+      "breed_predisposition": "No specific predisposition, but environmental factors affect all cats.",
+      "age_considerations": "Senior cats have weaker immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What color is the discharge?",
+        "Is the cat lethargic?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the cat warm and comfortable, provide supportive care.",
+      "vet_triggers": "Fever, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during dry, dusty seasons.",
+      "prevention_tips": "Vaccination, avoid crowded areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_panting_56",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "panting",
+      "description": "Mild panting in a young adult Maine Coon during a relatively cool day in Shimla.",
+      "indian_climate_factors": "Even in cooler regions, exertion can cause panting.",
+      "breed_predisposition": "Large breeds can pant more easily.",
+      "age_considerations": "Young adults are generally healthy but can pant after exertion.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the cat been panting?",
+        "Is the cat overheated?",
+        "Was the cat exercising?"
+      ],
+      "home_care_india": "Provide rest and cool water.",
+      "vet_triggers": "Persistent panting, signs of overheating.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Less of a concern in cooler regions.",
+      "prevention_tips": "Avoid overexertion during hot periods.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_snoring_57",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "snoring",
+      "description": "Occasional snoring in a kitten Persian cat due to slight nasal congestion.",
+      "indian_climate_factors": "Dust and allergens can cause mild congestion.",
+      "breed_predisposition": "Persian cats' brachycephalic features can contribute.",
+      "age_considerations": "Kittens can have temporary congestion.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the kitten snore?",
+        "Is there any nasal discharge?",
+        "Is the kitten otherwise healthy?"
+      ],
+      "home_care_india": "Keep the kitten in a clean environment.",
+      "vet_triggers": "Worsening snoring, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during dusty seasons.",
+      "prevention_tips": "Regular cleaning, minimize allergen exposure.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_coughing_58",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese",
+        "maine_coon"
+      ],
+      "symptom": "coughing",
+      "description": "Mild, occasional cough in a young adult Siamese and Maine Coon mix living in a rural area of Karnataka.",
+      "indian_climate_factors": "Exposure to dust and insects in rural areas.",
+      "breed_predisposition": "Mixed breeds can inherit various predispositions.",
+      "age_considerations": "Young adults are generally healthy but can have occasional coughs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the cat cough?",
+        "Is there any other symptom?",
+        "Has the cat been exposed to any irritants?"
+      ],
+      "home_care_india": "Keep the cat in a clean environment, provide supportive care.",
+      "vet_triggers": "Persistent cough, fever, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during dry, dusty seasons.",
+      "prevention_tips": "Regular deworming, avoid exposure to irritants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_59",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Severe breathing difficulty in a senior Persian cat with underlying heart disease exacerbated by the humidity in Kochi.",
+      "indian_climate_factors": "High humidity can strain the respiratory and cardiovascular systems.",
+      "breed_predisposition": "Persian cats' brachycephalic features and predisposition to certain heart conditions.",
+      "age_considerations": "Senior cats are vulnerable to multiple health issues.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the breathing difficulty been present?",
+        "Does the cat have any other health conditions?",
+        "Is the cat cyanotic?"
+      ],
+      "home_care_india": "Keep the cat cool and comfortable, provide oxygen if possible (under vet guidance).",
+      "vet_triggers": "Immediate veterinary attention needed for severe breathing difficulty.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during humid seasons.",
+      "prevention_tips": "Regular veterinary checkups, manage underlying health conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "e7f8g9h0",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "wheezing",
+      "description": "Recurring wheezing episodes in a young Siamese cat, possibly allergic to pollen during spring in the hills of Uttarakhand.",
+      "indian_climate_factors": "Seasonal pollen variations can trigger allergic reactions.",
+      "breed_predisposition": "No specific predisposition, but allergies affect all cats.",
+      "age_considerations": "Young cats can develop allergies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When do the wheezing episodes occur?",
+        "Is there any other allergy symptom?",
+        "Has the cat been exposed to any new environments?"
+      ],
+      "home_care_india": "Keep the cat indoors during high pollen counts.",
+      "vet_triggers": "Persistent wheezing, difficulty breathing, other allergy symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during spring and early summer.",
+      "prevention_tips": "Allergy testing, allergy management medication.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_61",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "coughing",
+      "description": "Persistent, dry cough, worse at night, affecting a 5-year-old British Shorthair.  Possibly due to irritants from urban pollution.",
+      "indian_climate_factors": "Increased dust during summer and monsoon exacerbates coughing.",
+      "breed_predisposition": "British Shorthairs, with their brachycephalic tendencies, can be more prone to upper respiratory infections.",
+      "age_considerations": "Adult cats are more susceptible to chronic respiratory issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough persisted?",
+        "Is there any nasal discharge?",
+        "Has the cat lost weight?"
+      ],
+      "home_care_india": "Ensure clean water, humidify the air (especially during winter), avoid dusty areas.",
+      "vet_triggers": "Cough lasting more than a week, difficulty breathing, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter due to increased humidity and pollutants.",
+      "prevention_tips": "Regular grooming to minimize dust inhalation, air purifiers in the home.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_62",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Labored breathing, especially during hot and humid weather, in a senior Ragdoll.",
+      "indian_climate_factors": "High humidity and heat stress can worsen breathing problems.",
+      "breed_predisposition": "Ragdolls, while generally healthy, can be susceptible to asthma.",
+      "age_considerations": "Older cats often have decreased lung capacity.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat wheezing?",
+        "Is the breathing rapid or shallow?",
+        "Is there any bluish tinge to the gums?"
+      ],
+      "home_care_india": "Keep the cat in a cool, well-ventilated area, provide plenty of water.",
+      "vet_triggers": "Immediate veterinary attention needed due to severe breathing difficulty.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most severe during summer and monsoon.",
+      "prevention_tips": "Maintain a healthy weight, avoid overheating, provide a stress-free environment.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_snoring_63",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "snoring",
+      "description": "Loud snoring at night, observed in a young Bengal kitten.  Possibly due to allergies.",
+      "indian_climate_factors": "Pollen and dust mites are common allergens, worsened by monsoon humidity.",
+      "breed_predisposition": "Bengals are prone to certain allergies.",
+      "age_considerations": "Kittens can develop allergies early in life.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is there any nasal discharge?",
+        "Does the kitten seem otherwise healthy?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Regular cleaning of the home, use of air purifiers.",
+      "vet_triggers": "Snoring accompanied by other respiratory symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during monsoon and spring.",
+      "prevention_tips": "Regular cleaning, hypoallergenic bedding, avoiding exposure to known allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_64",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Clear nasal discharge, sneezing, and mild coughing in an adult cat.",
+      "indian_climate_factors": "Viral infections are more common during monsoon due to humidity.",
+      "breed_predisposition": "Both breeds can be affected by upper respiratory infections.",
+      "age_considerations": "Adult cats are susceptible to various infections.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the discharge clear, yellow, or green?",
+        "Is the cat lethargic?",
+        "Is there any fever?"
+      ],
+      "home_care_india": "Keep the cat warm and hydrated, provide supportive care.",
+      "vet_triggers": "Change in discharge color, fever, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and winter.",
+      "prevention_tips": "Vaccination, good hygiene, avoid contact with sick animals.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_wheezing_65",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "wheezing",
+      "description": "Audible wheezing during exertion, observed in a middle-aged Bengal cat. Possible asthma.",
+      "indian_climate_factors": "Air pollution and dust can trigger wheezing episodes.",
+      "breed_predisposition": "While not specifically predisposed, Bengals can develop asthma.",
+      "age_considerations": "Asthma can develop at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often does wheezing occur?",
+        "Is it triggered by any activity?",
+        "Are there any other respiratory symptoms?"
+      ],
+      "home_care_india": "Reduce exposure to allergens and irritants, ensure a clean environment.",
+      "vet_triggers": "Increased wheezing frequency, difficulty breathing, persistent cough.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter due to increased air pollution.",
+      "prevention_tips": "Minimize exposure to irritants, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_panting_66",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "panting",
+      "description": "Excessive panting, especially after minimal activity, in an overweight Ragdoll.",
+      "indian_climate_factors": "Heat stress can cause panting, exacerbated by high humidity.",
+      "breed_predisposition": "Overweight Ragdolls are more prone to heat stress.",
+      "age_considerations": "Obesity is a concern across all ages, but especially in senior cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the panting been occurring?",
+        "Is the cat overweight?",
+        "Is there any other discomfort?"
+      ],
+      "home_care_india": "Keep the cat cool, provide access to plenty of water, encourage weight loss.",
+      "vet_triggers": "Persistent panting, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during summer.",
+      "prevention_tips": "Maintain a healthy weight, provide shade and cool areas during hot weather.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_coughing_67",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "coughing",
+      "description": "A kitten experiencing occasional coughing fits after playing.",
+      "indian_climate_factors": "Dust and allergens can trigger coughing fits.",
+      "breed_predisposition": "Young British Shorthairs can be susceptible to minor respiratory irritations.",
+      "age_considerations": "Kittens have developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How frequent are the coughing fits?",
+        "Is there any other symptom?",
+        "Is the kitten otherwise playful?"
+      ],
+      "home_care_india": "Keep the environment clean, avoid exposure to irritants.",
+      "vet_triggers": "Persistent coughing, difficulty breathing, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty months.",
+      "prevention_tips": "Regular cleaning, avoid exposure to dust and smoke.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_68",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal",
+        "ragdoll"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Thick, yellow nasal discharge and sneezing in a senior cat.",
+      "indian_climate_factors": "Bacterial infections are common in humid conditions.",
+      "breed_predisposition": "Senior cats have weaker immune systems.",
+      "age_considerations": "Older cats are more vulnerable to infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the discharge lasted?",
+        "Is the discharge thick and yellow?",
+        "Is the cat lethargic or feverish?"
+      ],
+      "home_care_india": "Keep the cat warm and comfortable, provide supportive care.",
+      "vet_triggers": "Increased lethargy, fever, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and winter.",
+      "prevention_tips": "Regular vet checkups, vaccinations, supportive care.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_wheezing_69",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "wheezing",
+      "description": "Mild wheezing after strenuous play in a young British Shorthair.",
+      "indian_climate_factors": "Air pollutants can aggravate existing respiratory conditions.",
+      "breed_predisposition": "Young cats may have underlying conditions that manifest with exertion.",
+      "age_considerations": "Young cats may have underlying conditions yet to be diagnosed.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does wheezing occur?",
+        "Is it triggered by activity?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Keep the environment clean, avoid exposure to irritants.",
+      "vet_triggers": "Persistent wheezing, increased respiratory effort, other respiratory symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during periods of high air pollution.",
+      "prevention_tips": "Avoid exposure to irritants, regular vet checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_breathing_difficulty_70",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "breathing_difficulty",
+      "description": "Severe breathing difficulty, open-mouth breathing, and cyanosis in a senior Ragdoll.",
+      "indian_climate_factors": "Heat stroke can cause severe respiratory distress.",
+      "breed_predisposition": "Senior cats are more vulnerable to heat stroke.",
+      "age_considerations": "Older cats have reduced thermoregulation.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the cat cyanotic?",
+        "Is breathing labored?",
+        "Is the cat unresponsive?"
+      ],
+      "home_care_india": "Immediately move the cat to a cool place, provide cool water.",
+      "vet_triggers": "Immediate veterinary attention is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Most severe during summer.",
+      "prevention_tips": "Keep the cat cool during hot weather, provide access to cool water and shade.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "res_snoring_71",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "snoring",
+      "description": "Soft snoring, only noticeable during sleep, in a healthy adult Bengal.",
+      "indian_climate_factors": "No significant impact from the Indian climate.",
+      "breed_predisposition": "No specific predisposition to snoring.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the snoring loud or soft?",
+        "Is there any nasal discharge?",
+        "Is the cat otherwise healthy?"
+      ],
+      "home_care_india": "No specific home care needed.",
+      "vet_triggers": "Loud snoring, other respiratory symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No seasonal variation.",
+      "prevention_tips": "No specific prevention needed.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_panting_72",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "bengal"
+      ],
+      "symptom": "panting",
+      "description": "Mild panting after a short walk in a young, healthy cat.",
+      "indian_climate_factors": "Heat and humidity can cause mild panting.",
+      "breed_predisposition": "No specific predisposition.",
+      "age_considerations": "Young cats are generally more active.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long does the panting last?",
+        "Is the cat overheated?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Provide cool water, rest in a cool place.",
+      "vet_triggers": "Persistent panting, lethargy, other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during hot and humid weather.",
+      "prevention_tips": "Avoid strenuous activity during peak heat.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_coughing_73",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "coughing",
+      "description": "Chronic, hacking cough, especially in the mornings, in a street Ragdoll.",
+      "indian_climate_factors": "Exposure to dust, pollutants, and infections is common for street animals.",
+      "breed_predisposition": "Street cats are more susceptible to respiratory infections.",
+      "age_considerations": "Can occur at any age but more common in adult and senior cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cough persisted?",
+        "Is there any nasal discharge?",
+        "Is the cat losing weight?"
+      ],
+      "home_care_india": "Keep the cat warm and dry, provide supportive care.",
+      "vet_triggers": "Worsening cough, difficulty breathing, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and winter.",
+      "prevention_tips": "Regular deworming, vaccination, good nutrition.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "res_wheezing_74",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "wheezing",
+      "description": "Intermittent wheezing, triggered by eating dry food, in a kitten.",
+      "indian_climate_factors": "Dry food can cause irritation, especially in dry climates.",
+      "breed_predisposition": "Kittens are more sensitive to irritants.",
+      "age_considerations": "Kittens are vulnerable to allergies and irritations.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When does wheezing occur?",
+        "Is it associated with eating?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Try moist food, keep the environment clean.",
+      "vet_triggers": "Persistent wheezing, difficulty breathing, other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty months.",
+      "prevention_tips": "Switch to moist food, keep the environment clean.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "res_nasal_discharge_75",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "nasal_discharge",
+      "description": "Profuse, greenish nasal discharge and fever in a senior cat fed mostly local fish.",
+      "indian_climate_factors": "Poor quality food can weaken immunity, increasing susceptibility to infections.",
+      "breed_predisposition": "Senior cats are more vulnerable to infections.",
+      "age_considerations": "Older cats have weaker immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is the color of the discharge?",
+        "Is the cat feverish?",
+        "What is the cat's diet?"
+      ],
+      "home_care_india": "Keep the cat warm and hydrated, provide supportive care.",
+      "vet_triggers": "High fever, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and winter.",
+      "prevention_tips": "High-quality diet, regular vet checkups, vaccinations.",
+      "severity": "urgent"
+    }
+  ]
+}
