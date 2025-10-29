@@ -1,0 +1,22 @@
+# SNOUTIQ Backend Requirements
+# Python 3.8+ required
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Google Generative AI (Gemini)
+google-generativeai==0.3.2
+
+# Embeddings & Vector Search
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+
+# Core Dependencies
+numpy==1.24.3
+
+# Production Server (optional, for deployment)
+gunicorn==21.2.0
