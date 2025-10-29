@@ -13,7 +13,7 @@ google-generativeai==0.3.2
 
 # Embeddings & Vector Search
 sentence-transformers==2.2.2
-faiss-cpu==1.7.4
+faiss-cpu==1.12.0
 
 # Core Dependencies
 numpy==1.24.3
