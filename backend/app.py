@@ -216,12 +216,19 @@ def internal_error(error):
     }), 500
 
 
+# Initialize RAG system on module import (works with both gunicorn and direct run)
+try:
+    logger.info("🚀 Initializing SNOUTIQ RAG System...")
+    initialize_rag_system()
+    logger.info("✅ RAG System initialization complete")
+except Exception as e:
+    logger.error(f"❌ Failed to initialize RAG system: {str(e)}", exc_info=True)
+    # Don't exit - let the server start so we can see health endpoint
+
+
 if __name__ == '__main__':
     try:
-        # Initialize RAG system on startup
-        initialize_rag_system()
-
-        # Start Flask server
+        # Start Flask server (only when run directly, not with gunicorn)
         port = int(os.getenv('PORT', 5000))
         debug = os.getenv('FLASK_ENV') == 'development'
 
