@@ -1,0 +1,1925 @@
+{
+  "metadata": {
+    "category": "digestive",
+    "total_entries": 76,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "dog_digestion_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "vomiting",
+      "description": "Labrador Retriever puppy experiencing frequent vomiting after consuming leftover spicy Indian street food.",
+      "indian_climate_factors": "High humidity exacerbates dehydration from vomiting.",
+      "breed_predisposition": "Labs are prone to gastric upset due to their enthusiastic eating habits.",
+      "age_considerations": "Puppies are more vulnerable to dehydration.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent is the vomiting?",
+        "Is there blood in the vomit?",
+        "What did the dog eat?"
+      ],
+      "home_care_india": "Offer small amounts of boiled rice and water; avoid rich foods.",
+      "vet_triggers": "Persistent vomiting, lethargy, blood in vomit.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to contaminated food.",
+      "prevention_tips": "Supervise food intake; avoid feeding scraps.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "diarrhea",
+      "description": "Adult Golden Retriever and German Shepherd experiencing mild diarrhea after consuming dusty kibble during the dry season.",
+      "indian_climate_factors": "Dust can irritate the digestive tract.",
+      "breed_predisposition": "Both breeds can be sensitive to certain food ingredients.",
+      "age_considerations": "Adults are usually more resilient.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What is the consistency of the stool?",
+        "Is there blood or mucus?",
+        "Has the diet changed?"
+      ],
+      "home_care_india": "Offer bland diet (boiled chicken and rice); ensure access to clean water.",
+      "vet_triggers": "Severe diarrhea, dehydration, blood in stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry season due to dust.",
+      "prevention_tips": "Use high-quality kibble; ensure clean water source.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_digestion_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "constipation",
+      "description": "Senior Bulldog suffering from constipation due to dehydration during the hot summer months.",
+      "indian_climate_factors": "Heat and dehydration worsen constipation.",
+      "breed_predisposition": "Brachycephalic breeds are prone to constipation.",
+      "age_considerations": "Seniors are more susceptible to constipation.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent are bowel movements?",
+        "Is the stool hard?",
+        "Is the dog straining?"
+      ],
+      "home_care_india": "Offer plenty of water; add fiber to the diet (pumpkin puree).",
+      "vet_triggers": "Inability to defecate, straining, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during summer due to dehydration.",
+      "prevention_tips": "Ensure adequate hydration; add fiber to food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Adult Labrador Retriever with loss of appetite due to gastritis after consuming contaminated food from a street vendor.",
+      "indian_climate_factors": "Contaminated street food is a major risk.",
+      "breed_predisposition": "Labs are susceptible to gastritis.",
+      "age_considerations": "Adults can tolerate it better than puppies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the appetite been reduced?",
+        "Are there other symptoms?",
+        "What did the dog eat recently?"
+      ],
+      "home_care_india": "Offer small, frequent meals of bland food; monitor hydration.",
+      "vet_triggers": "Persistent loss of appetite, vomiting, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to contaminated food.",
+      "prevention_tips": "Avoid feeding street food; ensure food hygiene.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "bloating",
+      "description": "Adult Golden Retriever experiencing bloating after a large meal during a hot summer day.",
+      "indian_climate_factors": "Heat can exacerbate bloating.",
+      "breed_predisposition": "Goldens can be prone to bloating.",
+      "age_considerations": "Adults are more at risk.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How swollen is the abdomen?",
+        "Is the dog uncomfortable?",
+        "When did the bloating start?"
+      ],
+      "home_care_india": "Avoid feeding large meals; provide small, frequent meals.",
+      "vet_triggers": "Severe bloating, discomfort, vomiting.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer due to heat.",
+      "prevention_tips": "Feed smaller meals; avoid strenuous activity after meals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "food_allergies",
+      "description": "Puppy German Shepherd with skin irritation and diarrhea due to a food allergy to common Indian spices.",
+      "indian_climate_factors": "Spices can trigger allergies; heat aggravates skin issues.",
+      "breed_predisposition": "German Shepherds can be prone to allergies.",
+      "age_considerations": "Puppies are more vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods has the dog eaten?",
+        "What are the symptoms?",
+        "Has the diet changed recently?"
+      ],
+      "home_care_india": "Eliminate suspected allergens; offer hypoallergenic diet.",
+      "vet_triggers": "Severe skin reactions, persistent diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may worsen during hot, humid months.",
+      "prevention_tips": "Identify and avoid allergens; use hypoallergenic food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "gastritis",
+      "description": "Senior Bulldog with chronic gastritis exacerbated by urban air pollution.",
+      "indian_climate_factors": "Air pollution can irritate the stomach lining.",
+      "breed_predisposition": "Bulldogs can be susceptible to gastritis.",
+      "age_considerations": "Seniors are more vulnerable.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the gastritis been present?",
+        "What are the symptoms?",
+        "Is there vomiting or diarrhea?"
+      ],
+      "home_care_india": "Offer bland diet; avoid rich or spicy foods.",
+      "vet_triggers": "Persistent vomiting, loss of appetite, weight loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may worsen during monsoon due to air pollution.",
+      "prevention_tips": "Avoid exposure to pollution; feed a bland diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "vomiting",
+      "description": "Adult Labrador and Golden Retriever experiencing vomiting and diarrhea after consuming spoiled food during the monsoon season.",
+      "indian_climate_factors": "Monsoon brings increased risk of food spoilage.",
+      "breed_predisposition": "Both breeds can be prone to digestive upset.",
+      "age_considerations": "Adults are more resilient but still vulnerable.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent is the vomiting and diarrhea?",
+        "Is there blood?",
+        "What did the dogs eat?"
+      ],
+      "home_care_india": "Withhold food for a few hours; offer small amounts of boiled rice and water.",
+      "vet_triggers": "Persistent vomiting, dehydration, blood in vomit or stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to food spoilage.",
+      "prevention_tips": "Store food properly; ensure food is fresh.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "diarrhea",
+      "description": "Young German Shepherd with severe diarrhea after consuming contaminated water.",
+      "indian_climate_factors": "Water contamination is a significant risk.",
+      "breed_predisposition": "German Shepherds can be sensitive to intestinal parasites.",
+      "age_considerations": "Young dogs are more vulnerable.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How severe is the diarrhea?",
+        "Is there blood or mucus?",
+        "What water source did the dog access?"
+      ],
+      "home_care_india": "Provide clean water; withhold food temporarily.",
+      "vet_triggers": "Severe dehydration, blood in stool, lethargy.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during monsoon due to water contamination.",
+      "prevention_tips": "Provide clean water; deworm regularly.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_digestion_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "constipation",
+      "description": "Senior Bulldog with chronic constipation due to a low-fiber diet and lack of exercise.",
+      "indian_climate_factors": "Heat can reduce activity levels, worsening constipation.",
+      "breed_predisposition": "Bulldogs are prone to constipation.",
+      "age_considerations": "Seniors are more at risk.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the constipation been present?",
+        "Is the dog straining?",
+        "What is the dog's diet?"
+      ],
+      "home_care_india": "Increase fiber in the diet; ensure adequate water intake; gentle exercise.",
+      "vet_triggers": "Inability to defecate, straining, abdominal pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during summer due to reduced activity.",
+      "prevention_tips": "High-fiber diet; regular exercise; adequate water intake.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Puppy Labrador Retriever with loss of appetite and lethargy due to parvovirus.",
+      "indian_climate_factors": "Parvovirus is more prevalent in warmer, humid climates.",
+      "breed_predisposition": "Labs are susceptible to parvovirus.",
+      "age_considerations": "Puppies are highly vulnerable.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has the loss of appetite been present?",
+        "Is the puppy lethargic?",
+        "Has the puppy been vaccinated?"
+      ],
+      "home_care_india": "Immediate veterinary care is crucial.",
+      "vet_triggers": "Lethargy, vomiting, diarrhea, dehydration.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during warmer months.",
+      "prevention_tips": "Vaccinate puppies; maintain hygiene.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_digestion_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "bloating",
+      "description": "Adult Golden Retriever with severe bloating and abdominal pain after consuming a large amount of fermented food.",
+      "indian_climate_factors": "Fermentation is faster in warm, humid climates.",
+      "breed_predisposition": "Goldens are prone to gastric dilatation-volvulus (GDV).",
+      "age_considerations": "Adults are more at risk.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How severe is the bloating?",
+        "Is the dog in pain?",
+        "When did the bloating start?"
+      ],
+      "home_care_india": "Immediate veterinary care is essential.",
+      "vet_triggers": "Severe bloating, abdominal pain, difficulty breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Risk increases during warmer months.",
+      "prevention_tips": "Avoid feeding large meals; avoid strenuous activity after meals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_digestion_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "food_allergies",
+      "description": "Adult German Shepherd with chronic food allergies manifested as skin irritation and digestive upset due to exposure to dust mites in an urban environment.",
+      "indian_climate_factors": "Dust mites thrive in warm, humid climates; urban pollution worsens allergies.",
+      "breed_predisposition": "German Shepherds are prone to allergies.",
+      "age_considerations": "Adults can develop allergies later in life.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "What foods has the dog eaten?",
+        "Is there any environmental exposure?"
+      ],
+      "home_care_india": "Regular cleaning, hypoallergenic diet, and potential allergy testing.",
+      "vet_triggers": "Severe skin reactions, persistent digestive upset.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may worsen during monsoon and dry seasons.",
+      "prevention_tips": "Regular cleaning to minimize dust mites; hypoallergenic diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "gastritis",
+      "description": "Senior Bulldog with recurrent gastritis aggravated by spicy Indian food.",
+      "indian_climate_factors": "Spicy food can irritate the stomach lining.",
+      "breed_predisposition": "Bulldogs are predisposed to gastritis.",
+      "age_considerations": "Seniors are more susceptible.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often does gastritis occur?",
+        "What triggers it?",
+        "What is the dog's diet?"
+      ],
+      "home_care_india": "Avoid spicy food; feed a bland diet; manage stress.",
+      "vet_triggers": "Persistent vomiting, loss of appetite, weight loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid spicy food; feed a bland, easily digestible diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_digestion_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "vomiting and diarrhea",
+      "description": "Adult Labrador and Golden Retriever with severe vomiting and diarrhea after ingesting poisonous plants commonly found in Indian gardens.",
+      "indian_climate_factors": "Certain plants are toxic and more prevalent in certain seasons.",
+      "breed_predisposition": "Both breeds are susceptible to plant poisoning.",
+      "age_considerations": "Adults are more at risk due to larger food intake.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What plant did the dog ingest?",
+        "What are the symptoms?",
+        "How much was ingested?"
+      ],
+      "home_care_india": "Immediate veterinary care is crucial.",
+      "vet_triggers": "Severe vomiting, diarrhea, lethargy, seizures.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Seasonal variation depends on plant toxicity.",
+      "prevention_tips": "Secure yard; identify and remove toxic plants.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dgh_001",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "vomiting",
+      "description": "A 2-year-old poodle experiencing intermittent vomiting after consuming leftover spicy Indian food.",
+      "indian_climate_factors": "Heat can exacerbate dehydration from vomiting.",
+      "breed_predisposition": "Poodles can be sensitive to certain foods.",
+      "age_considerations": "Young adults are prone to dietary indiscretions.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "How frequent is the vomiting?",
+        "Is there any blood?"
+      ],
+      "home_care_india": "Withhold food for a few hours, offer bland boiled rice and water.",
+      "vet_triggers": "Persistent vomiting, lethargy, blood in vomit.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in summer due to heat and spoiled food.",
+      "prevention_tips": "Avoid spicy and rich foods; ensure fresh water is always available.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dgh_002",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "diarrhea",
+      "description": "A senior Beagle with chronic diarrhea, possibly due to parasitic infection common in street dogs.",
+      "indian_climate_factors": "Monsoon season increases parasite prevalence.",
+      "breed_predisposition": "Beagles have sensitive digestive systems.",
+      "age_considerations": "Senior dogs are more susceptible to infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the diarrhea lasted?",
+        "Is there blood or mucus?",
+        "Has the dog travelled recently?"
+      ],
+      "home_care_india": "Offer easily digestible food like boiled chicken and rice. Ensure clean water.",
+      "vet_triggers": "Severe dehydration, persistent diarrhea, weight loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to increased parasite load.",
+      "prevention_tips": "Regular deworming, avoid contact with street animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_003",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "bloating",
+      "description": "Adult Rottweiler showing signs of bloating after a large meal, exacerbated by the humid climate.",
+      "indian_climate_factors": "Humidity can increase discomfort from bloating.",
+      "breed_predisposition": "Rottweilers are prone to gastric dilatation-volvulus (GDV).",
+      "age_considerations": "Bloating is more dangerous in adult dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the bloating start?",
+        "Is the dog restless or in pain?",
+        "Is the abdomen distended?"
+      ],
+      "home_care_india": "Keep the dog calm and quiet. Do NOT induce vomiting.",
+      "vet_triggers": "Immediate veterinary attention needed for suspected GDV.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common in summer due to heat stress.",
+      "prevention_tips": "Feed smaller, more frequent meals; avoid strenuous activity after eating.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dgh_004",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "constipation",
+      "description": "A Siberian Husky puppy suffering from constipation due to a diet low in fiber.",
+      "indian_climate_factors": "Dehydration from heat can worsen constipation.",
+      "breed_predisposition": "Husky puppies can be prone to digestive sensitivities.",
+      "age_considerations": "Puppies are more vulnerable to constipation due to immature digestive systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How often does the dog defecate?",
+        "Is the stool hard and dry?",
+        "Is the dog straining?"
+      ],
+      "home_care_india": "Add fiber to the diet (pumpkin, cooked carrots). Ensure adequate water intake.",
+      "vet_triggers": "Persistent constipation, straining, blood in stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More likely in summer due to dehydration.",
+      "prevention_tips": "Provide a balanced diet with sufficient fiber; monitor water intake.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dgh_005",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "food_allergies",
+      "description": "Both a Poodle and Beagle experiencing skin irritation and itching after consuming a new brand of dog food.",
+      "indian_climate_factors": "Heat and humidity can worsen skin allergies.",
+      "breed_predisposition": "Both breeds can be prone to food sensitivities.",
+      "age_considerations": "All ages can develop food allergies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What new foods has the dog eaten?",
+        "Are there any skin lesions?",
+        "Is the dog excessively scratching?"
+      ],
+      "home_care_india": "Identify and remove the allergen from the diet. Use a hypoallergenic shampoo.",
+      "vet_triggers": "Severe skin reactions, vomiting, diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms can worsen during monsoon due to increased humidity.",
+      "prevention_tips": "Introduce new foods gradually; choose high-quality, hypoallergenic dog food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_006",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "gastritis",
+      "description": "An adult Rottweiler with gastritis, possibly due to ingestion of contaminated street food.",
+      "indian_climate_factors": "Contaminated food is more common in hot and humid climates.",
+      "breed_predisposition": "Rottweilers can be susceptible to gastric issues.",
+      "age_considerations": "Adult dogs are more prone to dietary indiscretions.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "Is the dog vomiting?",
+        "Is there any abdominal pain?"
+      ],
+      "home_care_india": "Withhold food for a few hours; offer bland boiled chicken and rice.",
+      "vet_triggers": "Persistent vomiting, severe abdominal pain, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in summer due to food spoilage.",
+      "prevention_tips": "Avoid feeding street food; ensure food is fresh and clean.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_007",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Senior Siberian Husky with loss of appetite, potentially due to underlying illness.",
+      "indian_climate_factors": "Heat stress can reduce appetite.",
+      "breed_predisposition": "Senior Huskies can develop various health issues affecting appetite.",
+      "age_considerations": "Loss of appetite is a common sign of illness in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the dog had loss of appetite?",
+        "Are there any other symptoms?",
+        "Is the dog lethargic?"
+      ],
+      "home_care_india": "Offer small amounts of palatable food; ensure access to fresh water.",
+      "vet_triggers": "Persistent loss of appetite, weight loss, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Can be exacerbated by heat stress in summer.",
+      "prevention_tips": "Regular veterinary checkups for senior dogs; monitor weight and appetite.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_008",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "vomiting",
+      "description": "A puppy Poodle experiencing vomiting after playing in dusty areas.",
+      "indian_climate_factors": "Dust inhalation can trigger vomiting in sensitive dogs.",
+      "breed_predisposition": "Poodles can be sensitive to environmental irritants.",
+      "age_considerations": "Puppies are more vulnerable to environmental triggers.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Was the puppy exposed to dust or pollutants?",
+        "How frequent is the vomiting?",
+        "Is the puppy coughing?"
+      ],
+      "home_care_india": "Ensure clean water; avoid dusty areas.",
+      "vet_triggers": "Persistent vomiting, lethargy, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during dry, dusty seasons.",
+      "prevention_tips": "Avoid dusty areas; use a humidifier to reduce dust in the home.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dgh_009",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "diarrhea",
+      "description": "Adult Beagle with acute diarrhea after consuming contaminated street food during monsoon.",
+      "indian_climate_factors": "Monsoon season increases risk of food contamination.",
+      "breed_predisposition": "Beagles can have sensitive digestive systems.",
+      "age_considerations": "Adult dogs are prone to dietary indiscretions.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the diarrhea start?",
+        "Is there blood or mucus?",
+        "What did the dog eat?"
+      ],
+      "home_care_india": "Offer bland boiled rice and water; avoid rich or spicy foods.",
+      "vet_triggers": "Persistent diarrhea, dehydration, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to increased bacterial contamination.",
+      "prevention_tips": "Avoid feeding street food; ensure food and water are clean.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_010",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "bloating",
+      "description": "Senior Rottweiler with chronic bloating, potentially linked to age-related digestive issues.",
+      "indian_climate_factors": "Heat stress can worsen bloating.",
+      "breed_predisposition": "Rottweilers are prone to bloating and GDV.",
+      "age_considerations": "Senior dogs are more susceptible to digestive problems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the bloating been present?",
+        "Is the dog uncomfortable?",
+        "Is there any vomiting or loss of appetite?"
+      ],
+      "home_care_india": "Feed small, frequent meals; ensure access to fresh water.",
+      "vet_triggers": "Increased bloating, pain, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Can be worsened by heat stress in summer.",
+      "prevention_tips": "Regular veterinary checkups; dietary management.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_011",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "constipation",
+      "description": "Adult Siberian Husky with constipation due to dehydration during summer.",
+      "indian_climate_factors": "High temperatures lead to dehydration, causing constipation.",
+      "breed_predisposition": "Huskies can be prone to digestive issues.",
+      "age_considerations": "All ages can be affected by dehydration-induced constipation.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the constipation lasted?",
+        "Is the stool hard?",
+        "Is the dog straining?"
+      ],
+      "home_care_india": "Increase water intake; add fiber to the diet.",
+      "vet_triggers": "Persistent constipation, straining, blood in stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in summer due to dehydration.",
+      "prevention_tips": "Ensure adequate water intake, especially during summer.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dgh_012",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "food_allergies",
+      "description": "Puppy Poodle and Beagle with severe food allergies, possibly triggered by local ingredients in dog food.",
+      "indian_climate_factors": "Humidity can exacerbate allergic skin reactions.",
+      "breed_predisposition": "Both breeds can be prone to food allergies.",
+      "age_considerations": "Puppies are more susceptible to developing allergies.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What specific foods are suspected?",
+        "Are there skin lesions?",
+        "Is there vomiting or diarrhea?"
+      ],
+      "home_care_india": "Eliminate suspected allergens; use hypoallergenic shampoo and cream.",
+      "vet_triggers": "Severe skin reactions, respiratory distress, anaphylaxis.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms can worsen during monsoon due to humidity.",
+      "prevention_tips": "Choose high-quality, hypoallergenic food; avoid local ingredients if known allergies exist.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_013",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "gastritis",
+      "description": "Adult Rottweiler with mild gastritis, possibly due to stress and poor diet.",
+      "indian_climate_factors": "Heat stress can exacerbate gastritis.",
+      "breed_predisposition": "Rottweilers can be prone to gastric issues.",
+      "age_considerations": "Stress and poor diet can affect all ages.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the dog stressed?",
+        "What is the dog's diet?",
+        "Is there any vomiting?"
+      ],
+      "home_care_india": "Provide a bland diet; manage stress levels.",
+      "vet_triggers": "Persistent vomiting, loss of appetite, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Can be worsened by heat stress in summer.",
+      "prevention_tips": "Provide a balanced diet; manage stress; avoid sudden dietary changes.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dgh_014",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Puppy Siberian Husky with loss of appetite due to intestinal parasites.",
+      "indian_climate_factors": "Parasite prevalence is higher during monsoon.",
+      "breed_predisposition": "Puppies are susceptible to parasitic infections.",
+      "age_considerations": "Puppies are more vulnerable to parasite infestations.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the puppy lethargic?",
+        "Is there any vomiting or diarrhea?",
+        "Has the puppy been dewormed?"
+      ],
+      "home_care_india": "Offer small amounts of palatable food; ensure clean water.",
+      "vet_triggers": "Persistent loss of appetite, weight loss, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to increased parasite load.",
+      "prevention_tips": "Regular deworming; avoid contact with street animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dgh_015",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "poodle"
+      ],
+      "symptom": "vomiting and diarrhea",
+      "description": "Adult Beagle and Poodle experiencing simultaneous vomiting and diarrhea after consuming spoiled food from an uncovered bin.",
+      "indian_climate_factors": "Spoiled food is more common in hot and humid climates.",
+      "breed_predisposition": "Both breeds can have sensitive digestive systems.",
+      "age_considerations": "Adult dogs are prone to dietary indiscretions.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the dogs eat?",
+        "How long have the symptoms lasted?",
+        "Is there blood or mucus?"
+      ],
+      "home_care_india": "Withhold food for a few hours; offer bland boiled chicken and rice; ensure access to clean water.",
+      "vet_triggers": "Persistent vomiting and diarrhea, dehydration, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in summer due to food spoilage.",
+      "prevention_tips": "Store food properly; ensure food is fresh and clean; avoid leaving food uncovered.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_vomiting_30",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "vomiting",
+      "description": "Dachshund puppy experiencing frequent vomiting after consuming leftover street food containing spices.",
+      "indian_climate_factors": "Heat exacerbates dehydration from vomiting.",
+      "breed_predisposition": "Dachshunds prone to intervertebral disc disease, impacting digestion.",
+      "age_considerations": "Puppies more vulnerable to infections causing vomiting.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Frequency and color of vomit?",
+        "Any other symptoms?",
+        "What did the puppy eat?"
+      ],
+      "home_care_india": "Offer bland diet (boiled rice, chicken), ensure access to clean water.",
+      "vet_triggers": "Persistent vomiting, blood in vomit, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to bacterial contamination.",
+      "prevention_tips": "Supervise food intake, avoid street food, ensure regular deworming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_diarrhea_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "diarrhea",
+      "description": "Adult Boxer with chronic diarrhea, possibly due to food allergies to common Indian ingredients.",
+      "indian_climate_factors": "Humidity can worsen diarrhea and dehydration.",
+      "breed_predisposition": "Boxers can be sensitive to certain proteins.",
+      "age_considerations": "Adult dogs more susceptible to chronic conditions.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Consistency and frequency of stools?",
+        "Any blood or mucus?",
+        "Recent dietary changes?"
+      ],
+      "home_care_india": "Provide easily digestible food, probiotics, and monitor hydration.",
+      "vet_triggers": "Severe dehydration, weight loss, persistent diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Increased frequency during monsoon due to contaminated water.",
+      "prevention_tips": "High-quality hypoallergenic diet, regular stool checks.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_loss_of_appetite_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Senior Border Collie with loss of appetite, possibly due to gastritis aggravated by dust inhalation.",
+      "indian_climate_factors": "Dust and pollution irritate the digestive tract.",
+      "breed_predisposition": "Border Collies can be prone to anxiety, affecting appetite.",
+      "age_considerations": "Senior dogs often have decreased appetite.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Duration of appetite loss?",
+        "Any other symptoms?",
+        "Recent stress or changes?"
+      ],
+      "home_care_india": "Offer small, frequent meals of palatable food.",
+      "vet_triggers": "Significant weight loss, persistent lack of appetite.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer due to heat stress.",
+      "prevention_tips": "Regular vet check-ups, stress management.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_bloating_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "bloating",
+      "description": "Australian Shepherd puppy with bloating after consuming excessive amounts of street food.",
+      "indian_climate_factors": "Heat can increase gas production.",
+      "breed_predisposition": "Australian Shepherds are energetic and may overeat.",
+      "age_considerations": "Puppies are more prone to digestive upsets.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did bloating start?",
+        "Any discomfort?",
+        "Recent dietary changes?"
+      ],
+      "home_care_india": "Avoid feeding large meals, offer small, frequent meals.",
+      "vet_triggers": "Severe abdominal distension, pain, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer due to heat.",
+      "prevention_tips": "Controlled feeding, avoid street food.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_constipation_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "constipation",
+      "description": "Adult Dachshund and Boxer experiencing constipation due to dehydration in summer heat.",
+      "indian_climate_factors": "Dehydration from heat reduces stool moisture.",
+      "breed_predisposition": "Dachshunds prone to spinal issues affecting bowel movements.",
+      "age_considerations": "Adult dogs more susceptible to dehydration.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Frequency of bowel movements?",
+        "Consistency of stools?",
+        "Water intake?"
+      ],
+      "home_care_india": "Increase water intake, add fiber to diet.",
+      "vet_triggers": "Straining to defecate, hard stools, no bowel movement for several days.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during summer due to dehydration.",
+      "prevention_tips": "Adequate hydration, high-fiber diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_food_allergies_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "food_allergies",
+      "description": "Border Collie with skin allergies and digestive upset triggered by common Indian grains.",
+      "indian_climate_factors": "Humidity can worsen skin allergies.",
+      "breed_predisposition": "Border Collies can have sensitive skin and digestive systems.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Specific foods causing reaction?",
+        "Skin symptoms?",
+        "Digestive symptoms?"
+      ],
+      "home_care_india": "Eliminate suspect foods, provide hypoallergenic diet.",
+      "vet_triggers": "Severe skin lesions, persistent digestive issues.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Skin allergies might be worse during monsoon.",
+      "prevention_tips": "Identify and avoid allergens, hypoallergenic diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_gastritis_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "gastritis",
+      "description": "Senior Australian Shepherd with gastritis possibly due to consuming contaminated water.",
+      "indian_climate_factors": "Monsoon season increases risk of water contamination.",
+      "breed_predisposition": "No specific predisposition, but stress can worsen gastritis.",
+      "age_considerations": "Senior dogs more prone to digestive issues.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Vomiting?",
+        "Loss of appetite?",
+        "Abdominal pain?"
+      ],
+      "home_care_india": "Bland diet, small frequent meals, antacids (vet guidance).",
+      "vet_triggers": "Severe vomiting, blood in vomit, persistent pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to water contamination.",
+      "prevention_tips": "Clean water access, avoid spoiled food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_vomiting_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "vomiting",
+      "description": "Adult Dachshund with acute vomiting after ingesting spoiled street food during monsoon.",
+      "indian_climate_factors": "Monsoon leads to food spoilage and bacterial growth.",
+      "breed_predisposition": "Dachshunds' long bodies can affect digestion.",
+      "age_considerations": "Adults are more susceptible to food poisoning.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did vomiting start?",
+        "What was ingested?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Withhold food, offer small amounts of water, monitor closely.",
+      "vet_triggers": "Persistent vomiting, dehydration, lethargy.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Common during monsoon due to food spoilage.",
+      "prevention_tips": "Avoid street food, ensure food safety.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_diarrhea_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "diarrhea",
+      "description": "Puppy Boxer with severe diarrhea and dehydration due to viral infection during summer.",
+      "indian_climate_factors": "Heat stress weakens immunity.",
+      "breed_predisposition": "Puppies have underdeveloped immune systems.",
+      "age_considerations": "Puppies are highly susceptible to infections.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Frequency and consistency of stools?",
+        "Dehydration signs?",
+        "Fever?"
+      ],
+      "home_care_india": "Offer electrolyte solutions, monitor hydration, seek vet care immediately.",
+      "vet_triggers": "Severe dehydration, lethargy, fever.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during summer due to heat stress.",
+      "prevention_tips": "Vaccinations, hygiene, clean water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_loss_of_appetite_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Senior Border Collie with complete loss of appetite and weight loss due to chronic pancreatitis.",
+      "indian_climate_factors": "Heat stress can worsen pancreatic inflammation.",
+      "breed_predisposition": "No specific predisposition, but age increases risk.",
+      "age_considerations": "Senior dogs are more prone to chronic diseases.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Duration of appetite loss?",
+        "Weight change?",
+        "Abdominal pain?"
+      ],
+      "home_care_india": "Consult vet immediately, supportive care.",
+      "vet_triggers": "Significant weight loss, persistent lack of appetite, abdominal pain.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Can be worse during summer due to heat stress.",
+      "prevention_tips": "Regular vet check-ups, healthy diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_bloating_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "bloating",
+      "description": "Adult Australian Shepherd with severe bloating and abdominal pain, possibly GDV.",
+      "indian_climate_factors": "Heat can increase risk of GDV.",
+      "breed_predisposition": "Deep-chested breeds are at higher risk of GDV.",
+      "age_considerations": "Adults are more at risk of GDV.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did bloating start?",
+        "Abdominal pain?",
+        "Restlessness?"
+      ],
+      "home_care_india": "Immediate veterinary attention required.",
+      "vet_triggers": "Severe bloating, abdominal pain, restlessness, shock.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during summer due to heat.",
+      "prevention_tips": "Avoid strenuous activity after meals, timed feeding.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_constipation_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "constipation",
+      "description": "Senior Dachshund and Boxer with severe constipation due to megacolon.",
+      "indian_climate_factors": "Dehydration worsens megacolon.",
+      "breed_predisposition": "Dachshunds prone to spinal issues affecting bowel movement.",
+      "age_considerations": "Senior dogs more prone to megacolon.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Duration of constipation?",
+        "Straining?",
+        "Abdominal distension?"
+      ],
+      "home_care_india": "Immediate veterinary attention required.",
+      "vet_triggers": "Severe constipation, abdominal distension, straining.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during summer due to dehydration.",
+      "prevention_tips": "High-fiber diet, regular exercise (as tolerated).",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_food_allergies_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "food_allergies",
+      "description": "Puppy Border Collie with severe food allergies showing vomiting and diarrhea after eating contaminated street food.",
+      "indian_climate_factors": "Monsoon increases risk of food contamination.",
+      "breed_predisposition": "Some Border Collies are prone to food sensitivities.",
+      "age_considerations": "Puppies are more vulnerable to allergic reactions.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What food was eaten?",
+        "Severity of vomiting and diarrhea?",
+        "Other symptoms?"
+      ],
+      "home_care_india": "Withhold food, offer clean water, monitor closely.",
+      "vet_triggers": "Severe vomiting, dehydration, lethargy.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during monsoon due to food contamination.",
+      "prevention_tips": "Avoid street food, hypoallergenic diet.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_gastritis_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "gastritis",
+      "description": "Adult Australian Shepherd with severe gastritis and internal bleeding after consuming contaminated water from a monsoon puddle.",
+      "indian_climate_factors": "Monsoon leads to water contamination.",
+      "breed_predisposition": "No specific predisposition, but stress can worsen gastritis.",
+      "age_considerations": "Adults can develop gastritis from various causes.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did symptoms start?",
+        "Blood in vomit or stool?",
+        "Severity of pain?"
+      ],
+      "home_care_india": "Immediate veterinary attention required.",
+      "vet_triggers": "Severe vomiting, blood in vomit, lethargy, shock.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during monsoon due to water contamination.",
+      "prevention_tips": "Access to clean water, avoid stagnant water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_vomiting_and_diarrhe_44",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "vomiting and diarrhea",
+      "description": "Senior Dachshund with mild vomiting and diarrhea due to dietary indiscretion and heat stress.",
+      "indian_climate_factors": "Heat can reduce appetite and increase digestive sensitivity.",
+      "breed_predisposition": "Dachshunds can have sensitive digestive systems.",
+      "age_considerations": "Senior dogs are more prone to digestive upset.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What did the dog eat?",
+        "Frequency of vomiting and diarrhea?",
+        "Dehydration signs?"
+      ],
+      "home_care_india": "Withhold food for a few hours, offer bland diet, ensure hydration.",
+      "vet_triggers": "Persistent vomiting or diarrhea, blood in vomit/stool, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer due to heat stress.",
+      "prevention_tips": "Controlled feeding, high-quality diet, access to clean water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_vomiting_46",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "vomiting",
+      "description": "Persian kitten experiencing frequent vomiting after consuming spoiled street food.",
+      "indian_climate_factors": "High humidity exacerbates food spoilage, increasing risk.",
+      "breed_predisposition": "Persians' flat faces can make them prone to vomiting due to breathing difficulties.",
+      "age_considerations": "Kittens are more vulnerable to infections causing vomiting.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Frequency and volume of vomit?",
+        "Presence of blood or bile?",
+        "Any recent dietary changes?"
+      ],
+      "home_care_india": "Withhold food for a few hours, offer fresh water.  Avoid giving milk.",
+      "vet_triggers": "Persistent vomiting, lethargy, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent in monsoon due to increased bacterial growth.",
+      "prevention_tips": "Ensure food is fresh, avoid feeding scraps, regular deworming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_diarrhea_47",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "diarrhea",
+      "description": "Adult Siamese cat with chronic diarrhea, possibly due to food allergies.",
+      "indian_climate_factors": "Dust and pollen during dry season worsen allergies.",
+      "breed_predisposition": "Siamese are known to have sensitive digestive systems.",
+      "age_considerations": "Adult cats may develop food intolerances over time.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Consistency and frequency of stools?",
+        "Any mucus or blood?",
+        "Recent dietary changes?"
+      ],
+      "home_care_india": "Offer bland diet (boiled chicken and rice). Ensure clean water.",
+      "vet_triggers": "Bloody diarrhea, severe dehydration, weight loss.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during dry season due to dust allergies.",
+      "prevention_tips": "Identify and eliminate food allergens, regular grooming to minimize dust intake.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_loss_of_appetite_48",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Senior Maine Coon exhibiting loss of appetite and lethargy during the hot summer months.",
+      "indian_climate_factors": "Heat stress reduces appetite and energy levels.",
+      "breed_predisposition": "Maine Coons, with their long fur, are more susceptible to heatstroke.",
+      "age_considerations": "Senior cats often experience decreased appetite.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Duration of appetite loss?",
+        "Any other symptoms?",
+        "Recent changes in activity level?"
+      ],
+      "home_care_india": "Offer small, frequent meals of palatable food. Ensure cool environment. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Significant weight loss, persistent lethargy, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during summer.",
+      "prevention_tips": "Provide cool resting areas, hydration, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_bloating_49",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "bloating",
+      "description": "Both Persian and Siamese cats experiencing bloating after consuming rich, fatty food.",
+      "indian_climate_factors": "Monsoon season can lead to bacterial contamination of food.",
+      "breed_predisposition": "Both breeds can be prone to digestive sensitivities.",
+      "age_considerations": "Adult cats are more likely to overeat.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did bloating start?",
+        "Any discomfort or pain?",
+        "Recent dietary indiscretions?"
+      ],
+      "home_care_india": "Avoid rich foods, offer small, frequent meals.",
+      "vet_triggers": "Severe abdominal distension, vomiting, difficulty breathing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to food spoilage.",
+      "prevention_tips": "Avoid feeding fatty or spicy foods, provide fresh, clean water.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_constipation_50",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "constipation",
+      "description": "Adult Maine Coon with constipation, possibly due to dehydration in hot weather.",
+      "indian_climate_factors": "Dehydration from heat increases risk of constipation.",
+      "breed_predisposition": "Long-haired breeds can be prone to constipation.",
+      "age_considerations": "Adult cats are more likely to experience constipation.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Frequency of bowel movements?",
+        "Hardness of stools?",
+        "Water intake?"
+      ],
+      "home_care_india": "Increase water intake, offer wet food, gentle massage of abdomen.",
+      "vet_triggers": "Straining, inability to defecate, severe abdominal pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer due to dehydration.",
+      "prevention_tips": "Ensure adequate hydration, provide fiber-rich food, regular grooming.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_food_allergies_51",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "food_allergies",
+      "description": "Persian kitten with skin and digestive issues due to food allergies.",
+      "indian_climate_factors": "Dust and pollen can exacerbate allergic reactions.",
+      "breed_predisposition": "Persians are known for their sensitivity to allergens.",
+      "age_considerations": "Kittens are more susceptible to developing allergies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Specific food triggers?",
+        "Symptoms?",
+        "Skin condition?"
+      ],
+      "home_care_india": "Eliminate suspected allergens from diet, maintain clean environment.",
+      "vet_triggers": "Severe itching, vomiting, diarrhea, respiratory distress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during dry and monsoon seasons.",
+      "prevention_tips": "Identify and avoid allergens, regular grooming, clean bedding.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_gastritis_52",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "gastritis",
+      "description": "Adult Siamese cat with gastritis possibly due to stress and poor diet.",
+      "indian_climate_factors": "Heat stress can worsen gastritis symptoms.",
+      "breed_predisposition": "Siamese can be sensitive to stress.",
+      "age_considerations": "Stress can affect cats at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Vomiting?",
+        "Appetite?",
+        "Abdominal pain?"
+      ],
+      "home_care_india": "Bland diet, stress reduction, ensure clean environment.",
+      "vet_triggers": "Severe vomiting, dehydration, anorexia.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Can be aggravated by heat stress in summer.",
+      "prevention_tips": "Manage stress, provide a balanced diet, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_vomiting_53",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "vomiting",
+      "description": "Senior Maine Coon with occasional vomiting due to ingestion of contaminated food.",
+      "indian_climate_factors": "Monsoon rains lead to increased chances of food contamination.",
+      "breed_predisposition": "Large size may lead to accidental ingestion of harmful substances.",
+      "age_considerations": "Older cats have weaker immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Frequency and nature of vomit?",
+        "Any other symptoms?",
+        "Recent dietary changes?"
+      ],
+      "home_care_india": "Withhold food for a few hours, offer fresh water.",
+      "vet_triggers": "Persistent vomiting, lethargy, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Ensure food safety, regular deworming.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_diarrhea_54",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "siamese"
+      ],
+      "symptom": "diarrhea",
+      "description": "Both breeds experiencing mild diarrhea after consuming street food during monsoon.",
+      "indian_climate_factors": "Contaminated water and food are common during monsoon.",
+      "breed_predisposition": "Both breeds can have sensitive digestive systems.",
+      "age_considerations": "All ages are susceptible.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Stool consistency?",
+        "Frequency?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Offer bland diet, ensure clean water.",
+      "vet_triggers": "Bloody diarrhea, severe dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon.",
+      "prevention_tips": "Avoid street food, ensure clean water source.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_loss_of_appetite_55",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Kitten Maine Coon with loss of appetite due to an intestinal parasite.",
+      "indian_climate_factors": "Parasite infestations are common in warmer climates.",
+      "breed_predisposition": "Kittens are more susceptible to parasites.",
+      "age_considerations": "Kittens have developing immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Duration of appetite loss?",
+        "Weight loss?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Provide a palatable diet, ensure hydration.",
+      "vet_triggers": "Significant weight loss, lethargy, diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in warmer months.",
+      "prevention_tips": "Regular deworming, clean environment.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_bloating_56",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "bloating",
+      "description": "Adult Persian cat with severe bloating after eating spoiled fish.",
+      "indian_climate_factors": "Spoilage is faster in hot and humid weather.",
+      "breed_predisposition": "Sensitive digestive system.",
+      "age_considerations": "Adults can be prone to dietary indiscretions.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Severity of bloating?",
+        "Pain?",
+        "Vomiting?"
+      ],
+      "home_care_india": "Seek immediate veterinary help.",
+      "vet_triggers": "Severe abdominal distention, vomiting, difficulty breathing.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse in summer and monsoon.",
+      "prevention_tips": "Avoid feeding spoiled food, provide fresh water.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dig_constipation_57",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "constipation",
+      "description": "Senior Siamese with chronic constipation due to dehydration and lack of fiber.",
+      "indian_climate_factors": "Dehydration is common in hot climates.",
+      "breed_predisposition": "Older cats are prone to constipation.",
+      "age_considerations": "Senior cats have slower metabolisms.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Frequency of bowel movements?",
+        "Stool consistency?",
+        "Water intake?"
+      ],
+      "home_care_india": "Increase water intake, add fiber to diet.",
+      "vet_triggers": "Inability to defecate, straining, abdominal pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in summer.",
+      "prevention_tips": "Ensure adequate hydration, provide fiber-rich food.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_food_allergies_58",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "food_allergies",
+      "description": "Maine Coon kitten with severe food allergies manifesting as vomiting and diarrhea.",
+      "indian_climate_factors": "Pollen and dust exacerbate allergies.",
+      "breed_predisposition": "Genetic predisposition to allergies.",
+      "age_considerations": "Kittens are more vulnerable to allergies.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Specific food triggers?",
+        "Severity of symptoms?",
+        "Other allergies?"
+      ],
+      "home_care_india": "Eliminate suspected allergens, maintain clean environment.",
+      "vet_triggers": "Severe vomiting, diarrhea, dehydration.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry and monsoon seasons.",
+      "prevention_tips": "Identify and avoid allergens, regular grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_gastritis_59",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "gastritis",
+      "description": "Adult Persian cat with acute gastritis after consuming spicy food.",
+      "indian_climate_factors": "Increased spice consumption in Indian cuisine.",
+      "breed_predisposition": "Sensitive digestive system.",
+      "age_considerations": "Adults are more likely to indulge in inappropriate foods.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Vomiting?",
+        "Abdominal pain?",
+        "Appetite?"
+      ],
+      "home_care_india": "Bland diet, avoid spicy foods.",
+      "vet_triggers": "Severe vomiting, dehydration, anorexia.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid spicy foods, provide a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_vomiting_and_diarrhe_60",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese",
+        "maine_coon"
+      ],
+      "symptom": "vomiting and diarrhea",
+      "description": "Both breeds experiencing severe vomiting and diarrhea due to a viral infection.",
+      "indian_climate_factors": "Viral infections spread easily in warm, humid climates.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "All ages are susceptible.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Duration of symptoms?",
+        "Severity?",
+        "Dehydration?"
+      ],
+      "home_care_india": "Provide supportive care, but seek immediate veterinary attention.",
+      "vet_triggers": "Severe dehydration, lethargy, high fever.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during warmer months.",
+      "prevention_tips": "Vaccinations, hygiene, avoid contact with sick animals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "cat_digestion_1",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "vomiting",
+      "description": "British Shorthairs, especially older ones, experience occasional vomiting due to hairballs exacerbated by dust during the dry season.",
+      "indian_climate_factors": "Increased dust during summer and dry winds can worsen hairball formation.",
+      "breed_predisposition": "British Shorthairs have a dense coat, leading to more frequent grooming and hair ingestion.",
+      "age_considerations": "More common in adult and senior cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How frequent is the vomiting?",
+        "Is there any blood in the vomit?",
+        "What is the cat's diet?"
+      ],
+      "home_care_india": "Provide plenty of fresh water, use a hairball remedy, and ensure a clean environment.",
+      "vet_triggers": "Persistent vomiting, vomiting blood, or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during dry seasons due to dust.",
+      "prevention_tips": "Regular brushing, hairball paste, and a high-fiber diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "cat_digestion_2",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "diarrhea",
+      "description": "Ragdolls, known for their sensitive stomachs, can develop diarrhea from consuming contaminated street food during monsoon.",
+      "indian_climate_factors": "Monsoon season brings increased bacterial contamination of food and water.",
+      "breed_predisposition": "Ragdolls have a sensitive digestive system.",
+      "age_considerations": "More common in kittens and young adults.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did the cat eat recently?",
+        "Is the diarrhea watery or bloody?",
+        "Is the cat dehydrated?"
+      ],
+      "home_care_india": "Provide boiled water, bland diet (boiled chicken and rice), and monitor hydration.",
+      "vet_triggers": "Severe dehydration, bloody diarrhea, or persistent diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during monsoon.",
+      "prevention_tips": "Avoid feeding street food, ensure clean water, and monitor food sources.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_3",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "Bengals, being active, can experience loss of appetite due to heat stress during summer.",
+      "indian_climate_factors": "Extreme heat can reduce appetite and cause dehydration.",
+      "breed_predisposition": "Bengals are energetic and prone to heatstroke.",
+      "age_considerations": "Can affect all age groups, but more concerning in kittens and seniors.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the cat had a loss of appetite?",
+        "Are there any other symptoms?",
+        "Is the cat drinking enough water?"
+      ],
+      "home_care_india": "Provide cool water, offer small frequent meals, and keep the cat in a cool place.",
+      "vet_triggers": "Loss of appetite lasting more than 24 hours, significant weight loss, or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during summer.",
+      "prevention_tips": "Ensure access to cool water and shade, offer palatable food.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "cat_digestion_4",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "bloating",
+      "description": "Both breeds can experience bloating after consuming large quantities of food, especially in humid weather.",
+      "indian_climate_factors": "Humidity can affect digestion and gas production.",
+      "breed_predisposition": "Genetic predisposition, but also influenced by diet and environment.",
+      "age_considerations": "More common in adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How often does bloating occur?",
+        "Is there any pain associated with it?",
+        "What is the cat's feeding schedule?"
+      ],
+      "home_care_india": "Smaller, more frequent meals, avoid gas-producing foods.",
+      "vet_triggers": "Severe abdominal distension, vomiting, or signs of pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent during humid seasons.",
+      "prevention_tips": "Controlled feeding, avoid rich or fatty foods.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_5",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "constipation",
+      "description": "Bengals, especially those eating less due to heat, can suffer from constipation.",
+      "indian_climate_factors": "Dehydration from heat can worsen constipation.",
+      "breed_predisposition": "Not a breed-specific issue, but exacerbated by environmental factors.",
+      "age_considerations": "More common in senior cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How frequent are bowel movements?",
+        "Is the stool hard and dry?",
+        "Is the cat straining to defecate?"
+      ],
+      "home_care_india": "Increase water intake, add fiber to the diet, provide warm water to drink.",
+      "vet_triggers": "Inability to defecate, straining, or blood in stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer due to dehydration.",
+      "prevention_tips": "High-fiber diet, adequate water intake.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "cat_digestion_6",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "food_allergies",
+      "description": "Ragdolls are prone to food allergies, often triggered by common Indian ingredients like dairy or fish.",
+      "indian_climate_factors": "Spoilage of food is faster in humid weather, potentially worsening allergic reactions.",
+      "breed_predisposition": "Ragdolls have sensitive skin and digestive systems.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods has the cat recently eaten?",
+        "Are there any skin issues?",
+        "Is there any vomiting or diarrhea?"
+      ],
+      "home_care_india": "Identify and eliminate trigger foods, provide hypoallergenic diet.",
+      "vet_triggers": "Severe skin reactions, persistent vomiting or diarrhea.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Introduce new foods gradually, avoid common allergens.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_7",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "gastritis",
+      "description": "Stress from loud noises (common in urban India) can trigger gastritis in British Shorthairs.",
+      "indian_climate_factors": "Urban pollution can indirectly worsen gastritis by reducing air quality.",
+      "breed_predisposition": "Stress and anxiety can affect digestion.",
+      "age_considerations": "Can occur at any age, but more common in adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cat stressed?",
+        "Is there any vomiting or loss of appetite?",
+        "Is the cat showing any signs of pain?"
+      ],
+      "home_care_india": "Provide a calm environment, bland diet, and monitor stress levels.",
+      "vet_triggers": "Persistent vomiting, loss of appetite, or severe abdominal pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Create a calm environment, manage stress factors.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_8",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "vomiting",
+      "description": "A Bengal kitten ingesting contaminated food scraps from a busy street.",
+      "indian_climate_factors": "Street food contamination is high in monsoon.",
+      "breed_predisposition": "Playful nature leads to exploration, increasing risk of ingesting harmful substances.",
+      "age_considerations": "More common in kittens.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What did the kitten ingest?",
+        "Is there any blood in vomit?",
+        "Is the kitten lethargic?"
+      ],
+      "home_care_india": "Immediate veterinary attention is crucial.",
+      "vet_triggers": "Immediate veterinary care is required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during monsoon.",
+      "prevention_tips": "Supervise kittens closely, prevent access to street food.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "cat_digestion_9",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "diarrhea",
+      "description": "A senior Ragdoll with chronic diarrhea due to inflammatory bowel disease (IBD).",
+      "indian_climate_factors": "Heat and humidity can worsen IBD symptoms.",
+      "breed_predisposition": "Genetic predisposition to IBD.",
+      "age_considerations": "More common in senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the diarrhea persisted?",
+        "Is there weight loss?",
+        "Is there blood or mucus in the stool?"
+      ],
+      "home_care_india": "Follow vet's instructions carefully, manage stress.",
+      "vet_triggers": "Persistent diarrhea, weight loss, or other systemic symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms can worsen in hot and humid weather.",
+      "prevention_tips": "Regular vet checkups, manage stress, follow prescribed diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_10",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "constipation",
+      "description": "An adult British Shorthair with constipation due to dehydration during summer.",
+      "indian_climate_factors": "Dehydration from heat leads to harder stools.",
+      "breed_predisposition": "Not breed-specific, but dehydration is a common problem in Indian summers.",
+      "age_considerations": "More common in adults.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the cat been constipated?",
+        "Is the cat straining?",
+        "Is the cat drinking enough water?"
+      ],
+      "home_care_india": "Increase water intake, add fiber to diet, provide cool environment.",
+      "vet_triggers": "Prolonged constipation, straining, or blood in stool.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in summer.",
+      "prevention_tips": "Adequate water intake, high-fiber diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "cat_digestion_11",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "loss_of_appetite",
+      "description": "A Bengal cat with loss of appetite due to pancreatitis.",
+      "indian_climate_factors": "High temperatures can exacerbate pancreatitis symptoms.",
+      "breed_predisposition": "Not breed-specific, but heat stress can be a trigger.",
+      "age_considerations": "Can affect cats of any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there vomiting or diarrhea?",
+        "Is the cat lethargic?",
+        "Is there abdominal pain?"
+      ],
+      "home_care_india": "Follow vet's instructions closely, keep the cat comfortable.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Symptoms may worsen in hot weather.",
+      "prevention_tips": "Maintain a healthy diet, regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "cat_digestion_12",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "bloating",
+      "description": "A Ragdoll cat with severe bloating after consuming spoiled fish during monsoon.",
+      "indian_climate_factors": "Spoilage of food is faster in humid and rainy weather.",
+      "breed_predisposition": "Sensitive digestive system makes them susceptible to food poisoning.",
+      "age_considerations": "Can affect cats of any age.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "What did the cat eat?",
+        "Is the cat in pain?",
+        "Is there any vomiting or diarrhea?"
+      ],
+      "home_care_india": "Seek immediate veterinary attention.",
+      "vet_triggers": "Immediate veterinary attention is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during monsoon.",
+      "prevention_tips": "Avoid feeding spoiled food, ensure food safety.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "cat_digestion_13",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "food_allergies",
+      "description": "A British Shorthair kitten with severe skin and digestive issues due to a dairy allergy.",
+      "indian_climate_factors": "Dairy products can spoil faster in hot and humid conditions.",
+      "breed_predisposition": "Not breed-specific, but common in cats.",
+      "age_considerations": "More common in kittens.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods has the kitten been eating?",
+        "Are there any skin issues?",
+        "Is there vomiting or diarrhea?"
+      ],
+      "home_care_india": "Eliminate dairy from diet, use hypoallergenic food.",
+      "vet_triggers": "Persistent symptoms or severe skin reactions.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may worsen in hot and humid weather.",
+      "prevention_tips": "Introduce new foods gradually, avoid common allergens.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_14",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "gastritis",
+      "description": "An adult Bengal cat with chronic gastritis possibly due to stress and poor quality street food.",
+      "indian_climate_factors": "Poor quality street food is common and can cause gastritis.",
+      "breed_predisposition": "Stress and poor diet can trigger gastritis.",
+      "age_considerations": "More common in adults.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the cat stressed?",
+        "What is the cat's diet?",
+        "Is there any vomiting or loss of appetite?"
+      ],
+      "home_care_india": "Provide a calm environment, bland diet, and monitor stress levels.",
+      "vet_triggers": "Persistent vomiting, loss of appetite, or severe abdominal pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Manage stress, provide a high-quality diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "cat_digestion_15",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll",
+        "british_shorthair"
+      ],
+      "symptom": "vomiting and diarrhea",
+      "description": "Both breeds experience simultaneous vomiting and diarrhea after consuming contaminated water during monsoon.",
+      "indian_climate_factors": "Water contamination is high during monsoon.",
+      "breed_predisposition": "Both breeds can be susceptible to infections from contaminated water.",
+      "age_considerations": "Can affect cats of any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have the symptoms lasted?",
+        "Is there blood in vomit or stool?",
+        "Is the cat dehydrated?"
+      ],
+      "home_care_india": "Provide boiled water, bland diet, and monitor hydration closely.",
+      "vet_triggers": "Severe dehydration, bloody vomit or stool, or persistent symptoms.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during monsoon.",
+      "prevention_tips": "Ensure access to clean water, avoid stagnant water sources.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "d_worms_stool_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "worms_in_stool",
+      "description": "Visible worms (white, rice-like segments or spaghetti-like roundworms) in dog's stool or around anus. Indicates intestinal parasite infection. Requires deworming medication from vet. Can cause weight loss, diarrhea, pot-bellied appearance in puppies.",
+      "indian_climate_factors": "Parasites thrive in warm, humid conditions. Street dog exposure increases risk.",
+      "breed_predisposition": "All breeds affected. Puppies and street dogs at higher risk.",
+      "age_considerations": "Puppies commonly have roundworms. All ages can get tapeworms.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What do worms look like?",
+        "Are worms moving?",
+        "Any diarrhea or weight loss?",
+        "When was last deworming?"
+      ],
+      "home_care_india": "Collect stool sample for vet. Wash hands after handling pet. Keep area clean.",
+      "vet_triggers": "Visible worms, diarrhea, vomiting, weight loss, pot-bellied appearance.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to increased parasite load.",
+      "prevention_tips": "Regular deworming every 3 months, avoid contact with street dogs, clean environment.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "d_vomiting_multiple_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "vomiting multiple times",
+      "description": "Dog has vomited 3-4 times in the last 6 hours but is still drinking water and seems alert",
+      "indian_climate_factors": "Contaminated food during monsoon or hot weather can cause repeated vomiting",
+      "breed_predisposition": "All breeds susceptible",
+      "age_considerations": "More concerning in puppies and senior dogs due to dehydration risk",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How many times has the dog vomited?",
+        "Is there blood in vomit?",
+        "Is the dog still eating/drinking?"
+      ],
+      "home_care_india": "Withhold food for 4-6 hours. Offer small amounts of water. Monitor closely.",
+      "vet_triggers": "More than 4 episodes, blood in vomit, signs of dehydration or pain",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon due to contaminated food/water",
+      "prevention_tips": "Supervise food intake; avoid street food; ensure fresh water",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dig_worms_in_stool_poop__77",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "worms in stool poop feces",
+      "description": "Owner noticed visible worms (white, rice-like segments or spaghetti-like worms) in dog's stool or around anus",
+      "indian_climate_factors": "Warm, humid climate increases parasite prevalence",
+      "breed_predisposition": "All breeds susceptible",
+      "age_considerations": "Common in puppies but can affect any age",
+      "severity_level": "routine",
+      "questions_to_ask": [
+        "What type of worms did you see?",
+        "When did you first notice them?",
+        "Is the dog eating normally?"
+      ],
+      "home_care_india": "Not an emergency. Schedule vet appointment for deworming. Keep dog's area clean.",
+      "vet_triggers": "Visible worms, weight loss, diarrhea, pot-bellied appearance",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon season",
+      "prevention_tips": "Regular deworming every 3 months, good hygiene, avoid contaminated areas",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dig_not_eating_days",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "dog not eating for 2 days refused food appetite loss",
+      "description": "Dog has not eaten for 2 or more days. Still drinking water but refusing all food.",
+      "indian_climate_factors": "Heat can reduce appetite but prolonged refusal needs attention",
+      "breed_predisposition": "All breeds",
+      "age_considerations": "More concerning in puppies and seniors",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "Any vomiting?",
+        "Still drinking water?",
+        "Any other symptoms?"
+      ],
+      "home_care_india": "Try boiled chicken and rice. If still refuses, consult vet within 24 hours.",
+      "vet_triggers": "Not eating for 2+ days, signs of weakness or lethargy",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Monitor closely in hot weather",
+      "prevention_tips": "Regular feeding schedule, avoid sudden diet changes",
+      "severity": "urgent"
+    }
+  ]
+}

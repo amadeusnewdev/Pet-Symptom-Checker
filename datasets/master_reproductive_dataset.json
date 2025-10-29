@@ -1,0 +1,1775 @@
+{
+  "metadata": {
+    "category": "reproductive",
+    "total_entries": 73,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "dog_rh_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Irregular or prolonged heat cycles in adult Labradors and Golden Retrievers, potentially due to hormonal imbalances.",
+      "indian_climate_factors": "Heat and humidity can exacerbate hormonal imbalances, leading to heavier bleeding and discomfort.",
+      "breed_predisposition": "Labradors and Golden Retrievers are generally healthy, but hormonal issues can still occur.",
+      "age_considerations": "More common in adult dogs (2-7 years).",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cycle lasted?",
+        "Is the bleeding heavier than usual?",
+        "Are there any other behavioral changes?"
+      ],
+      "home_care_india": "Provide a cool, comfortable environment; use absorbent bedding to manage bleeding; ensure access to fresh water.",
+      "vet_triggers": "Prolonged bleeding, lethargy, abnormal vaginal discharge.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during the hot and humid summer months.",
+      "prevention_tips": "Regular veterinary checkups, balanced diet, and avoiding unnecessary stress.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Dystocia (difficult labor) in Bulldogs due to their brachycephalic structure.",
+      "indian_climate_factors": "High temperatures can increase stress and dehydration, worsening dystocia.",
+      "breed_predisposition": "Narrow birth canal in Bulldogs increases risk of obstructed labor.",
+      "age_considerations": "Relevant only to adult female dogs during pregnancy.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did labor start?",
+        "How frequent are contractions?",
+        "Is the puppy visible?"
+      ],
+      "home_care_india": "Keep the dog calm and cool; provide clean bedding.",
+      "vet_triggers": "No puppies delivered after several hours of labor, weak contractions, signs of distress in the mother.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen difficulties during summer months.",
+      "prevention_tips": "Careful breeding practices, monitoring pregnancy closely, and ensuring access to veterinary care during labor.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Eclampsia (calcium deficiency) in pregnant German Shepherds.",
+      "indian_climate_factors": "Nutritional deficiencies due to poor quality food can be worsened by climatic conditions.",
+      "breed_predisposition": "Large breed dogs like German Shepherds are prone to calcium deficiency.",
+      "age_considerations": "Affects adult female dogs during late pregnancy and lactation.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Are there any muscle tremors or seizures?",
+        "Is the dog lethargic?",
+        "Is she lactating?"
+      ],
+      "home_care_india": "Provide a calm environment, access to fresh water.",
+      "vet_triggers": "Seizures, muscle tremors, weakness, lethargy.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Nutritional deficiencies might be more pronounced during monsoon season due to fungal growth affecting food sources.",
+      "prevention_tips": "Balanced diet rich in calcium, regular veterinary checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Pseudopregnancy in a Golden Retriever showing signs of pregnancy without actually being pregnant.",
+      "indian_climate_factors": "Stress from heat and humidity can trigger hormonal imbalances.",
+      "breed_predisposition": "Some breeds are more prone to hormonal fluctuations.",
+      "age_considerations": "Common in adult female dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Has she shown nesting behavior?",
+        "Is she producing milk?",
+        "Is she lethargic?"
+      ],
+      "home_care_india": "Provide a calm environment, discourage nesting behavior.",
+      "vet_triggers": "Severe behavioral changes, excessive milk production, persistent symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during periods of stress, such as monsoon season.",
+      "prevention_tips": "Regular exercise, a balanced diet, and stress reduction techniques.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Infrequent heat cycles in a senior Labrador Retriever.",
+      "indian_climate_factors": "Heat stress can disrupt the hormonal balance, leading to irregular cycles.",
+      "breed_predisposition": "Age-related hormonal changes.",
+      "age_considerations": "Common in senior dogs (7+ years).",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has it been since her last heat cycle?",
+        "Are there any other health concerns?"
+      ],
+      "home_care_india": "Provide a comfortable environment, monitor for any unusual symptoms.",
+      "vet_triggers": "Absence of heat cycles for an extended period.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Irregularities might be more noticeable during extreme temperatures.",
+      "prevention_tips": "Regular veterinary checkups, especially for senior dogs.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog",
+        "german_shepherd"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Uterine inertia (failure of the uterus to contract effectively during labor) in a Bulldog and German Shepherd mix.",
+      "indian_climate_factors": "Dehydration from heat can worsen uterine inertia.",
+      "breed_predisposition": "Breed-specific predispositions combined.",
+      "age_considerations": "Adult female during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has labor been going on?",
+        "Are there signs of weak contractions?",
+        "Are there any signs of distress?"
+      ],
+      "home_care_india": "Keep the dog calm and hydrated.",
+      "vet_triggers": "Lack of progress in labor, signs of maternal distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can exacerbate the problem during summer months.",
+      "prevention_tips": "Careful monitoring during pregnancy, access to veterinary care during labor.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Breech presentation (puppy positioned incorrectly) during labor in a Golden Retriever.",
+      "indian_climate_factors": "Stress from high temperatures can affect labor.",
+      "breed_predisposition": "While not highly predisposed, it can occur in any breed.",
+      "age_considerations": "Adult female during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the puppy's position abnormal?",
+        "Is labor progressing normally?"
+      ],
+      "home_care_india": "Keep the dog calm and cool.",
+      "vet_triggers": "Abnormal puppy presentation, slow or stalled labor.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen the situation.",
+      "prevention_tips": "Ultrasound during pregnancy to identify potential problems.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Severe pseudopregnancy in a German Shepherd, exhibiting extreme nesting behavior and milk production.",
+      "indian_climate_factors": "Stress from environmental factors can exacerbate hormonal imbalances.",
+      "breed_predisposition": "While not highly predisposed, it can occur in any breed.",
+      "age_considerations": "Adult female.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How severe are the symptoms?",
+        "Is she exhibiting unusual behavior?"
+      ],
+      "home_care_india": "Provide a calm environment, manage nesting behavior. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Excessive milk production, severe behavioral changes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Stress from seasonal changes can trigger the condition.",
+      "prevention_tips": "Stress reduction, regular exercise, and a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Mastitis (breast infection) in a lactating Labrador Retriever.",
+      "indian_climate_factors": "Poor hygiene and high humidity can increase infection risk.",
+      "breed_predisposition": "Can occur in any breed, but large breeds may be slightly more susceptible.",
+      "age_considerations": "Adult female during lactation.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are the breasts swollen or painful?",
+        "Is there any discharge?",
+        "Is the dog feverish?"
+      ],
+      "home_care_india": "Maintain hygiene, ensure proper ventilation.",
+      "vet_triggers": "Swelling, pain, discharge, fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during humid monsoon season.",
+      "prevention_tips": "Maintain cleanliness, balanced diet, and regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Anestrus (absence of heat cycles) in a young Bulldog.",
+      "indian_climate_factors": "Heat stress can temporarily disrupt the reproductive cycle.",
+      "breed_predisposition": "Can occur in any breed, but underlying conditions are more prevalent in brachycephalic breeds.",
+      "age_considerations": "Young adult female.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How old is the dog?",
+        "Has she ever had a heat cycle?"
+      ],
+      "home_care_india": "Provide a comfortable environment, monitor for other symptoms.",
+      "vet_triggers": "Prolonged absence of heat cycles, concerns about infertility.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Temporary disruptions might be seen during extreme heat.",
+      "prevention_tips": "Regular veterinary checkups to rule out underlying conditions.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Uterine torsion (twisting of the uterus) during pregnancy in a German Shepherd.",
+      "indian_climate_factors": "Physical exertion in hot weather can increase risk.",
+      "breed_predisposition": "Large breeds are slightly more prone.",
+      "age_considerations": "Adult female during pregnancy.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the dog showing signs of abdominal pain?",
+        "Is she restless or distressed?"
+      ],
+      "home_care_india": "Keep the dog calm and still.",
+      "vet_triggers": "Abdominal pain, restlessness, signs of shock.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More likely during hot weather when dogs are less active.",
+      "prevention_tips": "Regular veterinary checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "labrador_retriever"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Gestational diabetes in a pregnant Golden Retriever and Labrador Retriever mix.",
+      "indian_climate_factors": "Poor diet and lack of exercise can worsen the condition.",
+      "breed_predisposition": "Obesity increases risk.",
+      "age_considerations": "Adult female during pregnancy.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the dog excessively thirsty or hungry?",
+        "Is she losing weight despite eating more?"
+      ],
+      "home_care_india": "Provide a balanced diet and regular exercise.",
+      "vet_triggers": "Excessive thirst, hunger, weight loss, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during periods of inactivity.",
+      "prevention_tips": "Maintain a healthy weight, balanced diet, and regular exercise.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Mild false pregnancy in a young Bulldog with minimal symptoms.",
+      "indian_climate_factors": "Stress from heat can trigger hormonal imbalances.",
+      "breed_predisposition": "Can occur in any breed.",
+      "age_considerations": "Young adult female.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Are there any noticeable symptoms?",
+        "Is she exhibiting unusual behavior?"
+      ],
+      "home_care_india": "Monitor for any changes.",
+      "vet_triggers": "Worsening of symptoms, unusual behavior.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during periods of stress.",
+      "prevention_tips": "Stress reduction, regular exercise, and a balanced diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Heavy bleeding during heat cycle in a street German Shepherd exposed to dust and pollution.",
+      "indian_climate_factors": "Dust and pollution can irritate the reproductive tract, leading to heavier bleeding and infection.",
+      "breed_predisposition": "Environmental factors.",
+      "age_considerations": "Adult female.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How heavy is the bleeding?",
+        "Are there any signs of infection?"
+      ],
+      "home_care_india": "Keep the dog clean and dry, provide a clean environment.",
+      "vet_triggers": "Excessive bleeding, signs of infection, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Dust and pollution levels vary seasonally.",
+      "prevention_tips": "Keep the dog clean, provide a clean environment, and seek veterinary care if needed.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Pre-eclampsia (high blood pressure during pregnancy) in a Labrador Retriever fed a diet of locally sourced food with potential nutritional deficiencies.",
+      "indian_climate_factors": "Nutritional deficiencies due to poor quality local food can worsen pre-eclampsia.",
+      "breed_predisposition": "Nutritional deficiencies.",
+      "age_considerations": "Adult female during pregnancy.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is the dog showing signs of high blood pressure?",
+        "Is she exhibiting any unusual symptoms?"
+      ],
+      "home_care_india": "Provide a balanced diet, monitor blood pressure.",
+      "vet_triggers": "High blood pressure, protein in urine, edema.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Nutritional deficiencies might be more pronounced during certain seasons.",
+      "prevention_tips": "Balanced diet, regular veterinary checkups during pregnancy.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_001",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Irregular or prolonged heat cycles in a young Poodle, possibly due to hormonal imbalance.",
+      "indian_climate_factors": "Increased heat and humidity can exacerbate hormonal imbalances.",
+      "breed_predisposition": "Poodles, while generally healthy, can be susceptible to hormonal irregularities.",
+      "age_considerations": "More common in young adult Poodles (1-3 years).",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the cycle lasted?",
+        "Is there excessive bleeding?",
+        "Has she shown any other unusual symptoms?"
+      ],
+      "home_care_india": "Provide cool, shady resting areas, ensure clean bedding, and offer plenty of fresh water.",
+      "vet_triggers": "Prolonged bleeding, lethargy, lack of appetite.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during the hotter months (March-June).",
+      "prevention_tips": "Regular veterinary checkups, balanced diet, and stress reduction.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_002",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Gestational diabetes in a Beagle during pregnancy, potentially linked to diet.",
+      "indian_climate_factors": "High temperatures can affect blood sugar regulation.",
+      "breed_predisposition": "Beagles are prone to obesity, increasing the risk of gestational diabetes.",
+      "age_considerations": "Affects adult Beagles (2-7 years) during pregnancy.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Has she shown increased thirst or urination?",
+        "Is she losing weight despite eating more?",
+        "Are there any signs of infection?"
+      ],
+      "home_care_india": "Monitor blood glucose levels (if possible), provide a controlled diet as recommended by the vet.",
+      "vet_triggers": "Any signs of gestational diabetes, poor puppy development.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More likely during hot and humid months.",
+      "prevention_tips": "Maintain a healthy weight before and during pregnancy, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_003",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Dystocia (difficult birth) in a Rottweiler due to large puppy size.",
+      "indian_climate_factors": "Heat stress can weaken the mother, complicating labor.",
+      "breed_predisposition": "Rottweilers often have large litters and large puppies.",
+      "age_considerations": "Common in adult Rottweilers (2-6 years) during their first or subsequent pregnancies.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is she straining to deliver?",
+        "Has she been pushing for a long time?",
+        "Is there any sign of bleeding or distress?"
+      ],
+      "home_care_india": "Keep her calm and comfortable, prepare a clean birthing area, but DO NOT attempt to assist delivery.",
+      "vet_triggers": "Any sign of difficult labor, prolonged pushing, excessive bleeding.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation but heat stress can worsen the situation.",
+      "prevention_tips": "Pre-natal checkups, monitoring puppy size during pregnancy, and preparing for a potential C-section.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_004",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Pseudopregnancy in a Siberian Husky, exhibiting nesting behavior and mammary gland enlargement.",
+      "indian_climate_factors": "Stress from heat can trigger hormonal imbalances.",
+      "breed_predisposition": "Siberian Huskies are prone to false pregnancies.",
+      "age_considerations": "Can occur in adult Huskies (1-6 years).",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is she nesting?",
+        "Are her mammary glands swollen?",
+        "Is she exhibiting maternal behaviors?"
+      ],
+      "home_care_india": "Provide a calm environment, avoid stimulating maternal behaviors. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Severe mammary gland inflammation, persistent behavioral changes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during spring and autumn.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_005",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "An older Poodle and Beagle experiencing irregular heat cycles due to aging.",
+      "indian_climate_factors": "Heat can worsen hormonal imbalances in older dogs.",
+      "breed_predisposition": "Both breeds can experience hormonal changes with age.",
+      "age_considerations": "Common in senior dogs (7+ years).",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent are the cycles?",
+        "How long do they last?",
+        "Is there any unusual bleeding?"
+      ],
+      "home_care_india": "Provide a comfortable environment, monitor for any signs of infection.",
+      "vet_triggers": "Excessive bleeding, prolonged cycles, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular vet checkups for older dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_006",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Eclampsia (calcium deficiency) in a Rottweiler during lactation, potentially due to poor nutrition.",
+      "indian_climate_factors": "Nutritional deficiencies can be exacerbated by poor quality local food.",
+      "breed_predisposition": "Large breeds like Rottweilers are prone to eclampsia.",
+      "age_considerations": "Affects adult Rottweilers during lactation.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is she lethargic?",
+        "Is she having muscle tremors or seizures?",
+        "Is she producing less milk?"
+      ],
+      "home_care_india": "Keep her warm and comfortable, but seek immediate veterinary attention.",
+      "vet_triggers": "Any signs of eclampsia \u2013 tremors, seizures, weakness.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Ensure proper nutrition during pregnancy and lactation, using high-quality dog food.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_007",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Uterine inertia (weak uterine contractions) in a Siberian Husky during labor.",
+      "indian_climate_factors": "Heat stress can weaken uterine contractions.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in adult Huskies during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is she straining effectively?",
+        "Is there slow progress in labor?",
+        "Is she showing signs of exhaustion?"
+      ],
+      "home_care_india": "Keep her calm and comfortable, but seek immediate veterinary attention.",
+      "vet_triggers": "Slow or absent progress in labor, maternal exhaustion.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen the situation during summer months.",
+      "prevention_tips": "Regular veterinary checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_008",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "A young Poodle experiencing a mild false pregnancy with minimal symptoms.",
+      "indian_climate_factors": "Stress from environmental factors can trigger false pregnancies.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Common in young adult dogs (1-3 years).",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is she nesting?",
+        "Are her mammary glands slightly swollen?",
+        "Is she showing minimal maternal behaviors?"
+      ],
+      "home_care_india": "Provide a calm environment, avoid stimulating maternal behaviors.",
+      "vet_triggers": "Significant mammary gland swelling, persistent behavioral changes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_009",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle",
+        "rottweiler"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Heavy bleeding during heat cycles in a Beagle and Rottweiler, potentially due to uterine infection.",
+      "indian_climate_factors": "Unsanitary conditions can increase infection risk.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in adult dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How heavy is the bleeding?",
+        "Is there a foul odor?",
+        "Is she lethargic or showing signs of pain?"
+      ],
+      "home_care_india": "Keep her clean and dry, monitor for any signs of infection.",
+      "vet_triggers": "Excessive bleeding, foul odor, lethargy, fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Maintain hygiene, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_010",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Mastitis (mammary gland infection) in a Siberian Husky during lactation, potentially due to poor hygiene.",
+      "indian_climate_factors": "High humidity can worsen infections.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Affects adult Huskies during lactation.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are her mammary glands swollen and painful?",
+        "Is there any discharge?",
+        "Is she lethargic or feverish?"
+      ],
+      "home_care_india": "Keep the mammary glands clean and dry, but seek veterinary attention.",
+      "vet_triggers": "Swelling, pain, discharge, fever.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during humid months.",
+      "prevention_tips": "Maintain good hygiene during lactation.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_011",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Prolonged labor in a Poodle due to fetal malposition.",
+      "indian_climate_factors": "Heat stress can exacerbate complications during labor.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in adult Poodles during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has she been in labor?",
+        "Is there any progress?",
+        "Is she showing signs of distress?"
+      ],
+      "home_care_india": "Keep her calm and comfortable, but seek immediate veterinary attention.",
+      "vet_triggers": "Prolonged labor, lack of progress, maternal distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen the situation during summer months.",
+      "prevention_tips": "Regular veterinary checkups during pregnancy, monitoring fetal position.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "dog_rh_012",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Severe false pregnancy in a Beagle, with significant mammary gland enlargement and milk production.",
+      "indian_climate_factors": "Stress from environmental factors can worsen symptoms.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in adult Beagles.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How swollen are her mammary glands?",
+        "Is she producing milk?",
+        "Is she exhibiting strong maternal behaviors?"
+      ],
+      "home_care_india": "Provide a calm environment, avoid stimulating maternal behaviors, but seek veterinary attention if symptoms are severe.",
+      "vet_triggers": "Severe mammary gland enlargement, milk production, persistent behavioral changes.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_013",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Silent heat in a Rottweiler and Siberian Husky, with minimal outward signs of estrus.",
+      "indian_climate_factors": "Heat stress can mask the usual signs of heat.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Can occur in adult dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Has she been showing any signs of attraction to males?",
+        "Has there been any change in her behavior?",
+        "Is she behaving differently than usual?"
+      ],
+      "home_care_india": "Monitor her closely for any signs of heat, but this is often not problematic if no breeding is intended.",
+      "vet_triggers": "Suspicion of pregnancy without obvious heat signs.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat stress may mask the signs during summer months.",
+      "prevention_tips": "Regular veterinary checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "dog_rh_014",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Uterine infection in a Beagle during pregnancy, potentially linked to exposure to unsanitary conditions.",
+      "indian_climate_factors": "Monsoon season increases the risk of infections.",
+      "breed_predisposition": "No specific predisposition, but can occur in any breed.",
+      "age_considerations": "Affects adult Beagles during pregnancy.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is she lethargic?",
+        "Is there any vaginal discharge?",
+        "Is she showing signs of pain or fever?"
+      ],
+      "home_care_india": "Keep her clean and comfortable, but seek veterinary attention.",
+      "vet_triggers": "Vaginal discharge, fever, lethargy, pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon season.",
+      "prevention_tips": "Maintain hygiene, avoid exposure to unsanitary conditions.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "dog_rh_015",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "siberian_husky"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "A street dog (Poodle mix and Siberian Husky mix) experiencing birthing difficulties due to malnutrition and lack of prenatal care.",
+      "indian_climate_factors": "Exposure to elements and lack of access to proper nutrition during pregnancy exacerbates the problem.",
+      "breed_predisposition": "Mixed breed dogs from street populations are at higher risk of complications due to poor nutrition and lack of care.",
+      "age_considerations": "Affects adult dogs.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has she been in labor?",
+        "Is she weak or exhausted?",
+        "Is there any sign of bleeding?"
+      ],
+      "home_care_india": "Provide a warm and safe place for her to deliver, but immediate veterinary intervention is crucial.",
+      "vet_triggers": "Prolonged labor, maternal weakness, bleeding.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More common during colder months due to increased stress on the mother.",
+      "prevention_tips": "Support organizations that provide care for street animals, including pre- and postnatal care.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Irregular or prolonged heat cycles in a senior dachshund, potentially due to hormonal imbalances.",
+      "indian_climate_factors": "Increased heat and humidity can exacerbate hormonal imbalances.",
+      "breed_predisposition": "Dachshunds are prone to back problems, which can indirectly affect reproductive health.",
+      "age_considerations": "More common in senior dogs due to age-related hormonal changes.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have the cycles been irregular?",
+        "Has she shown any other signs of illness?",
+        "What is her diet like?"
+      ],
+      "home_care_india": "Provide cool, shaded resting areas; ensure access to fresh water.",
+      "vet_triggers": "Prolonged bleeding, lethargy, or signs of pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More pronounced during the hot summer months.",
+      "prevention_tips": "Regular veterinary checkups, balanced diet, and maintaining a healthy weight.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Eclampsia in a Boxer during late pregnancy, possibly due to calcium deficiency exacerbated by poor diet.",
+      "indian_climate_factors": "Nutritional deficiencies are common due to limited access to quality food.",
+      "breed_predisposition": "Boxers are prone to certain genetic predispositions to pregnancy complications.",
+      "age_considerations": "Primarily affects adult females during pregnancy.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the symptoms start?",
+        "Are there any muscle tremors or seizures?",
+        "Is she eating and drinking normally?"
+      ],
+      "home_care_india": "Keep the dog warm and quiet; offer small amounts of water.",
+      "vet_triggers": "Seizures, tremors, lethargy, or any sign of distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May be more common during monsoon due to dietary changes.",
+      "prevention_tips": "Ensure a calcium-rich diet during pregnancy; regular vet checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Dystocia in a Border Collie due to large litter size and narrow birth canal.",
+      "indian_climate_factors": "Heat stress can weaken the mother and complicate labor.",
+      "breed_predisposition": "Border Collies can have large litters.",
+      "age_considerations": "Affects adult females during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has she been in labor?",
+        "Are puppies emerging?",
+        "Is she showing signs of distress?"
+      ],
+      "home_care_india": "Keep her calm and comfortable.",
+      "vet_triggers": "Prolonged labor, visible distress, or no puppies born after several hours.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular prenatal checkups, monitoring litter size.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Pseudopregnancy in a young Australian Shepherd, manifesting in mammary gland enlargement and nesting behavior.",
+      "indian_climate_factors": "Stress from heat and environmental factors can trigger false pregnancies.",
+      "breed_predisposition": "Some breeds are genetically predisposed to false pregnancies.",
+      "age_considerations": "More common in young, sexually mature females.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What are the behavioral changes?",
+        "Are her mammary glands swollen?",
+        "Has she shown any signs of discomfort?"
+      ],
+      "home_care_india": "Provide a comfortable, cool environment; avoid overstimulation.",
+      "vet_triggers": "Severe mammary gland inflammation, signs of infection, or behavioral problems.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be slightly more common during hotter months.",
+      "prevention_tips": "Spaying can prevent false pregnancies; regular exercise to reduce stress.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_uterine_infection_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "uterine infection",
+      "description": "Metritis in a dachshund after a difficult birth, exacerbated by unsanitary conditions.",
+      "indian_climate_factors": "High humidity and poor hygiene increase risk of infection.",
+      "breed_predisposition": "Dachshunds' body shape can make birthing more difficult.",
+      "age_considerations": "Adult dogs after giving birth.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there a foul-smelling discharge?",
+        "Is she lethargic and feverish?",
+        "Has she recently given birth?"
+      ],
+      "home_care_india": "Maintain cleanliness; provide supportive care.",
+      "vet_triggers": "Fever, lethargy, foul-smelling discharge.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to increased humidity.",
+      "prevention_tips": "Maintain hygiene after birth; seek vet care promptly after birth.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_retained_placenta_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "retained placenta",
+      "description": "Retained placenta in a border collie after a complicated delivery, potentially leading to infection.",
+      "indian_climate_factors": "Heat and humidity increase risk of infection.",
+      "breed_predisposition": "No specific breed predisposition, but complications can occur in any breed.",
+      "age_considerations": "Adult dogs after giving birth.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Were all the placentas expelled?",
+        "Is there any discharge?",
+        "Is she showing signs of infection?"
+      ],
+      "home_care_india": "Keep her clean and comfortable; monitor for signs of infection.",
+      "vet_triggers": "Any discharge, fever, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to increased humidity.",
+      "prevention_tips": "Careful monitoring during and after delivery.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_mastitis_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "mastitis",
+      "description": "Mastitis in an Australian Shepherd during lactation, potentially due to poor hygiene.",
+      "indian_climate_factors": "High humidity can exacerbate bacterial growth.",
+      "breed_predisposition": "No specific breed predisposition, but can occur in lactating females.",
+      "age_considerations": "Adult females during lactation.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are the mammary glands swollen and painful?",
+        "Is there any discharge?",
+        "Is she feverish?"
+      ],
+      "home_care_india": "Keep the area clean and dry; apply warm compresses.",
+      "vet_triggers": "Severe pain, fever, significant swelling, or pus.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to increased humidity.",
+      "prevention_tips": "Maintain hygiene during lactation.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_vaginal_prolapse_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "vaginal prolapse",
+      "description": "Vaginal prolapse in a senior dachshund, potentially due to straining or hormonal changes.",
+      "indian_climate_factors": "Heat stress can worsen the condition.",
+      "breed_predisposition": "Dachshunds' body shape can increase risk.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is there a protrusion from the vulva?",
+        "Is she showing any discomfort?",
+        "Has she recently given birth?"
+      ],
+      "home_care_india": "Keep the area clean and moist.",
+      "vet_triggers": "Prolapse, bleeding, or pain.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular veterinary checkups, especially in senior dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_ovarian_cysts_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "ovarian cysts",
+      "description": "Ovarian cysts in a young Boxer, potentially leading to hormonal imbalances.",
+      "indian_climate_factors": "Heat stress can affect hormone regulation.",
+      "breed_predisposition": "No specific breed predisposition, but can occur in any breed.",
+      "age_considerations": "More common in young adult dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are there any behavioral changes?",
+        "Is there any abnormal vaginal discharge?",
+        "Has she been unusually lethargic?"
+      ],
+      "home_care_india": "Provide a comfortable environment; monitor for changes.",
+      "vet_triggers": "Persistent symptoms, changes in behavior, or abnormal discharge.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pyometra_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "pyometra",
+      "description": "Pyometra in a senior Border Collie, a uterine infection potentially fatal if left untreated.",
+      "indian_climate_factors": "Heat and humidity increase risk of bacterial growth.",
+      "breed_predisposition": "No specific breed predisposition, but common in unspayed females.",
+      "age_considerations": "More common in older, unspayed females.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is there a foul-smelling vaginal discharge?",
+        "Is she lethargic, drinking excessively, and vomiting?",
+        "Is she feverish?"
+      ],
+      "home_care_india": "Keep her comfortable and hydrated.",
+      "vet_triggers": "Any signs of infection, lethargy, or excessive drinking/vomiting.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during hotter months.",
+      "prevention_tips": "Spaying is the best prevention.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_ectopic_pregnancy_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "ectopic pregnancy",
+      "description": "Ectopic pregnancy in a dachshund, a life-threatening condition.",
+      "indian_climate_factors": "Heat stress can affect hormone levels.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Adult females.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is she pregnant?",
+        "Is she showing signs of abdominal pain?",
+        "Is she bleeding?"
+      ],
+      "home_care_india": "Keep her quiet and comfortable.",
+      "vet_triggers": "Abdominal pain, bleeding, signs of shock.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Prenatal checkups.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_vaginal_discharge_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "vaginal discharge",
+      "description": "Abnormal vaginal discharge in a Boxer, possibly indicating infection or hormonal imbalance.",
+      "indian_climate_factors": "Humidity can promote bacterial growth.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What color and consistency is the discharge?",
+        "Is there any odor?",
+        "Is she showing other symptoms?"
+      ],
+      "home_care_india": "Keep the area clean and dry.",
+      "vet_triggers": "Persistent discharge, foul odor, or other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during monsoon.",
+      "prevention_tips": "Regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_infertility_43",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "infertility",
+      "description": "Infertility in a border collie, possibly due to underlying health issues or poor nutrition.",
+      "indian_climate_factors": "Poor nutrition due to limited access to quality food.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has she been trying to conceive?",
+        "What is her diet?",
+        "Has she had any previous reproductive issues?"
+      ],
+      "home_care_india": "Ensure a balanced diet; provide a stress-free environment.",
+      "vet_triggers": "Inability to conceive after multiple attempts.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Balanced diet, regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_stillbirth_44",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "stillbirth",
+      "description": "Stillbirth in an Australian Shepherd, potentially due to stress or underlying health conditions.",
+      "indian_climate_factors": "Heat stress can affect fetal development.",
+      "breed_predisposition": "No specific breed predisposition.",
+      "age_considerations": "Adult females.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Was there any sign of distress during pregnancy?",
+        "What was her diet like?",
+        "Were there any complications during labor?"
+      ],
+      "home_care_india": "Provide supportive care to the mother.",
+      "vet_triggers": "Stillbirth; any signs of distress in the mother.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during hotter months.",
+      "prevention_tips": "Prenatal checkups, stress reduction.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_anestrus_45",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer",
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "anestrus",
+      "description": "Prolonged absence of estrus (heat) cycles across various breeds, potentially due to stress, malnutrition, or underlying illness in a street dog.",
+      "indian_climate_factors": "Malnutrition, stress from environmental factors, and exposure to diseases are prevalent.",
+      "breed_predisposition": "No specific breed predisposition, but common in undernourished or stressed animals.",
+      "age_considerations": "Can affect dogs of any age, but more common in adults.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has she not had a heat cycle?",
+        "What is her body condition?",
+        "Has she had access to clean water and adequate food?"
+      ],
+      "home_care_india": "Improve diet and provide clean water; reduce stress.",
+      "vet_triggers": "Persistent absence of heat cycles, underlying health concerns.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be influenced by seasonal changes in food availability and stress.",
+      "prevention_tips": "Ensure proper nutrition and a stress-free environment; regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_46",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Persian cat experiencing prolonged and intense heat cycles, possibly due to hormonal imbalance.",
+      "indian_climate_factors": "Increased heat and humidity can exacerbate the discomfort of heat cycles.",
+      "breed_predisposition": "Persians are prone to hormonal imbalances.",
+      "age_considerations": "More common in adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the heat cycle lasted?",
+        "Is she showing signs of distress?",
+        "Has she been spayed?"
+      ],
+      "home_care_india": "Provide cool, shaded resting areas, plenty of fresh water.",
+      "vet_triggers": "If the heat cycle lasts longer than 3 weeks or shows signs of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent and intense during warmer months.",
+      "prevention_tips": "Spaying is recommended to prevent heat cycles and associated problems.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_47",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Siamese cat experiencing pregnancy toxemia due to malnutrition.",
+      "indian_climate_factors": "Poor quality street food during monsoon can lead to nutritional deficiencies.",
+      "breed_predisposition": "Siamese cats can be picky eaters.",
+      "age_considerations": "More common in adult cats during first pregnancy.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is she eating properly?",
+        "Has she lost weight?",
+        "Is she lethargic?"
+      ],
+      "home_care_india": "Provide high-quality food, monitor closely.",
+      "vet_triggers": "Any signs of weakness, lethargy, or lack of appetite.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to poor food quality.",
+      "prevention_tips": "Ensure proper nutrition throughout pregnancy.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_48",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Maine Coon experiencing dystocia due to large kitten size.",
+      "indian_climate_factors": "High temperatures can increase stress during labor.",
+      "breed_predisposition": "Maine Coons are known for large litters and large kittens.",
+      "age_considerations": "Adult cats, especially during first litter.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is she straining to deliver?",
+        "How long has she been in labor?",
+        "Are kittens visible?"
+      ],
+      "home_care_india": "Keep her calm and comfortable in a quiet place.",
+      "vet_triggers": "Prolonged labor, no progress in delivery, signs of distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during hot and humid periods.",
+      "prevention_tips": "Regular vet checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_49",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Persian cat exhibiting pseudopregnancy with mammary gland enlargement.",
+      "indian_climate_factors": "Heat stress can worsen hormonal imbalances.",
+      "breed_predisposition": "Hormonal imbalances are more common in Persians.",
+      "age_considerations": "Common in adult cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is she nesting?",
+        "Are her nipples swollen?",
+        "Is she exhibiting maternal behavior?"
+      ],
+      "home_care_india": "Provide a comfortable environment, avoid stimulating maternal instincts. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If symptoms are severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common in warmer months.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_50",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese",
+        "maine_coon"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Siamese and Maine Coon cats experiencing irregular heat cycles due to stress.",
+      "indian_climate_factors": "Noise and air pollution in urban areas can cause stress.",
+      "breed_predisposition": "Stress can affect both breeds.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent are the cycles?",
+        "Are there any other signs of stress?",
+        "Is she living in a stressful environment?"
+      ],
+      "home_care_india": "Provide a calm and quiet environment.",
+      "vet_triggers": "If cycles become very frequent or infrequent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May vary depending on environmental stress levels.",
+      "prevention_tips": "Minimize stress by providing a safe and comfortable environment.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_51",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Persian cat experiencing uterine infection during pregnancy due to poor hygiene.",
+      "indian_climate_factors": "Dust and poor sanitation can increase infection risk.",
+      "breed_predisposition": "Persians can be more susceptible to infections.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there any vaginal discharge?",
+        "Is she feverish?",
+        "Does she seem unwell?"
+      ],
+      "home_care_india": "Maintain cleanliness, provide supportive care.",
+      "vet_triggers": "Any signs of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon season.",
+      "prevention_tips": "Maintain good hygiene, regular vet checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_52",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Maine Coon experiencing retained placenta after birth due to weak uterine contractions.",
+      "indian_climate_factors": "Heat stress can weaken uterine contractions.",
+      "breed_predisposition": "Large litters can lead to weak contractions.",
+      "age_considerations": "Adult cats, especially older mothers.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Has she delivered all the kittens?",
+        "Is there any bleeding?",
+        "Does she seem unwell?"
+      ],
+      "home_care_india": "Keep her warm and comfortable.",
+      "vet_triggers": "Any signs of retained placenta.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Higher risk during hot months.",
+      "prevention_tips": "Ensure proper nutrition and hydration during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_53",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Siamese cat exhibiting pseudopregnancy with aggressive nesting behavior.",
+      "indian_climate_factors": "Monsoon rains can lead to damp nesting sites.",
+      "breed_predisposition": "Siamese are prone to hormonal fluctuations.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has this behavior been present?",
+        "Is she hoarding objects?",
+        "Is she showing any other signs of distress?"
+      ],
+      "home_care_india": "Remove nesting materials, provide a comfortable environment. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If behavior is disruptive or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be influenced by environmental changes.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_54",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Kitten Persian experiencing early onset of heat due to genetic predisposition.",
+      "indian_climate_factors": "Early onset can be exacerbated by warm temperatures.",
+      "breed_predisposition": "Genetic factors can influence the timing of first heat.",
+      "age_considerations": "Young kittens.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How old is the kitten?",
+        "How long has she been showing signs of heat?",
+        "Is she exhibiting any other unusual behaviors?"
+      ],
+      "home_care_india": "Provide a comfortable environment, monitor closely.",
+      "vet_triggers": "If heat cycle is unusually early or prolonged.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more noticeable during warmer months.",
+      "prevention_tips": "Monitor closely for any signs of early onset.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_55",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Senior Maine Coon experiencing pregnancy complications due to age-related health issues.",
+      "indian_climate_factors": "Heat stress can worsen existing health problems.",
+      "breed_predisposition": "Older cats are more susceptible to health problems.",
+      "age_considerations": "Senior cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What is her overall health status?",
+        "Does she have any pre-existing conditions?",
+        "Is she exhibiting any signs of illness?"
+      ],
+      "home_care_india": "Provide supportive care, monitor closely.",
+      "vet_triggers": "Any signs of illness or complications.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can exacerbate existing conditions.",
+      "prevention_tips": "Thorough vet checkups before breeding senior cats.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_56",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Siamese cat experiencing prolonged labor due to uterine inertia.",
+      "indian_climate_factors": "Humidity can affect uterine muscle function.",
+      "breed_predisposition": "Uterine inertia can occur in any breed.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has she been in labor?",
+        "Is she straining effectively?",
+        "Are there any signs of distress?"
+      ],
+      "home_care_india": "Keep her calm and comfortable.",
+      "vet_triggers": "Prolonged labor without progress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "May be affected by humidity levels.",
+      "prevention_tips": "Regular vet checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_57",
+      "species": "cats",
+      "breeds_affected": [
+        "persian"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Street Persian cat exhibiting false pregnancy with inadequate nutrition.",
+      "indian_climate_factors": "Scarcity of food during monsoon can worsen nutritional deficiency.",
+      "breed_predisposition": "Hormonal imbalances can be worsened by stress and malnutrition.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is her typical diet?",
+        "Is she losing weight?",
+        "Is she showing any signs of illness?"
+      ],
+      "home_care_india": "Provide supplemental food, monitor closely. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "Significant weight loss, signs of illness.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during periods of food scarcity.",
+      "prevention_tips": "Provide supplemental food and shelter if possible.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_58",
+      "species": "cats",
+      "breeds_affected": [
+        "maine_coon"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Maine Coon experiencing anestrus (absence of heat cycles) due to stress and malnutrition.",
+      "indian_climate_factors": "Extreme heat and poor quality food can cause hormonal imbalances.",
+      "breed_predisposition": "Stress and malnutrition can affect reproductive cycles.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When was her last heat cycle?",
+        "What is her diet?",
+        "Is she showing any signs of stress?"
+      ],
+      "home_care_india": "Provide nutritious food, reduce stress.",
+      "vet_triggers": "Prolonged absence of heat cycles.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during extreme weather conditions.",
+      "prevention_tips": "Ensure good nutrition and minimal stress.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_59",
+      "species": "cats",
+      "breeds_affected": [
+        "siamese"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Siamese cat experiencing mastitis (mammary gland infection) post-partum due to poor hygiene.",
+      "indian_climate_factors": "High humidity can increase the risk of infection.",
+      "breed_predisposition": "Mastitis can occur in any breed.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Are her nipples swollen?",
+        "Is there any discharge?",
+        "Is she feverish?"
+      ],
+      "home_care_india": "Maintain cleanliness, provide supportive care.",
+      "vet_triggers": "Any signs of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during humid months.",
+      "prevention_tips": "Maintain good hygiene post-partum.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_60",
+      "species": "cats",
+      "breeds_affected": [
+        "persian",
+        "maine_coon"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Persian and Maine Coon cats experiencing breech presentation during labor.",
+      "indian_climate_factors": "Stress from high temperatures can complicate labor.",
+      "breed_predisposition": "Large kittens in Maine Coons and brachycephalic features in Persians can cause difficulties.",
+      "age_considerations": "Adult cats.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the kitten presenting abnormally?",
+        "Is she straining effectively?",
+        "Is she showing signs of distress?"
+      ],
+      "home_care_india": "Keep her calm and comfortable.",
+      "vet_triggers": "Abnormal presentation during labor.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen the situation.",
+      "prevention_tips": "Regular vet checkups during pregnancy, especially for high-risk breeds.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_61",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "British Shorthairs experience prolonged or irregular heat cycles, especially in hot, humid Indian summers.  This can lead to exhaustion and increased risk of infection.",
+      "indian_climate_factors": "High temperatures and humidity exacerbate heat cycle symptoms, leading to dehydration and discomfort.",
+      "breed_predisposition": "British Shorthairs, while generally healthy, can be prone to hormonal imbalances affecting their cycles.",
+      "age_considerations": "More common in adult cats (1-7 years).",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the heat cycle lasted?",
+        "Is she exhibiting excessive vocalization or restlessness?",
+        "Is there any vaginal discharge?"
+      ],
+      "home_care_india": "Provide cool, shaded areas, plenty of fresh water, and a calming environment. Avoid stressful situations.",
+      "vet_triggers": "If the heat cycle lasts longer than 3 weeks, or if there's excessive bleeding or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More frequent and intense during summers.",
+      "prevention_tips": "Regular veterinary checkups to monitor hormone levels.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_62",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Ragdolls, known for their docile nature, can experience gestational diabetes due to their predisposition to obesity, exacerbated by readily available food in urban settings.",
+      "indian_climate_factors": "Heat stress can worsen gestational diabetes, leading to complications.",
+      "breed_predisposition": "Ragdolls' tendency towards obesity increases the risk of gestational diabetes.",
+      "age_considerations": "Primarily affects adult cats during pregnancy.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is the cat exhibiting excessive thirst or urination?",
+        "Has she gained excessive weight?",
+        "Is there any unusual vaginal discharge?"
+      ],
+      "home_care_india": "Monitor food intake closely, provide ample fresh water, and ensure a comfortable, cool environment.",
+      "vet_triggers": "Any signs of gestational diabetes, such as excessive thirst, weight gain, or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during warmer months.",
+      "prevention_tips": "Maintain a healthy weight before and during pregnancy, with a vet-approved diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_63",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Bengals, with their larger size, can sometimes experience dystocia (difficult labor).  Street Bengals may face added risks due to malnutrition and infections.",
+      "indian_climate_factors": "Monsoon season increases the risk of infection, potentially complicating labor.",
+      "breed_predisposition": "Larger size can lead to difficulties during birthing.",
+      "age_considerations": "Affects adult cats during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is the cat straining to deliver kittens?",
+        "Has she been pushing for an extended period?",
+        "Is there any visible distress?"
+      ],
+      "home_care_india": "Keep the cat calm and warm.  Prepare a clean, quiet birthing area.",
+      "vet_triggers": "Any sign of difficult labor, prolonged pushing, or fetal distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Increased risk during monsoon due to infections.",
+      "prevention_tips": "Pre-natal checkups to monitor fetal development and ensure proper nutrition.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_64",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll",
+        "british_shorthair"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Both Ragdolls and British Shorthairs can experience pseudopregnancy, potentially worsened by stress from urban noise and pollution.",
+      "indian_climate_factors": "Heat stress can increase hormonal imbalances, contributing to false pregnancy.",
+      "breed_predisposition": "Hormonal fluctuations can trigger false pregnancy in these breeds.",
+      "age_considerations": "More common in adult cats.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the cat exhibiting nesting behavior?",
+        "Is she producing milk?",
+        "Is she showing maternal instincts without being pregnant?"
+      ],
+      "home_care_india": "Provide a calm environment, avoid petting the abdomen excessively.",
+      "vet_triggers": "If symptoms are severe or prolonged.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Spaying can prevent false pregnancies.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_65",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Bengal cats may experience unusually short or intense heat cycles, potentially linked to their active nature and stress from environmental factors.",
+      "indian_climate_factors": "Dust and air pollution can irritate the reproductive tract, affecting cycle regularity.",
+      "breed_predisposition": "Their energetic nature can lead to hormonal imbalances.",
+      "age_considerations": "Adult cats are mostly affected.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How frequent are the heat cycles?",
+        "How long do they last?",
+        "Are there any unusual behaviors?"
+      ],
+      "home_care_india": "Provide a clean and stress-free environment.",
+      "vet_triggers": "If cycles are unusually short or long, or if there is excessive bleeding.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Might be slightly more intense in warmer months.",
+      "prevention_tips": "Regular veterinary checkups to monitor hormone levels.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_66",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "British Shorthairs can experience uterine infections during pregnancy, especially if exposed to unsanitary conditions.",
+      "indian_climate_factors": "Monsoon humidity increases the risk of bacterial infections.",
+      "breed_predisposition": "No specific breed predisposition, but environmental factors play a role.",
+      "age_considerations": "Affects adult cats during pregnancy.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Is there any unusual vaginal discharge?",
+        "Is the cat lethargic or feverish?",
+        "Is she exhibiting abdominal pain?"
+      ],
+      "home_care_india": "Maintain a clean environment and monitor for any signs of infection.",
+      "vet_triggers": "Any signs of infection, such as fever, discharge, or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon season.",
+      "prevention_tips": "Maintain a clean and hygienic environment during pregnancy.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_67",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Ragdolls, due to their relaxed nature, might not show early signs of birthing complications, leading to delayed veterinary intervention.",
+      "indian_climate_factors": "Extreme heat can weaken the cat, making labor more difficult.",
+      "breed_predisposition": "Their docile nature can mask early signs of birthing problems.",
+      "age_considerations": "Adult cats during labor.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "How long has she been in labor?",
+        "Are kittens emerging?",
+        "Is she showing signs of distress?"
+      ],
+      "home_care_india": "Provide a quiet, warm, and clean birthing environment.",
+      "vet_triggers": "Any sign of prolonged labor or distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Heat stress can worsen difficulties during summer.",
+      "prevention_tips": "Regular veterinary checkups during pregnancy.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_68",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal",
+        "ragdoll"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Bengal and Ragdoll cats can exhibit false pregnancy, potentially triggered by hormonal imbalances influenced by diet.",
+      "indian_climate_factors": "Poor quality street food can disrupt hormonal balance.",
+      "breed_predisposition": "Hormonal fluctuations can trigger false pregnancy.",
+      "age_considerations": "Adult cats are primarily affected.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the cat nesting?",
+        "Is she producing milk?",
+        "Is she showing maternal behaviors without being pregnant?"
+      ],
+      "home_care_india": "Ensure a balanced diet, provide a calm environment.",
+      "vet_triggers": "Persistent symptoms or if the cat is distressed.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Provide a balanced diet and consider spaying.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_heat_cycle_issues_69",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "heat_cycle_conditions",
+      "description": "Older British Shorthairs might experience infrequent or absent heat cycles due to age-related hormonal changes.",
+      "indian_climate_factors": "Heat can exacerbate age-related hormonal imbalances.",
+      "breed_predisposition": "Age-related hormonal changes affect all breeds, but symptoms might vary.",
+      "age_considerations": "Primarily affects senior cats (7+ years).",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When was the last heat cycle?",
+        "Is the cat showing any signs of discomfort?",
+        "Is she spayed?"
+      ],
+      "home_care_india": "Provide comfortable environment and monitor for any changes.",
+      "vet_triggers": "If there are concerns about infertility or reproductive health.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat might worsen symptoms in summer.",
+      "prevention_tips": "Regular veterinary checkups for senior cats.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_70",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Ragdolls may experience retained placenta after birth, a complication potentially influenced by poor nutrition.",
+      "indian_climate_factors": "Poor quality food during pregnancy can weaken the cat.",
+      "breed_predisposition": "No specific breed predisposition, but nutrition plays a crucial role.",
+      "age_considerations": "Adult cats after birth.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "Has the placenta been fully expelled?",
+        "Is the cat exhibiting signs of infection?",
+        "Is she lethargic or unwell?"
+      ],
+      "home_care_india": "Provide a clean and comfortable environment, monitor for signs of infection.",
+      "vet_triggers": "Any signs of retained placenta or infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Ensure proper nutrition during pregnancy.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "rep_birthing_difficultie_71",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "birthing_difficulties",
+      "description": "Young Bengal mothers might lack experience, leading to prolonged labor and birthing complications.",
+      "indian_climate_factors": "High humidity can increase the risk of infection during labor.",
+      "breed_predisposition": "Lack of experience in first-time mothers.",
+      "age_considerations": "Young adult cats during their first pregnancy.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "Is this her first pregnancy?",
+        "How long has she been in labor?",
+        "Are there signs of fetal distress?"
+      ],
+      "home_care_india": "Provide a clean, quiet, and warm environment.",
+      "vet_triggers": "Prolonged labor, lack of progress, or signs of fetal distress.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Monsoon season increases risk of infection.",
+      "prevention_tips": "Pre-natal care and education for first-time mothers.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "rep_false_pregnancy_72",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "bengal"
+      ],
+      "symptom": "false_pregnancy",
+      "description": "Both breeds can experience false pregnancy, potentially aggravated by stress from living in crowded urban areas.",
+      "indian_climate_factors": "Urban heat island effect can increase stress levels.",
+      "breed_predisposition": "Hormonal fluctuations and stress can trigger false pregnancy.",
+      "age_considerations": "Adult cats are commonly affected.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "Is the cat showing nesting behaviors?",
+        "Is she producing milk?",
+        "Is she exhibiting maternal behaviors?"
+      ],
+      "home_care_india": "Provide a calm and comfortable environment, avoid petting the abdomen excessively.",
+      "vet_triggers": "Persistent symptoms or if the cat is showing signs of distress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Spaying can prevent future occurrences.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "rep_pregnancy_complicati_73",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "pregnancy_complications",
+      "description": "Ragdolls can develop mastitis (breast infection) during or after pregnancy, potentially worsened by poor hygiene.",
+      "indian_climate_factors": "High humidity and poor sanitation increase risk of infection.",
+      "breed_predisposition": "No specific breed predisposition, but hygiene plays a role.",
+      "age_considerations": "Adult cats during or after pregnancy.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are the breasts swollen or painful?",
+        "Is there any discharge?",
+        "Is the cat feverish or lethargic?"
+      ],
+      "home_care_india": "Maintain good hygiene, keep the area clean and dry.",
+      "vet_triggers": "Any signs of infection, such as swelling, pain, fever, or lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Higher risk during monsoon due to increased humidity.",
+      "prevention_tips": "Maintain good hygiene and provide a clean environment.",
+      "severity": "urgent"
+    }
+  ]
+}

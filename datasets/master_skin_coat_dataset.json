@@ -1,0 +1,1732 @@
+{
+  "metadata": {
+    "category": "skin_coat",
+    "total_entries": 70,
+    "generation_date": "2025-09-25 16:29:45",
+    "api_calls_used": 41,
+    "species_covered": [
+      "dogs",
+      "cats"
+    ],
+    "breeds_covered": 18
+  },
+  "entries": [
+    {
+      "entry_id": "skn_itching_and_mild_hai_1",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Itching and mild hair loss",
+      "description": "Labrador puppy experiencing mild itching and patchy hair loss around the neck and belly.  Appears otherwise healthy and playful.",
+      "indian_climate_factors": "Increased humidity exacerbates itching during monsoon.",
+      "breed_predisposition": "Labradors have a dense double coat, making them prone to skin irritation from trapped moisture.",
+      "age_considerations": "Puppies have sensitive skin, making them more susceptible to environmental irritants.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "Is there any redness or inflammation?",
+        "Has the puppy been exposed to new environments or foods?"
+      ],
+      "home_care_india": "Regular gentle brushing, lukewarm baths with oatmeal shampoo, keeping the coat dry during monsoon.",
+      "vet_triggers": "If itching worsens, hair loss becomes significant, or secondary infections develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and summer due to humidity and heat.",
+      "prevention_tips": "Regular grooming, flea and tick prevention, balanced diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_severe_hot_spots_2",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever",
+        "german_shepherd"
+      ],
+      "symptom": "Severe hot spots",
+      "description": "Adult Golden Retriever and German Shepherd mix with large, inflamed, oozing hot spots on their backs, showing signs of significant discomfort.",
+      "indian_climate_factors": "Heat and humidity create a breeding ground for bacteria causing hot spots.",
+      "breed_predisposition": "Long-haired breeds like Golden Retrievers are more prone to hot spots due to poor air circulation.",
+      "age_considerations": "Adult dogs are more prone to hot spots due to compromised immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the hot spots appear?",
+        "Has there been any trauma to the skin?",
+        "Is the dog licking or scratching excessively?"
+      ],
+      "home_care_india": "Keep the area clean and dry, apply a vet-recommended topical antiseptic, avoid harsh shampoos.",
+      "vet_triggers": "Immediate veterinary attention needed due to risk of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Most prevalent during summer and monsoon.",
+      "prevention_tips": "Regular grooming, flea and tick prevention, maintaining a healthy weight.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_fungal_infection_(ri_3",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Fungal infection (ringworm)",
+      "description": "Senior Bulldog with circular, scaly patches of hair loss on its legs, indicative of ringworm.  The dog is lethargic.",
+      "indian_climate_factors": "Warm, humid climate favors fungal growth.",
+      "breed_predisposition": "Bulldogs' skin folds trap moisture, creating a perfect environment for fungal growth.",
+      "age_considerations": "Senior dogs have weaker immune systems, making them more vulnerable to fungal infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long have the patches been present?",
+        "Has the dog been in contact with other animals?",
+        "Is there any itching or discomfort?"
+      ],
+      "home_care_india": "Keep the affected area clean and dry, use a vet-recommended antifungal cream.",
+      "vet_triggers": "If the infection spreads or doesn't respond to home treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and summer.",
+      "prevention_tips": "Regular cleaning of skin folds, avoid contact with infected animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_allergies_(environme_4",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Allergies (environmental)",
+      "description": "Adult Labrador experiencing intense itching and redness, particularly after walks in dusty areas.",
+      "indian_climate_factors": "Dust and pollen levels are high in many parts of India, worsening allergies.",
+      "breed_predisposition": "Labradors are prone to various allergies.",
+      "age_considerations": "Allergies can develop at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What triggers the itching?",
+        "Are there any visible rashes?",
+        "Has the dog been exposed to new cleaning products or perfumes?"
+      ],
+      "home_care_india": "Regular bathing with hypoallergenic shampoo, avoid exposure to known allergens.",
+      "vet_triggers": "If symptoms are severe or don't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during dry seasons (winter) and during monsoon due to pollen and mold.",
+      "prevention_tips": "Regular grooming, hypoallergenic diet, avoiding dusty areas.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_parasites_(fleas)_5",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Parasites (fleas)",
+      "description": "Young German Shepherd with excessive scratching and flea dirt visible in its coat.",
+      "indian_climate_factors": "Warm climate favors flea reproduction.",
+      "breed_predisposition": "German Shepherds can be susceptible to flea infestations.",
+      "age_considerations": "Puppies and young dogs are more susceptible to parasites.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Have you noticed any fleas on the dog?",
+        "Is the dog scratching excessively?",
+        "Are there any bite marks?"
+      ],
+      "home_care_india": "Use a vet-recommended flea shampoo and comb.",
+      "vet_triggers": "If infestation is severe or home treatments are ineffective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during warmer months.",
+      "prevention_tips": "Regular flea and tick prevention medication.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_itching_and_dandruff_6",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Itching and dandruff",
+      "description": "Adult Golden Retriever with dry, flaky skin and excessive itching.",
+      "indian_climate_factors": "Dry winter air can worsen dandruff.",
+      "breed_predisposition": "Golden Retrievers can be prone to dry skin conditions.",
+      "age_considerations": "Can occur in any age group, but more common in older dogs.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the dandruff been present?",
+        "Is the skin dry or oily?",
+        "Is there any redness or inflammation?"
+      ],
+      "home_care_india": "Use a moisturizing shampoo, regular brushing.",
+      "vet_triggers": "If dandruff is severe or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during winter.",
+      "prevention_tips": "Balanced diet, regular grooming, omega-3 fatty acid supplements.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_skin_fold_dermatitis_7",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Skin fold dermatitis",
+      "description": "Bulldog with inflammation and redness in skin folds, exhibiting a musty odor.",
+      "indian_climate_factors": "Heat and humidity worsen skin fold infections.",
+      "breed_predisposition": "Bulldogs' skin folds are prone to infection and irritation.",
+      "age_considerations": "More common in adult and senior bulldogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the inflammation been present?",
+        "Is there any discharge or odor?",
+        "Is the dog licking or scratching the area?"
+      ],
+      "home_care_india": "Keep skin folds clean and dry, use a vet-recommended antiseptic. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If infection develops or home care is ineffective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during summer and monsoon.",
+      "prevention_tips": "Regular cleaning of skin folds, keeping the dog dry.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_allergic_contact_der_8",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever",
+        "golden_retriever"
+      ],
+      "symptom": "Allergic contact dermatitis",
+      "description": "Labrador and Golden Retriever mix with localized itching and redness after contact with a new carpet cleaner.",
+      "indian_climate_factors": "Exposure to harsh cleaning products is common in urban areas.",
+      "breed_predisposition": "Retrievers can have sensitive skin.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What new substances has the dog been exposed to?",
+        "Is the itching localized?",
+        "Is there any swelling?"
+      ],
+      "home_care_india": "Wash the affected area with mild soap and water, avoid further contact with the allergen.",
+      "vet_triggers": "If symptoms are severe or widespread.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Avoid exposure to harsh chemicals and potential allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_mange_(sarcoptic)_9",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd"
+      ],
+      "symptom": "Mange (sarcoptic)",
+      "description": "German Shepherd with intense itching, hair loss, and scabby lesions, suspected mange.",
+      "indian_climate_factors": "Warm, humid climate can accelerate mange mite reproduction.",
+      "breed_predisposition": "German Shepherds can be susceptible to mange.",
+      "age_considerations": "Can occur in any age group.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have the symptoms been present?",
+        "Is there intense itching?",
+        "Are there any scabs or lesions?"
+      ],
+      "home_care_india": "NONE - Requires veterinary attention immediately.",
+      "vet_triggers": "Immediate veterinary care is crucial.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More prevalent in warm, humid months.",
+      "prevention_tips": "Regular preventative treatments, avoid contact with infected animals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "skn_seborrhea_10",
+      "species": "dogs",
+      "breeds_affected": [
+        "bulldog"
+      ],
+      "symptom": "Seborrhea",
+      "description": "Adult Bulldog with oily, greasy skin and excessive scaling.",
+      "indian_climate_factors": "Humidity can worsen seborrhea.",
+      "breed_predisposition": "Bulldogs can be prone to seborrhea.",
+      "age_considerations": "More common in adult and senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the condition been present?",
+        "Is the skin oily or dry?",
+        "Is there any itching or hair loss?"
+      ],
+      "home_care_india": "Use a vet-recommended shampoo, regular grooming.",
+      "vet_triggers": "If symptoms are severe or don't improve with home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during humid seasons.",
+      "prevention_tips": "Balanced diet, regular grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_atopic_dermatitis_11",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Atopic Dermatitis",
+      "description": "Young Labrador with chronic itching, redness, and thickened skin, consistent with atopic dermatitis.",
+      "indian_climate_factors": "Pollen and dust can trigger flares.",
+      "breed_predisposition": "Labradors are a predisposed breed.",
+      "age_considerations": "Often presents in young dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the symptoms start?",
+        "Is there chronic itching?",
+        "Has the dog been tested for allergies?"
+      ],
+      "home_care_india": "Regular bathing with hypoallergenic shampoo, omega-3 fatty acid supplements.",
+      "vet_triggers": "Requires veterinary diagnosis and management plan.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Seasonal variations depending on allergen exposure.",
+      "prevention_tips": "Allergen avoidance, regular veterinary checkups, allergy testing.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_pyoderma_12",
+      "species": "dogs",
+      "breeds_affected": [
+        "golden_retriever"
+      ],
+      "symptom": "Pyoderma",
+      "description": "Senior Golden Retriever with pustules and sores on its skin, indicative of pyoderma.",
+      "indian_climate_factors": "Heat and humidity can exacerbate bacterial infections.",
+      "breed_predisposition": "Golden Retrievers can be susceptible due to skin folds.",
+      "age_considerations": "More common in senior dogs with weakened immune systems.",
+      "severity_level": "emergency",
+      "questions_to_ask": [
+        "When did the sores appear?",
+        "Is there pus or discharge?",
+        "Is the dog feverish or lethargic?"
+      ],
+      "home_care_india": "Keep the area clean and dry, avoid harsh soaps.",
+      "vet_triggers": "Immediate veterinary care is required.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More prevalent during hot and humid seasons.",
+      "prevention_tips": "Regular grooming, balanced diet, and prompt treatment of underlying skin conditions.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "skn_hair_loss_(alopecia)_13",
+      "species": "dogs",
+      "breeds_affected": [
+        "german_shepherd",
+        "bulldog"
+      ],
+      "symptom": "Hair loss (alopecia)",
+      "description": "Adult German Shepherd and Bulldog experiencing patchy hair loss without other symptoms.",
+      "indian_climate_factors": "Nutritional deficiencies can be exacerbated by poor-quality street food.",
+      "breed_predisposition": "Certain breeds are genetically predisposed to alopecia.",
+      "age_considerations": "Can occur at any age but more common in adults.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the hair loss been occurring?",
+        "Is there any itching or inflammation?",
+        "What is the dog's diet?"
+      ],
+      "home_care_india": "Provide a balanced diet, ensure good hygiene.",
+      "vet_triggers": "If hair loss is rapid, widespread, or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variation.",
+      "prevention_tips": "Balanced nutrition, regular veterinary checkups.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_demodectic_mange_14",
+      "species": "dogs",
+      "breeds_affected": [
+        "labrador_retriever"
+      ],
+      "symptom": "Demodectic Mange",
+      "description": "Puppy Labrador Retriever with hair loss around the eyes and muzzle, suspected Demodectic Mange.",
+      "indian_climate_factors": "Warm and humid conditions can exacerbate mite proliferation.",
+      "breed_predisposition": "Labrador Retrievers can be susceptible, especially puppies.",
+      "age_considerations": "Common in puppies due to immature immune systems.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did the hair loss start?",
+        "Is it localized or widespread?",
+        "Is there any scaling or redness?"
+      ],
+      "home_care_india": "Keep the area clean and dry, use vet-recommended treatment.",
+      "vet_triggers": "Requires veterinary diagnosis and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during warmer months.",
+      "prevention_tips": "Regular veterinary checkups, especially for puppies.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_itching_and_flaky_sk_15",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Itching and flaky skin",
+      "description": "A 5-year-old poodle experiencing intense itching, particularly around the ears and paws, with noticeable dandruff-like flakes.  The coat appears dull.",
+      "indian_climate_factors": "Increased humidity exacerbates dryness and itching.",
+      "breed_predisposition": "Poodles, with their thick coats, are prone to skin allergies.",
+      "age_considerations": "Adult dogs are more susceptible to environmental allergies.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is your dog scratching excessively?",
+        "Has there been a change in diet?",
+        "Has your dog been exposed to new environments?"
+      ],
+      "home_care_india": "Use a hypoallergenic shampoo and a moisturizing conditioner.  Keep the dog cool and dry, especially during monsoon.",
+      "vet_triggers": "If itching persists despite home care or secondary infections develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry winters and monsoon due to dust and humidity.",
+      "prevention_tips": "Regular bathing with hypoallergenic shampoos, maintaining a clean environment, and using a humidifier during dry seasons.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_hot_spots_16",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Hot spots",
+      "description": "A young beagle with multiple, inflamed, moist, and raw hot spots on its abdomen, likely due to flea bites.",
+      "indian_climate_factors": "Heat and humidity accelerate the development and spread of hot spots.",
+      "breed_predisposition": "Beagles' short coats offer less protection from parasites.",
+      "age_considerations": "Puppies are particularly susceptible to parasite infestations.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you first notice the hot spots?",
+        "Does your dog scratch excessively?",
+        "Are there any visible parasites?"
+      ],
+      "home_care_india": "Clean the areas gently with lukewarm water and mild antiseptic. Keep the area dry and prevent licking.",
+      "vet_triggers": "If hot spots are extensive, deep, or if there is secondary infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during the hot and humid summer months.",
+      "prevention_tips": "Regular flea and tick prevention, keeping the dog's coat clean and dry.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_hair_loss_and_skin_s_17",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Hair loss and skin scaling",
+      "description": "An adult Rottweiler exhibiting patchy hair loss and significant skin scaling, possibly due to a fungal infection.",
+      "indian_climate_factors": "Monsoon's dampness promotes fungal growth.",
+      "breed_predisposition": "Rottweilers have a double coat that can trap moisture, fostering fungal infections.",
+      "age_considerations": "Adult dogs are more prone to fungal infections.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the hair loss been present?",
+        "Are there any circular, scaly patches?",
+        "Has your dog been exposed to other animals?"
+      ],
+      "home_care_india": "Keep the dog's environment clean and dry. Use a vet-recommended antifungal shampoo. Consider consulting a professional dog trainer or animal behaviorist for long-term management.",
+      "vet_triggers": "If the condition worsens, or if there are signs of secondary bacterial infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during the monsoon season.",
+      "prevention_tips": "Regular grooming, maintaining a clean environment, and avoiding contact with infected animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_severe_itching_and_a_18",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Severe itching and allergies",
+      "description": "A senior Siberian Husky experiencing severe itching, leading to self-trauma and secondary infections. Possible environmental allergies.",
+      "indian_climate_factors": "Dust and pollutants in urban areas trigger allergies.",
+      "breed_predisposition": "Siberian Huskies, with their thick double coats, are susceptible to allergies.",
+      "age_considerations": "Senior dogs' immune systems may be less effective at managing allergies.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What are your dog's symptoms?",
+        "What has changed in their environment?",
+        "Has your dog been tested for allergies before?"
+      ],
+      "home_care_india": "Regular bathing with hypoallergenic shampoo, minimizing exposure to allergens, and using anti-itch medications (vet-prescribed).",
+      "vet_triggers": "Severe itching, self-trauma, secondary infections, or lack of response to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dry winters and dusty summers.",
+      "prevention_tips": "Regular grooming, using air purifiers, and avoiding exposure to known allergens.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_fungal_infection_(ri_19",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle",
+        "beagle"
+      ],
+      "symptom": "Fungal infection (ringworm)",
+      "description": "Both a poodle and beagle puppy show circular, scaly patches on their skin, suggestive of ringworm.",
+      "indian_climate_factors": "Warm, humid weather favors fungal growth.",
+      "breed_predisposition": "Young dogs with immature immune systems are more vulnerable.",
+      "age_considerations": "Puppies and young dogs are at higher risk.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are there any circular, scaly patches?",
+        "Has your dog been around other animals?",
+        "Is there hair loss in the affected areas?"
+      ],
+      "home_care_india": "Keep the affected areas clean and dry, prevent contact with other pets.",
+      "vet_triggers": "If the infection spreads, or if there is no improvement with home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during the monsoon and humid summer months.",
+      "prevention_tips": "Regular grooming, avoiding contact with stray animals, and maintaining hygiene.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_parasite_infestation_20",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Parasite infestation (fleas)",
+      "description": "An adult Rottweiler with intense itching and flea dirt visible in its coat.",
+      "indian_climate_factors": "Warm weather promotes flea breeding.",
+      "breed_predisposition": "Rottweilers' thick coats can provide a haven for fleas.",
+      "age_considerations": "All ages are susceptible, but adult dogs may have more severe reactions.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Is your dog scratching excessively?",
+        "Do you see any fleas or flea dirt?",
+        "Has your dog been treated for fleas before?"
+      ],
+      "home_care_india": "Use a vet-recommended flea comb and flea treatment.",
+      "vet_triggers": "If home remedies are ineffective or the infestation is severe.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during warmer months.",
+      "prevention_tips": "Regular flea prevention medication, cleaning the environment, and regular grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_mild_itching_21",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Mild itching",
+      "description": "A young Siberian Husky with mild itching, possibly due to seasonal allergies.",
+      "indian_climate_factors": "Pollen levels vary seasonally, impacting allergies.",
+      "breed_predisposition": "Huskies are prone to certain allergies.",
+      "age_considerations": "Young dogs may develop allergies as their immune systems mature.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the itching been present?",
+        "What are the dog's typical environments?",
+        "Has there been a change in diet?"
+      ],
+      "home_care_india": "Regular bathing with a mild shampoo, keeping the dog's environment clean.",
+      "vet_triggers": "If itching becomes severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during specific pollen seasons.",
+      "prevention_tips": "Regular grooming, minimizing exposure to known allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_hair_loss_around_eye_22",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Hair loss around eyes",
+      "description": "An adult Poodle with hair loss around the eyes, potentially due to a localized allergy or irritation.",
+      "indian_climate_factors": "Dust and pollutants can irritate sensitive skin around the eyes.",
+      "breed_predisposition": "Poodles' facial features can make them more susceptible to eye irritation.",
+      "age_considerations": "Adults are more likely to show symptoms of chronic irritation.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the hair loss been present?",
+        "Does your dog rub its eyes frequently?",
+        "Is there any discharge from the eyes?"
+      ],
+      "home_care_india": "Clean the area gently with a damp cloth. Avoid harsh chemicals near the eyes.",
+      "vet_triggers": "If hair loss worsens, or if there is any sign of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during dusty seasons.",
+      "prevention_tips": "Regular grooming around the eyes, cleaning the area regularly.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_severe_hot_spots_and_23",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Severe hot spots and secondary infection",
+      "description": "A senior Beagle with large, weeping hot spots, showing signs of bacterial infection.",
+      "indian_climate_factors": "Heat and humidity promote bacterial growth in open wounds.",
+      "breed_predisposition": "Beagles' short coats offer less protection from environmental irritants.",
+      "age_considerations": "Senior dogs' immune systems are less efficient at fighting infections.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have the hot spots been present?",
+        "Is there any pus or discharge?",
+        "Is your dog lethargic or feverish?"
+      ],
+      "home_care_india": "Keep the area clean and dry, apply a vet-recommended antiseptic.",
+      "vet_triggers": "Immediate veterinary attention is required due to the secondary infection.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during hot and humid seasons.",
+      "prevention_tips": "Regular parasite prevention, maintaining a clean environment, and prompt treatment of any skin irritation.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "skn_allergic_dermatitis_24",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler",
+        "siberian_husky"
+      ],
+      "symptom": "Allergic dermatitis",
+      "description": "Both a Rottweiler and Siberian Husky show signs of allergic dermatitis, with intense itching and skin redness.",
+      "indian_climate_factors": "Air pollution and seasonal changes exacerbate allergies.",
+      "breed_predisposition": "Both breeds are prone to various allergies.",
+      "age_considerations": "All ages can be affected, but symptoms may vary in severity.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What are the dog's symptoms?",
+        "What has changed in their environment?",
+        "Has your dog been tested for allergies?"
+      ],
+      "home_care_india": "Use hypoallergenic shampoos, minimize exposure to allergens, and provide cool, comfortable environment.",
+      "vet_triggers": "If symptoms are severe, or if home care is ineffective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms vary depending on the allergen and season.",
+      "prevention_tips": "Regular grooming, allergen avoidance, and potentially allergy testing and immunotherapy.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_mange_25",
+      "species": "dogs",
+      "breeds_affected": [
+        "beagle"
+      ],
+      "symptom": "Mange",
+      "description": "A street Beagle with severe mange, causing significant hair loss, scabbing, and intense itching.",
+      "indian_climate_factors": "Poor hygiene and malnutrition worsen mange.",
+      "breed_predisposition": "Street dogs are highly susceptible due to poor living conditions.",
+      "age_considerations": "All ages are vulnerable, but young dogs are often more severely affected.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have you noticed these symptoms?",
+        "Has your dog been treated before?",
+        "Are there other affected dogs nearby?"
+      ],
+      "home_care_india": "Keep the dog clean and dry, provide proper nutrition and shelter.",
+      "vet_triggers": "Immediate veterinary care is needed for treatment.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "More prevalent during warm, humid seasons.",
+      "prevention_tips": "Regular parasite control, proper nutrition, and avoiding contact with infected animals.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "skn_food_allergy_26",
+      "species": "dogs",
+      "breeds_affected": [
+        "poodle"
+      ],
+      "symptom": "Food allergy",
+      "description": "A young Poodle experiencing digestive upset and skin issues, possibly due to a food allergy.",
+      "indian_climate_factors": "Heat can exacerbate digestive issues and skin reactions.",
+      "breed_predisposition": "Poodles can have sensitive digestive systems and skin.",
+      "age_considerations": "Food allergies can manifest at any age, but often appear in young dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What is your dog's diet?",
+        "Have you recently changed their food?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Switch to a hypoallergenic diet, ensure access to fresh water.",
+      "vet_triggers": "If symptoms persist despite dietary changes or worsen.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Heat can worsen digestive symptoms.",
+      "prevention_tips": "Introduce new foods gradually, avoid table scraps, and consider an elimination diet if allergies are suspected.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_dry,_cracked_paws_27",
+      "species": "dogs",
+      "breeds_affected": [
+        "siberian_husky"
+      ],
+      "symptom": "Dry, cracked paws",
+      "description": "A senior Siberian Husky with dry, cracked paws, possibly due to environmental factors.",
+      "indian_climate_factors": "Extreme weather (heat and cold) can dry out paw pads.",
+      "breed_predisposition": "Huskies' paw pads can be sensitive to harsh conditions.",
+      "age_considerations": "Senior dogs' paw pads become drier and more prone to cracking.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long have the paws been dry?",
+        "Does your dog lick its paws excessively?",
+        "What surfaces does your dog walk on?"
+      ],
+      "home_care_india": "Apply a paw balm, avoid hot surfaces, and keep paws clean.",
+      "vet_triggers": "If cracks become deep or infected.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during extreme heat or cold.",
+      "prevention_tips": "Use paw balm regularly, especially during extreme weather, and avoid walking on hot surfaces.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_seborrhea_28",
+      "species": "dogs",
+      "breeds_affected": [
+        "rottweiler"
+      ],
+      "symptom": "Seborrhea",
+      "description": "An adult Rottweiler with oily, greasy skin and a dull coat, indicative of seborrhea.",
+      "indian_climate_factors": "Humidity can worsen seborrhea.",
+      "breed_predisposition": "Rottweilers can be prone to skin conditions like seborrhea.",
+      "age_considerations": "Adults are commonly affected.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has this been present?",
+        "Is the coat greasy or oily?",
+        "Is there any scaling or inflammation?"
+      ],
+      "home_care_india": "Use a vet-recommended shampoo for oily skin, keep the coat clean and dry.",
+      "vet_triggers": "If the condition worsens, or if there are secondary infections.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during humid seasons.",
+      "prevention_tips": "Regular bathing with appropriate shampoos, maintaining a balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_itching_and_mild_hai_29",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Itching and mild hair loss",
+      "description": "A young dachshund exhibits mild itching and patchy hair loss around the belly, likely due to flea allergy exacerbated by dust in the urban environment.",
+      "indian_climate_factors": "Monsoon humidity worsens flea infestations.",
+      "breed_predisposition": "Dachshunds' long bodies and short legs make them prone to skin irritation.",
+      "age_considerations": "More common in puppies due to developing immune systems.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "Has your dog been exposed to new environments?",
+        "Are there any visible parasites?"
+      ],
+      "home_care_india": "Regular bathing with mild, oatmeal-based shampoo, flea comb.",
+      "vet_triggers": "If itching is severe, hair loss is extensive, or secondary infections develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon and summer due to humidity and flea activity.",
+      "prevention_tips": "Regular flea and tick prevention, keeping the dog's coat clean and dry.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_hot_spots_30",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Hot spots",
+      "description": "An adult Boxer presents with a large, inflamed hot spot on its flank, possibly triggered by an allergic reaction to local foods.",
+      "indian_climate_factors": "Heat and humidity increase risk of bacterial infection in hot spots.",
+      "breed_predisposition": "Boxers have short coats, making them susceptible to sunburn and skin irritations.",
+      "age_considerations": "Common in adults, possibly due to environmental exposures.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What did your dog eat recently?",
+        "When did the hot spot appear?",
+        "Is there any discharge?"
+      ],
+      "home_care_india": "Keep the area clean and dry, apply a vet-recommended antiseptic.",
+      "vet_triggers": "If the hot spot is large, painful, or shows signs of infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during hot, humid months.",
+      "prevention_tips": "Maintain a healthy diet, avoid exposure to irritants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_severe_itching_and_h_31",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Severe Itching and Hair Loss",
+      "description": "A senior Border Collie shows severe itching and significant hair loss, potentially due to a fungal infection exacerbated by monsoon moisture.",
+      "indian_climate_factors": "High humidity promotes fungal growth.",
+      "breed_predisposition": "Border Collies have dense coats, trapping moisture and promoting fungal growth.",
+      "age_considerations": "More common in senior dogs due to weakened immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has this been going on?",
+        "Has your dog been treated for any skin condition before?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Keep the dog's coat clean and dry, avoid damp environments.",
+      "vet_triggers": "Immediate vet visit due to severity.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season.",
+      "prevention_tips": "Regular grooming, maintaining a clean environment.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_allergies_(environme_32",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Allergies (Environmental)",
+      "description": "An adult Australian Shepherd suffers from seasonal allergies, possibly pollen or dust mites in an urban setting.",
+      "indian_climate_factors": "Pollen counts are high during certain seasons.",
+      "breed_predisposition": "Australian Shepherds are prone to allergies.",
+      "age_considerations": "Can occur at any age, but symptoms may worsen with age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What are the seasonal triggers?",
+        "What are the symptoms?",
+        "Has your dog been tested for allergies?"
+      ],
+      "home_care_india": "Regular bathing, use hypoallergenic shampoo, air purifiers.",
+      "vet_triggers": "If symptoms are severe, or home remedies are ineffective.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More severe during specific pollen seasons (spring, autumn).",
+      "prevention_tips": "Regular grooming, allergy testing, and management by a vet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_fungal_infection_(ri_33",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund",
+        "boxer"
+      ],
+      "symptom": "Fungal Infection (Ringworm)",
+      "description": "Both a dachshund and a boxer from the same household show signs of ringworm, possibly contracted from a contaminated environment.",
+      "indian_climate_factors": "Warm, humid weather promotes fungal growth.",
+      "breed_predisposition": "Both breeds can be susceptible, especially with compromised immune systems.",
+      "age_considerations": "Affects dogs of all ages.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are there circular, scaly patches?",
+        "Is there hair loss in the affected areas?",
+        "Has your dog been in contact with other animals?"
+      ],
+      "home_care_india": "Keep affected areas clean and dry, avoid contact with other pets.",
+      "vet_triggers": "Confirmation of diagnosis and treatment plan.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during monsoon and summer.",
+      "prevention_tips": "Regular grooming, avoid contact with stray animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_parasites_(ticks)_34",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Parasites (Ticks)",
+      "description": "A Border Collie from a rural area shows multiple ticks, leading to intense itching and skin irritation.",
+      "indian_climate_factors": "Ticks thrive in warm, humid environments.",
+      "breed_predisposition": "Long coats can provide a hiding place for ticks.",
+      "age_considerations": "Affects dogs of all ages.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Where was the dog when the ticks were noticed?",
+        "How many ticks are present?",
+        "Are there any signs of infection?"
+      ],
+      "home_care_india": "Careful tick removal, regular checks.",
+      "vet_triggers": "If ticks are numerous, or signs of infection like fever develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and post-monsoon.",
+      "prevention_tips": "Tick prevention medication, regular checks, avoiding tall grass.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_severe_allergies_(fo_35",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Severe Allergies (Food)",
+      "description": "An Australian Shepherd with severe gastrointestinal upset and skin issues due to food allergies to common Indian ingredients.",
+      "indian_climate_factors": "Heat can exacerbate allergic reactions.",
+      "breed_predisposition": "Australian Shepherds are prone to food allergies.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What foods has your dog recently eaten?",
+        "What are the symptoms?",
+        "Has your dog had allergy testing?"
+      ],
+      "home_care_india": "Eliminate suspected food allergens.",
+      "vet_triggers": "Immediate veterinary attention for severe symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms may vary with seasonal changes in diet.",
+      "prevention_tips": "Allergy testing, elimination diet, careful food choices.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_mild_itching_(season_36",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Mild Itching (Seasonal)",
+      "description": "A young dachshund experiences mild seasonal itching, possibly due to pollen allergies in spring.",
+      "indian_climate_factors": "Pollen is a common allergen during spring.",
+      "breed_predisposition": "Dachshunds can be prone to allergies.",
+      "age_considerations": "More common in puppies and young adults.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "What are the seasonal changes?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Regular bathing with a mild shampoo.",
+      "vet_triggers": "If itching worsens or becomes severe.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during spring and autumn.",
+      "prevention_tips": "Avoid exposure to known allergens during peak seasons.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_hair_loss_(patchy)_37",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Hair Loss (Patchy)",
+      "description": "An adult Boxer has patchy hair loss, possibly due to stress or hormonal imbalance.",
+      "indian_climate_factors": "Heat stress can exacerbate hormonal imbalances.",
+      "breed_predisposition": "Boxers are susceptible to certain hormonal disorders.",
+      "age_considerations": "Can occur at any age, but more common in adults.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the hair loss start?",
+        "Are there any other symptoms?",
+        "Is your dog stressed?"
+      ],
+      "home_care_india": "Maintain a calm environment, provide adequate nutrition.",
+      "vet_triggers": "If hair loss is extensive or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during hot summer months.",
+      "prevention_tips": "Reduce stress, provide a balanced diet.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_parasites_(fleas)_38",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie",
+        "australian_shepherd"
+      ],
+      "symptom": "Parasites (Fleas)",
+      "description": "Both a Border Collie and an Australian Shepherd, sharing a home, have flea infestations, likely from a shared environment.",
+      "indian_climate_factors": "Warm, humid weather favors flea breeding.",
+      "breed_predisposition": "Both breeds can be affected, particularly with long coats.",
+      "age_considerations": "Affects dogs of all ages.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "When did you notice the fleas?",
+        "How severe is the infestation?",
+        "Are there any signs of allergic reaction?"
+      ],
+      "home_care_india": "Regular flea combing, flea bath, cleaning the environment.",
+      "vet_triggers": "If infestation is severe, or there is an allergic reaction.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during warmer months.",
+      "prevention_tips": "Regular flea prevention medication, cleaning the environment.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_fungal_infection_(ye_39",
+      "species": "dogs",
+      "breeds_affected": [
+        "dachshund"
+      ],
+      "symptom": "Fungal Infection (Yeast)",
+      "description": "A senior Dachshund has a yeast infection, possibly due to a combination of humidity and compromised immunity.",
+      "indian_climate_factors": "High humidity promotes yeast growth.",
+      "breed_predisposition": "Skin folds can trap moisture, promoting yeast growth.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "Is there any redness or discharge?",
+        "Has your dog been treated for any skin condition before?"
+      ],
+      "home_care_india": "Keep the affected area clean and dry.",
+      "vet_triggers": "For diagnosis and treatment plan.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worse during monsoon season.",
+      "prevention_tips": "Regular cleaning of skin folds, keeping the coat dry.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_hot_spots_(severe)_40",
+      "species": "dogs",
+      "breeds_affected": [
+        "boxer"
+      ],
+      "symptom": "Hot Spots (Severe)",
+      "description": "A Boxer with a large, deep, and severely infected hot spot, possibly due to neglect and poor hygiene.",
+      "indian_climate_factors": "Heat and humidity worsen bacterial infections.",
+      "breed_predisposition": "Short coats offer less protection.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the hot spot been present?",
+        "Is there significant pain?",
+        "Is there pus or discharge?"
+      ],
+      "home_care_india": "Keep the area clean, apply a vet-recommended antiseptic (do not self-treat).",
+      "vet_triggers": "Emergency veterinary care is needed.",
+      "service_recommendation": "in_clinic",
+      "seasonal_variations": "Worse during hot, humid months.",
+      "prevention_tips": "Maintain good hygiene, regular grooming.",
+      "severity": "emergency"
+    },
+    {
+      "entry_id": "skn_allergies_(contact)_41",
+      "species": "dogs",
+      "breeds_affected": [
+        "border_collie"
+      ],
+      "symptom": "Allergies (Contact)",
+      "description": "A Border Collie shows allergic contact dermatitis from exposure to a specific plant in its environment.",
+      "indian_climate_factors": "Certain plants thrive during specific seasons.",
+      "breed_predisposition": "Some breeds are more sensitive to contact allergens.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What plants is your dog exposed to?",
+        "What are the symptoms?",
+        "Has your dog been tested for allergies?"
+      ],
+      "home_care_india": "Avoid contact with the allergen, wash the affected area.",
+      "vet_triggers": "If symptoms are severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Symptoms linked to the specific plant's growth cycle.",
+      "prevention_tips": "Identify and avoid contact with allergenic plants.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "skn_hair_loss_(generaliz_42",
+      "species": "dogs",
+      "breeds_affected": [
+        "australian_shepherd"
+      ],
+      "symptom": "Hair Loss (Generalized)",
+      "description": "An older Australian Shepherd exhibits generalized hair loss, potentially due to a hormonal disorder or underlying medical condition.",
+      "indian_climate_factors": "Heat stress can worsen underlying health issues.",
+      "breed_predisposition": "Some breeds are more prone to certain hormonal disorders.",
+      "age_considerations": "More common in senior dogs.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "When did the hair loss start?",
+        "Is it generalized or localized?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Provide a supportive and comfortable environment.",
+      "vet_triggers": "Immediate veterinary attention is required.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worsened by heat stress in summer.",
+      "prevention_tips": "Regular veterinary checkups, especially for senior dogs.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "c1a7b2",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Itching and hair loss around the neck",
+      "description": "A 5-year-old Persian cat exhibits intense itching and patchy hair loss around the neck, possibly due to flea allergy exacerbated by the humid Indian monsoon.",
+      "indian_climate_factors": "Humidity increases flea populations, worsening allergies.",
+      "breed_predisposition": "Longhaired Persians are prone to matting, trapping allergens and moisture.",
+      "age_considerations": "Adult cats are more susceptible to allergies.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "Has the cat been exposed to new environments?",
+        "Are there any visible fleas?"
+      ],
+      "home_care_india": "Regular grooming, flea combing, and keeping the cat indoors during peak monsoon.",
+      "vet_triggers": "If itching is severe, hair loss extensive, or secondary skin infections develop.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to increased humidity and flea activity.",
+      "prevention_tips": "Regular flea prevention, gentle brushing, and avoiding exposure to allergens.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "d3f5g7",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Hot spots on the belly",
+      "description": "A street Siamese kitten shows multiple hot spots on its belly, likely caused by bacterial infection from constant contact with unclean surfaces.",
+      "indian_climate_factors": "Heat and dust increase the risk of bacterial infections.",
+      "breed_predisposition": "Siamese cats, particularly street animals, are vulnerable to skin infections.",
+      "age_considerations": "Kittens are more vulnerable due to immature immune systems.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "Is there any discharge from the hot spots?",
+        "Has the kitten been treated for parasites?",
+        "What is its diet?"
+      ],
+      "home_care_india": "Gentle cleaning of the areas with mild antiseptic solutions.",
+      "vet_triggers": "If hot spots are numerous, deep, or the kitten shows signs of illness.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during hot and dry seasons.",
+      "prevention_tips": "Regular cleaning of the environment, good nutrition, and parasite prevention.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "h8j9k1",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Fungal infection on paws",
+      "description": "An adult Maine Coon shows fungal infection between its toes, possibly contracted from damp soil during monsoon.",
+      "indian_climate_factors": "Monsoon's humidity promotes fungal growth.",
+      "breed_predisposition": "Large breeds like Maine Coons are prone to paw problems due to their size and weight.",
+      "age_considerations": "Adult cats are susceptible, especially if the immune system is compromised.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "How long has the infection been present?",
+        "Has there been any contact with other infected animals?",
+        "Is there any other skin abnormality?"
+      ],
+      "home_care_india": "Keep the paws clean and dry, avoid exposure to damp areas.",
+      "vet_triggers": "If the infection spreads, or doesn't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during and after monsoon.",
+      "prevention_tips": "Keep paws clean and dry, avoid walking on contaminated surfaces.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "l2m3n4",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian",
+        "Siamese"
+      ],
+      "symptom": "Severe itching and hair loss, possibly due to food allergies",
+      "description": "A senior Persian and a young Siamese exhibit severe itching and widespread hair loss, possibly due to a food allergy triggered by a change in diet.",
+      "indian_climate_factors": "Exposure to dust and pollutants can exacerbate allergies.",
+      "breed_predisposition": "Both breeds can develop food allergies.",
+      "age_considerations": "Senior cats may have weaker immune systems, making them more vulnerable.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "What changes have been made to the cat's diet?",
+        "Are there any other symptoms like vomiting or diarrhea?",
+        "What kind of food are they eating?"
+      ],
+      "home_care_india": "Eliminate suspected allergens from the diet, regular bathing with hypoallergenic shampoo.",
+      "vet_triggers": "Severe itching, extensive hair loss, secondary skin infections.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during dry seasons due to increased dust.",
+      "prevention_tips": "High-quality hypoallergenic food, regular grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "o5p6q7",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Mite infestation",
+      "description": "A young Maine Coon kitten has a mite infestation, causing intense itching and scaling.",
+      "indian_climate_factors": "Warm and humid climate favors mite proliferation.",
+      "breed_predisposition": "All breeds are susceptible to mites but young kittens are especially vulnerable.",
+      "age_considerations": "Kittens are at higher risk due to underdeveloped immune systems.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did you notice the symptoms?",
+        "Have you observed any other animals with similar issues?",
+        "Has the kitten been treated for parasites before?"
+      ],
+      "home_care_india": "Use veterinary-approved mite treatments as directed.",
+      "vet_triggers": "If home treatment fails to resolve the issue.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be more common during warmer months.",
+      "prevention_tips": "Regular parasite preventative medication.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "r8s9t0",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Ringworm",
+      "description": "An adult Persian cat has a ringworm infection, showing circular patches of hair loss and scaling.",
+      "indian_climate_factors": "High humidity accelerates fungal growth.",
+      "breed_predisposition": "Long-haired breeds like Persians can provide a suitable environment for ringworm.",
+      "age_considerations": "Adult cats are susceptible.",
+      "severity_level": "Moderate",
+      "questions_to_ask": [
+        "When did you notice the lesions?",
+        "Has the cat been in contact with other animals?",
+        "Has the cat been treated for other skin conditions?"
+      ],
+      "home_care_india": "Keep the affected area clean and dry, use antifungal shampoos as directed by a vet.",
+      "vet_triggers": "If the infection spreads or doesn't respond to home treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during monsoon season.",
+      "prevention_tips": "Regular grooming, avoid contact with infected animals.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "u1v2w3",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Allergic dermatitis from dust mites",
+      "description": "A Siamese cat living in an urban apartment exhibits allergic dermatitis due to dust mites.",
+      "indian_climate_factors": "Dust and pollutants are common in urban areas, aggravating allergies.",
+      "breed_predisposition": "Siamese cats are prone to allergies.",
+      "age_considerations": "Can affect cats of all ages.",
+      "severity_level": "Mild to Moderate",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "What is the cat's environment like?",
+        "Has the cat been exposed to any new products or cleaning agents?"
+      ],
+      "home_care_india": "Regular cleaning of the home environment, use of air purifiers.",
+      "vet_triggers": "If symptoms are severe or don't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May be worse during dry seasons with increased dust.",
+      "prevention_tips": "Regular cleaning, use of hypoallergenic bedding and cleaning products.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "x4y5z6",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Mild itching from environmental allergens (pollen)",
+      "description": "A senior Maine Coon experiences mild itching during the spring season due to pollen allergies.",
+      "indian_climate_factors": "Pollen counts vary across different regions of India and seasons.",
+      "breed_predisposition": "While not as prone as some other breeds, Maine Coons can still develop allergies.",
+      "age_considerations": "Senior cats may have weaker immune systems, making allergies more noticeable.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "Is it seasonal?",
+        "Has the cat been exposed to new plants or flowers?"
+      ],
+      "home_care_india": "Regular bathing with hypoallergenic shampoo.",
+      "vet_triggers": "If itching becomes severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during spring and early monsoon.",
+      "prevention_tips": "Keep the cat indoors during peak pollen seasons.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "a7b8c9",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Severe flea allergy dermatitis",
+      "description": "A young Persian cat has severe flea allergy dermatitis, with intense itching, hair loss, and secondary skin infections.",
+      "indian_climate_factors": "Hot and humid weather promotes flea breeding.",
+      "breed_predisposition": "Longhaired Persians are more susceptible due to their coat.",
+      "age_considerations": "Young cats can be more severely affected.",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "How long has the cat been itching?",
+        "Have you tried any flea treatments?",
+        "Are there visible fleas?"
+      ],
+      "home_care_india": "Regular flea treatments, keeping the environment clean.",
+      "vet_triggers": "Severe itching, secondary infections, lethargy.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during warmer months.",
+      "prevention_tips": "Regular flea prevention medication, frequent grooming.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "d0e1f2",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Localized fungal infection on the ears",
+      "description": "A middle-aged Siamese cat exhibits a localized fungal infection in its ears, possibly due to poor hygiene and humidity.",
+      "indian_climate_factors": "High humidity promotes fungal growth, especially in warm, moist areas like the ears.",
+      "breed_predisposition": "All breeds are susceptible, but poor hygiene increases risk.",
+      "age_considerations": "Middle-aged cats can be more prone.",
+      "severity_level": "Mild to Moderate",
+      "questions_to_ask": [
+        "When did you notice the infection?",
+        "Is there any discharge?",
+        "Has the cat been scratching its ears?"
+      ],
+      "home_care_india": "Regular ear cleaning with a vet-recommended solution.",
+      "vet_triggers": "If the infection spreads or doesn't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during and after monsoon.",
+      "prevention_tips": "Regular ear cleaning, keeping the ears dry.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "g3h4i5",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon"
+      ],
+      "symptom": "Mange",
+      "description": "An adult Maine Coon shows signs of mange, with intense itching, hair loss, and scabby skin.",
+      "indian_climate_factors": "Warm, humid climate is favorable for mite reproduction.",
+      "breed_predisposition": "All breeds are susceptible, but long hair can make detection harder.",
+      "age_considerations": "Adult cats are commonly affected.",
+      "severity_level": "Severe",
+      "questions_to_ask": [
+        "When did you notice the symptoms?",
+        "Has the cat been in contact with other animals?",
+        "Are there any other skin abnormalities?"
+      ],
+      "home_care_india": "Follow veterinary instructions for mange treatment.",
+      "vet_triggers": "Immediate veterinary attention is necessary.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during warmer months.",
+      "prevention_tips": "Regular parasite prevention, maintain good hygiene.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "j6k7l8",
+      "species": "cats",
+      "breeds_affected": [
+        "Persian"
+      ],
+      "symptom": "Chronic dermatitis from environmental irritants",
+      "description": "A senior Persian cat living near a busy road has chronic dermatitis from exposure to air pollution and dust.",
+      "indian_climate_factors": "Air pollution is a significant factor in many Indian urban areas.",
+      "breed_predisposition": "Long-haired breeds can trap irritants.",
+      "age_considerations": "Senior cats are more susceptible to chronic conditions.",
+      "severity_level": "Moderate to Severe",
+      "questions_to_ask": [
+        "How long has the cat had this condition?",
+        "What is the cat's environment like?",
+        "Has the cat been treated for other skin conditions?"
+      ],
+      "home_care_india": "Keep the cat indoors as much as possible, regular bathing with hypoallergenic shampoo.",
+      "vet_triggers": "Persistent symptoms, worsening condition.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during dry, dusty seasons.",
+      "prevention_tips": "Minimize exposure to irritants, regular grooming.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "m9n0o1",
+      "species": "cats",
+      "breeds_affected": [
+        "Siamese"
+      ],
+      "symptom": "Mild flea allergy",
+      "description": "A young Siamese kitten shows mild itching and scratching, possibly due to a flea allergy.",
+      "indian_climate_factors": "Warm weather favors flea reproduction.",
+      "breed_predisposition": "All breeds can be affected, but early intervention is important.",
+      "age_considerations": "Kittens are more vulnerable.",
+      "severity_level": "Mild",
+      "questions_to_ask": [
+        "When did you notice the symptoms?",
+        "Have you seen any fleas on the kitten?",
+        "Has the kitten been treated for parasites before?"
+      ],
+      "home_care_india": "Regular flea combing, use of flea preventative products.",
+      "vet_triggers": "If symptoms worsen or don't respond to home care.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during warmer months.",
+      "prevention_tips": "Regular flea prevention medication, frequent grooming.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "p2q3r4",
+      "species": "cats",
+      "breeds_affected": [
+        "Maine Coon",
+        "Persian"
+      ],
+      "symptom": "Hair loss due to stress",
+      "description": "Both an adult Maine Coon and an adult Persian exhibit hair loss due to stress from a recent move and change in environment.",
+      "indian_climate_factors": "Stress can be exacerbated by environmental changes, such as extreme heat or monsoon.",
+      "breed_predisposition": "Both breeds can be sensitive to stress.",
+      "age_considerations": "Stress can affect cats of all ages.",
+      "severity_level": "Mild to Moderate",
+      "questions_to_ask": [
+        "What recent changes have occurred in the cat's life?",
+        "Is the cat eating and sleeping normally?",
+        "Is the cat exhibiting any other behavioral changes?"
+      ],
+      "home_care_india": "Provide a calm and stable environment, enrichment activities.",
+      "vet_triggers": "If hair loss is excessive, or the cat shows signs of severe stress.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Stress can be aggravated by extreme weather.",
+      "prevention_tips": "Maintain a stable and enriching environment, provide plenty of attention.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "c1a2b3",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Itching and mild hair loss",
+      "description": "A British Shorthair kitten experiencing mild itching and hair loss around the neck, possibly due to flea allergy.",
+      "indian_climate_factors": "Increased humidity during monsoon exacerbates itching.",
+      "breed_predisposition": "British Shorthairs can have sensitive skin.",
+      "age_considerations": "More common in kittens due to developing immune system.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "Are there any visible fleas?",
+        "Has the kitten been exposed to new environments?"
+      ],
+      "home_care_india": "Regular flea combing, gentle washing with mild soap.",
+      "vet_triggers": "If itching is severe or doesn't improve after a week.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during monsoon due to humidity.",
+      "prevention_tips": "Regular flea and tick prevention, avoid exposure to dust and pollutants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "d4e5f6",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Severe hot spots",
+      "description": "Adult Ragdoll with multiple, inflamed hot spots, likely due to bacterial infection secondary to allergies.",
+      "indian_climate_factors": "Heat and humidity promote bacterial growth.",
+      "breed_predisposition": "Ragdolls can have a predisposition to certain allergies.",
+      "age_considerations": "More common in adults due to environmental exposure.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long have the hot spots been present?",
+        "Is there any discharge?",
+        "Has the cat been licking excessively?"
+      ],
+      "home_care_india": "Keep the area clean and dry, avoid harsh soaps.",
+      "vet_triggers": "Immediately, due to potential for secondary infection.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during summer months due to heat.",
+      "prevention_tips": "Regular grooming, allergy management, balanced diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "g7h8i9",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Fungal infection",
+      "description": "Bengal cat showing signs of ringworm, potentially from contact with a street animal.",
+      "indian_climate_factors": "Monsoon's humidity favors fungal growth.",
+      "breed_predisposition": "Bengals' thick coat can trap moisture, promoting fungal growth.",
+      "age_considerations": "Can affect any age group.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "Are there any circular, scaly patches?",
+        "Has the cat been in contact with other animals?",
+        "Is there hair loss in the affected areas?"
+      ],
+      "home_care_india": "Keep the area clean and dry, use antifungal creams (vet prescribed).",
+      "vet_triggers": "For diagnosis and treatment with antifungal medication.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and post-monsoon.",
+      "prevention_tips": "Avoid contact with stray animals, maintain hygiene.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "j1k2l3",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "ragdoll"
+      ],
+      "symptom": "Allergies (food)",
+      "description": "Adult cats showing signs of food allergies (vomiting, diarrhea, itching).",
+      "indian_climate_factors": "Heat can exacerbate digestive issues.",
+      "breed_predisposition": "Both breeds can be prone to food sensitivities.",
+      "age_considerations": "Can occur at any age, but often manifests in adulthood.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What foods does the cat eat?",
+        "Have there been any recent diet changes?",
+        "What are the symptoms?"
+      ],
+      "home_care_india": "Eliminate suspected allergens from the diet.",
+      "vet_triggers": "If symptoms persist or worsen, for allergy testing.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variations.",
+      "prevention_tips": "High-quality, species-appropriate diet; avoid table scraps.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "m4n5o6",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Parasites (fleas)",
+      "description": "Kitten with severe flea infestation, causing intense itching and hair loss.",
+      "indian_climate_factors": "Warm climate favors flea reproduction.",
+      "breed_predisposition": "Dense coat can harbor fleas.",
+      "age_considerations": "Kittens are particularly vulnerable.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How many fleas are visible?",
+        "Is the kitten scratching excessively?",
+        "Is there any anemia?"
+      ],
+      "home_care_india": "Frequent combing, flea bath (vet-approved shampoo).",
+      "vet_triggers": "For flea medication and treatment of anemia.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during warmer months.",
+      "prevention_tips": "Regular flea prevention medication, proper hygiene.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "p7q8r9",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Hair loss (patches)",
+      "description": "Senior Ragdoll with patchy hair loss, possibly due to hormonal imbalance or stress.",
+      "indian_climate_factors": "Heat stress can worsen underlying conditions.",
+      "breed_predisposition": "Older Ragdolls can experience hormonal changes.",
+      "age_considerations": "Common in senior cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How long has the hair loss been present?",
+        "Are there any other symptoms?",
+        "Has the cat's behavior changed?"
+      ],
+      "home_care_india": "Provide a stress-free environment, balanced diet.",
+      "vet_triggers": "If hair loss is progressive or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variations.",
+      "prevention_tips": "Healthy diet, regular vet checkups, stress reduction.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "s1t2u3",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Itching (mild)",
+      "description": "Adult British Shorthair with mild itching, possibly due to environmental allergies (dust, pollen).",
+      "indian_climate_factors": "High pollen counts during certain seasons exacerbate allergies.",
+      "breed_predisposition": "Some British Shorthairs have sensitive skin.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "When did the itching start?",
+        "What is the cat's environment like?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Regular grooming, cleaning of the environment.",
+      "vet_triggers": "If itching is persistent or severe.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during peak pollen seasons.",
+      "prevention_tips": "Regular grooming, air purifiers, minimizing exposure to allergens.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "v4w5x6",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal",
+        "ragdoll"
+      ],
+      "symptom": "Parasites (ticks)",
+      "description": "Adult cats with tick infestation, causing skin irritation and potential disease transmission.",
+      "indian_climate_factors": "Warm, humid climate favors tick survival.",
+      "breed_predisposition": "Long-haired breeds can provide better hiding places for ticks.",
+      "age_considerations": "Can affect any age group.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "How many ticks are visible?",
+        "Are there any bite marks?",
+        "Is the cat lethargic?"
+      ],
+      "home_care_india": "Careful tick removal, cleaning of the affected area.",
+      "vet_triggers": "For tick-borne disease testing and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More prevalent during monsoon and post-monsoon.",
+      "prevention_tips": "Regular tick checks, tick prevention medication.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "y7z8a9",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair"
+      ],
+      "symptom": "Hot spots (mild)",
+      "description": "Kitten with a small, localized hot spot, likely due to minor irritation.",
+      "indian_climate_factors": "Heat and humidity can worsen irritation.",
+      "breed_predisposition": "British Shorthairs can have sensitive skin.",
+      "age_considerations": "More common in kittens due to playful behavior.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "How long has the hot spot been present?",
+        "Is there any discharge?",
+        "Is the kitten scratching excessively?"
+      ],
+      "home_care_india": "Keep the area clean and dry, avoid harsh soaps.",
+      "vet_triggers": "If the hot spot doesn't improve or enlarges.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during summer months.",
+      "prevention_tips": "Regular grooming, avoid irritants.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "b1c2d3",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Allergies (environmental)",
+      "description": "Adult Ragdoll with severe sneezing, itching, and watery eyes, likely due to environmental allergies (dust mites, pollen).",
+      "indian_climate_factors": "Dust and pollen levels are high in many Indian cities.",
+      "breed_predisposition": "Ragdolls can be prone to environmental allergies.",
+      "age_considerations": "Can occur at any age.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What are the cat's symptoms?",
+        "What is the environment like?",
+        "Has the cat been exposed to new environments?"
+      ],
+      "home_care_india": "Air purifiers, regular cleaning, allergy medication (vet prescribed).",
+      "vet_triggers": "For allergy testing and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "Worsens during peak pollen seasons.",
+      "prevention_tips": "Air purifiers, regular cleaning, minimizing exposure to allergens.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "e4f5g6",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal"
+      ],
+      "symptom": "Fungal infection (severe)",
+      "description": "Senior Bengal with a severe fungal infection, possibly due to compromised immunity.",
+      "indian_climate_factors": "High humidity promotes fungal growth.",
+      "breed_predisposition": "Bengal's thick coat can trap moisture.",
+      "age_considerations": "More common in senior cats with weakened immune systems.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "How long has the infection been present?",
+        "Are there any other symptoms?",
+        "Is the cat lethargic?"
+      ],
+      "home_care_india": "Keep the area clean and dry, antifungal medication (vet prescribed).",
+      "vet_triggers": "Immediately, for diagnosis and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common during monsoon and post-monsoon.",
+      "prevention_tips": "Maintain hygiene, support immune system with a healthy diet.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "h7i8j9",
+      "species": "cats",
+      "breeds_affected": [
+        "british_shorthair",
+        "bengal"
+      ],
+      "symptom": "Hair loss (due to stress)",
+      "description": "Adult cats showing hair loss due to stress from moving to a new home or changes in the household.",
+      "indian_climate_factors": "Heat stress can exacerbate stress-related issues.",
+      "breed_predisposition": "Stress can affect any breed.",
+      "age_considerations": "Can occur at any age, but more common in sensitive cats.",
+      "severity_level": "moderate",
+      "questions_to_ask": [
+        "What recent changes have occurred in the cat's life?",
+        "Are there any other symptoms?",
+        "Is the cat behaving differently?"
+      ],
+      "home_care_india": "Provide a calm and secure environment, pheromone diffusers.",
+      "vet_triggers": "If hair loss is severe or persistent.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variations.",
+      "prevention_tips": "Provide a stable and enriching environment, minimize stress.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "k1l2m3",
+      "species": "cats",
+      "breeds_affected": [
+        "ragdoll"
+      ],
+      "symptom": "Itching (severe, allergic)",
+      "description": "Kitten with severe itching and skin inflammation, likely due to a severe allergic reaction to something in the environment.",
+      "indian_climate_factors": "High levels of air pollution can trigger allergic reactions.",
+      "breed_predisposition": "Ragdolls can have sensitive skin.",
+      "age_considerations": "Kittens are more susceptible to severe allergic reactions.",
+      "severity_level": "severe",
+      "questions_to_ask": [
+        "What are the symptoms?",
+        "What is the environment like?",
+        "Has the kitten been exposed to anything new?"
+      ],
+      "home_care_india": "Keep the environment clean, antihistamines (vet prescribed).",
+      "vet_triggers": "Immediately, for allergy testing and treatment.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "May worsen during peak pollen or pollution seasons.",
+      "prevention_tips": "Minimize exposure to allergens, regular cleaning.",
+      "severity": "urgent"
+    },
+    {
+      "entry_id": "n4o5p6",
+      "species": "cats",
+      "breeds_affected": [
+        "bengal",
+        "british_shorthair"
+      ],
+      "symptom": "Mild hair loss (nutritional)",
+      "description": "Adult cats with mild hair loss, possibly due to a nutritional deficiency.",
+      "indian_climate_factors": "Poor quality local food can lead to nutritional deficiencies.",
+      "breed_predisposition": "Nutritional deficiencies can affect any breed.",
+      "age_considerations": "Can occur at any age, but more common in cats with unbalanced diets.",
+      "severity_level": "mild",
+      "questions_to_ask": [
+        "What is the cat's diet?",
+        "Has there been any recent changes to the diet?",
+        "Are there any other symptoms?"
+      ],
+      "home_care_india": "Switch to a high-quality cat food, add supplements (vet prescribed).",
+      "vet_triggers": "If hair loss is persistent or accompanied by other symptoms.",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "No significant seasonal variations.",
+      "prevention_tips": "High-quality, balanced diet, regular vet checkups.",
+      "severity": "routine"
+    },
+    {
+      "entry_id": "skn_itchy_scratching_routine",
+      "species": "dogs",
+      "breeds_affected": [
+        "all_breeds"
+      ],
+      "symptom": "dog itchy skin scratching mild irritation",
+      "description": "Dog scratching occasionally, mild skin irritation without open wounds, bleeding, or severe inflammation.",
+      "indian_climate_factors": "Dust and heat can cause mild skin irritation",
+      "breed_predisposition": "All breeds susceptible",
+      "age_considerations": "All ages",
+      "severity_level": "urgent",
+      "questions_to_ask": [
+        "Any fleas visible?",
+        "New food or shampoo?",
+        "How long scratching?"
+      ],
+      "home_care_india": "Bathe with mild anti-itch shampoo. Keep area clean. Monitor for worsening.",
+      "vet_triggers": "If scratching leads to wounds, hair loss, or doesn't improve in 5-7 days",
+      "service_recommendation": "video_consult",
+      "seasonal_variations": "More common in hot, humid weather",
+      "prevention_tips": "Regular grooming, flea prevention, avoid harsh soaps",
+      "severity": "urgent"
+    }
+  ]
+}
