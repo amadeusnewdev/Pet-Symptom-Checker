@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SNOUTIQ - Pet Symptom Checker</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            padding: 20px;
+        }
+
+        .header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.95;
+        }
+
+        .card {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+
+        .form-group label .required {
+            color: #e74c3c;
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            font-family: inherit;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            margin-top: 10px;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .loading.show {
+            display: block;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .result {
+            display: none;
+            margin-top: 30px;
+        }
+
+        .result.show {
+            display: block;
+        }
+
+        .result-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px 10px 0 0;
+            margin: -40px -40px 30px -40px;
+        }
+
+        .result-header h2 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+        }
+
+        .result-section {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .result-section:last-child {
+            border-bottom: none;
+        }
+
+        .result-section h3 {
+            color: #667eea;
+            margin-bottom: 12px;
+            font-size: 1.3em;
+        }
+
+        .result-section p {
+            color: #555;
+            line-height: 1.7;
+            margin-bottom: 10px;
+        }
+
+        .result-section ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .result-section ul li {
+            padding: 10px;
+            margin-bottom: 8px;
+            background: #f8f9fa;
+            border-left: 4px solid #667eea;
+            border-radius: 5px;
+        }
+
+        .urgency-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+            margin-right: 10px;
+        }
+
+        .urgency-emergency {
+            background: #e74c3c;
+            color: white;
+        }
+
+        .urgency-urgent {
+            background: #f39c12;
+            color: white;
+        }
+
+        .urgency-routine {
+            background: #27ae60;
+            color: white;
+        }
+
+        .confidence-badge {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            font-size: 0.9em;
+            background: #3498db;
+            color: white;
+        }
+
+        .alert {
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .alert.show {
+            display: block;
+        }
+
+        .alert-error {
+            background: #fee;
+            color: #c33;
+            border-left: 4px solid #e74c3c;
+        }
+
+        .alert-success {
+            background: #efe;
+            color: #363;
+            border-left: 4px solid #27ae60;
+        }
+
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 30px;
+            padding: 20px;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🐾 SNOUTIQ</h1>
+            <p>AI-Powered Veterinary Symptom Checker for India</p>
+        </div>
+
+        <!-- Main Form Card -->
+        <div class="card">
+            <div class="alert alert-error" id="errorAlert"></div>
+
+            <form id="symptomForm">
+                <h2 style="margin-bottom: 25px; color: #333;">Pet Information</h2>
+
+                <!-- Pet Name & Species -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Pet Name <span class="required">*</span></label>
+                        <input type="text" id="name" name="name" required placeholder="e.g., Bruno">
+                    </div>
+                    <div class="form-group">
+                        <label>Species <span class="required">*</span></label>
+                        <select id="species" name="species" required>
+                            <option value="">Select Species</option>
+                            <option value="Dog">Dog</option>
+                            <option value="Cat">Cat</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Breed & Age -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Breed</label>
+                        <input type="text" id="breed" name="breed" placeholder="e.g., Labrador Retriever">
+                    </div>
+                    <div class="form-group">
+                        <label>Age</label>
+                        <input type="text" id="age" name="age" placeholder="e.g., 5 years">
+                    </div>
+                </div>
+
+                <!-- Weight & Sex -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Weight</label>
+                        <input type="text" id="weight" name="weight" placeholder="e.g., 32 kg">
+                    </div>
+                    <div class="form-group">
+                        <label>Sex</label>
+                        <select id="sex" name="sex">
+                            <option value="">Select</option>
+                            <option value="Male">Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Vaccination Status -->
+                <div class="form-group">
+                    <label>Vaccination Status</label>
+                    <input type="text" id="vaccination_summary" name="vaccination_summary"
+                           placeholder="e.g., Up to date - last vaccinated 6 months ago">
+                </div>
+
+                <!-- Medical History -->
+                <div class="form-group">
+                    <label>Medical History</label>
+                    <textarea id="medical_history" name="medical_history"
+                              placeholder="Any previous health issues, surgeries, or ongoing treatments..."></textarea>
+                </div>
+
+                <hr style="margin: 30px 0; border: none; border-top: 2px solid #f0f0f0;">
+
+                <h2 style="margin-bottom: 25px; color: #333;">Symptom Description</h2>
+
+                <!-- Symptom Query -->
+                <div class="form-group">
+                    <label>Describe the symptoms <span class="required">*</span></label>
+                    <textarea id="query" name="query" required
+                              placeholder="Please describe your pet's symptoms in detail. Include when they started, how severe they are, and any other relevant information..."></textarea>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn" id="submitBtn">
+                    🔍 Analyze Symptoms
+                </button>
+            </form>
+
+            <!-- Loading State -->
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p style="color: #667eea; font-weight: 600;">Analyzing symptoms with AI...</p>
+            </div>
+        </div>
+
+        <!-- Results Card -->
+        <div class="card result" id="resultCard">
+            <div class="result-header">
+                <h2>Analysis Results</h2>
+                <p id="petNameResult"></p>
+            </div>
+
+            <div class="result-section">
+                <h3>📋 Summary</h3>
+                <p id="summaryText"></p>
+            </div>
+
+            <div class="result-section">
+                <h3>🔍 What We Found</h3>
+                <p id="whatWeFoundText"></p>
+            </div>
+
+            <div class="result-section">
+                <h3>⚡ Immediate Steps</h3>
+                <ul id="immediateStepsList"></ul>
+            </div>
+
+            <div class="result-section">
+                <h3>🏠 Home Care Tips</h3>
+                <ul id="homeCareTipsList"></ul>
+            </div>
+
+            <div class="result-section">
+                <h3>🏥 When to See a Veterinarian</h3>
+                <p id="whenToSeeVetText"></p>
+            </div>
+
+            <div class="result-section">
+                <h3>🚨 Assessment</h3>
+                <div>
+                    <span class="urgency-badge" id="urgencyBadge"></span>
+                    <span class="confidence-badge" id="confidenceBadge"></span>
+                </div>
+                <p style="margin-top: 15px;"><strong>Recommended Service:</strong> <span id="serviceRecommendation"></span></p>
+            </div>
+
+            <div class="result-section" id="additionalNotesSection">
+                <h3>📝 Additional Notes</h3>
+                <p id="additionalNotesText"></p>
+            </div>
+
+            <button onclick="location.reload()" class="btn" style="margin-top: 20px;">
+                🔄 Check Another Symptom
+            </button>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>⚠️ This is an AI-powered advisory tool. Always consult a licensed veterinarian for professional diagnosis.</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">SNOUTIQ - Powered by Google Gemini & Advanced RAG Technology</p>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const API_URL = 'https://pet-symptom-checker.onrender.com/query'; // Render backend URL
+
+        // Form submission
+        document.getElementById('symptomForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+
+            // Hide any previous errors
+            hideError();
+
+            // Hide previous results
+            document.getElementById('resultCard').classList.remove('show');
+
+            // Show loading
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('loading').classList.add('show');
+
+            // Collect form data
+            const formData = {
+                name: document.getElementById('name').value.trim(),
+                species: document.getElementById('species').value,
+                breed: document.getElementById('breed').value.trim() || 'Mixed',
+                age: document.getElementById('age').value.trim() || 'Unknown',
+                weight: document.getElementById('weight').value.trim() || 'Unknown',
+                sex: document.getElementById('sex').value || 'Unknown',
+                vaccination_summary: document.getElementById('vaccination_summary').value.trim() || 'Not provided',
+                medical_history: document.getElementById('medical_history').value.trim() || 'No history provided',
+                query: document.getElementById('query').value.trim()
+            };
+
+            try {
+                // Call API
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(formData)
+                });
+
+                const result = await response.json();
+
+                if (!response.ok || !result.success) {
+                    throw new Error(result.error || 'Failed to analyze symptoms');
+                }
+
+                // Display results
+                displayResults(result.data);
+
+            } catch (error) {
+                showError(error.message || 'Failed to connect to the API. Please check if the backend server is running.');
+            } finally {
+                // Hide loading
+                document.getElementById('loading').classList.remove('show');
+                document.getElementById('submitBtn').disabled = false;
+            }
+        });
+
+        function displayResults(data) {
+            // Pet name
+            document.getElementById('petNameResult').textContent = `For: ${data.pet_name}`;
+
+            // Summary
+            document.getElementById('summaryText').textContent = data.summary;
+
+            // What we found
+            document.getElementById('whatWeFoundText').textContent = data.what_we_found;
+
+            // Immediate steps
+            const immediateStepsList = document.getElementById('immediateStepsList');
+            immediateStepsList.innerHTML = '';
+            data.immediate_steps.forEach(step => {
+                const li = document.createElement('li');
+                li.textContent = step;
+                immediateStepsList.appendChild(li);
+            });
+
+            // Home care tips
+            const homeCareTipsList = document.getElementById('homeCareTipsList');
+            homeCareTipsList.innerHTML = '';
+            data.home_care_tips.forEach(tip => {
+                const li = document.createElement('li');
+                li.textContent = tip;
+                homeCareTipsList.appendChild(li);
+            });
+
+            // When to see vet
+            document.getElementById('whenToSeeVetText').textContent = data.when_to_see_vet;
+
+            // Urgency badge
+            const urgencyBadge = document.getElementById('urgencyBadge');
+            urgencyBadge.textContent = data.urgency_level.toUpperCase();
+            urgencyBadge.className = 'urgency-badge urgency-' + data.urgency_level;
+
+            // Confidence badge
+            const confidenceBadge = document.getElementById('confidenceBadge');
+            confidenceBadge.textContent = 'Confidence: ' + data.confidence.toUpperCase();
+
+            // Service recommendation
+            document.getElementById('serviceRecommendation').textContent =
+                data.service_recommendation.replace('_', ' ').toUpperCase();
+
+            // Additional notes
+            if (data.additional_notes && data.additional_notes.trim()) {
+                document.getElementById('additionalNotesText').textContent = data.additional_notes;
+                document.getElementById('additionalNotesSection').style.display = 'block';
+            } else {
+                document.getElementById('additionalNotesSection').style.display = 'none';
+            }
+
+            // Show results
+            document.getElementById('resultCard').classList.add('show');
+
+            // Scroll to results
+            document.getElementById('resultCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function showError(message) {
+            const errorAlert = document.getElementById('errorAlert');
+            errorAlert.textContent = '❌ Error: ' + message;
+            errorAlert.classList.add('show');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        function hideError() {
+            document.getElementById('errorAlert').classList.remove('show');
+        }
+    </script>
+</body>
+</html>
